@@ -1,0 +1,208 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.9",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Taking the Three Refuges",
+  "children": [
+    {
+      "type": "aside",
+      "html": "Repeat, after the leader has chanted the first three lines"
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammāsambuddhassa"
+        },
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammāsambuddhassa"
+        },
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammāsambuddhassa"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Homage to the Blessed, Noble, and Perfectly Enlightened One."
+        },
+        {
+          "type": "verse",
+          "html": "Homage to the Blessed, Noble, and Perfectly Enlightened One."
+        },
+        {
+          "type": "verse",
+          "html": "Homage to the Blessed, Noble, and Perfectly Enlightened One."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "To the Buddha I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "To the Dhamma I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "To the Saṅgha I go for refuge."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dutiyampi buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dutiyampi dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dutiyampi saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For the second time, to the Buddha I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "For the second time, to the Dhamma I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "For the second time, to the Saṅgha I go for refuge."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tatiyampi buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Tatiyampi dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Tatiyampi saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For the third time, to the Buddha I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "For the third time, to the Dhamma I go for refuge."
+        },
+        {
+          "type": "verse",
+          "html": "For the third time, to the Saṅgha I go for refuge."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Leader:"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Tisaraṇa-gamanaṃ niṭṭhitaṃ ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This completes the going to the Three Refuges."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Response:"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Āma bhante / Āma ayye / Āma mitta"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Yes, Venerable Sir/Sister/Friend."
+        }
+      ]
+    }
+  ]
+}

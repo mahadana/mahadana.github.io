@@ -1,0 +1,386 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 3,
+  "id": "ccb-2.3.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Dhamma-saṅgaṇī-mātikā",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kusalā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Akusalā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Abyākatā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sukhāya vedanāya sampayuttā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Dukkhāya vedanāya sampayuttā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Adukkhamasukhāya vedanāya sampayuttā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vipākā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Vipāka-dhamma-dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "N’eva vipāka na vipāka-dhamma-dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Upādinn’upādāniyā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anupādinn’upādāniyā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anupādinnānupādāniyā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saṅkiliṭṭha-saṅkilesikā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Asaṅkiliṭṭha-saṅkilesikā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Asaṅkiliṭṭhāsaṅkilesikā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Savitakka-savicārā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Avitakka-vicāra-mattā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Avitakkāvicārā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Pīti-saha-gatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Sukha-saha-gatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Upekkhā-saha-gatā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dassanena pahātabbā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Bhāvanāya pahātabbā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "N’eva dassanena na bhāvanāya pahātabbā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dassanena pahātabba-hetukā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Bhāvanāya pahātabba-hetukā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "N’eva dassanena na bhāvanāya pahātabba-hetukā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ācaya-gāmino dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Apacaya-gāmino dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "N’evācaya-gāmino nāpacaya-gāmino dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sekkhā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Asekkhā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "N’eva sekkhā nāsekkhā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Parittā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Mahaggatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Appamāṇā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Paritt’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Mahaggat’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Appamāṇ’ārammaṇā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Hīnā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Majjhimā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Paṇītā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Micchatta-niyatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Sammatta-niyatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Aniyatā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Magg’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Magga-hetukā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Maggādhipatino dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Uppannā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anuppannā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Uppādino dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Atītā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anāgatā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Paccuppannā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Atīt’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anāgat’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Paccuppann’ārammaṇā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ajjhattā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Bahiddhā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Ajjhatta-bahiddhā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ajjhatt’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Bahiddh’ārammaṇā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Ajjhatta-bahiddh’ārammaṇā dhammā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sanidassana-sappaṭighā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anidassana-sappaṭighā dhammā"
+        },
+        {
+          "type": "verse",
+          "html": "Anidassanāppaṭighā dhammā"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.12",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Reflection on the Thirty-Two Parts",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ dvattiṃsākāra-pāṭhaṃ bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Ayaṃ kho ] me kāyo uddhaṃ pāda꜕ta꜕lā adho kesamatthakā"
+        },
+        {
+          "type": "verse",
+          "html": "ta꜕ca꜕pa꜕ri꜕yanto pūro nānappa꜕kārassa꜕ a꜕su꜕ci꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, which is my body, from the soles of the feet up, and down from the crown of the head, is a sealed bag of skin filled with unattractive things."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Atthi imasmiṃ kāye"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "In this body there are:"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "center": true,
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "kesā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "hair of the head"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "lomā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "hair of the body"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "nakhā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "nails"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "dantā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "teeth"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "taco"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "skin"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "maṃsaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "flesh"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "nahārū"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "sinews"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "aṭṭhī"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "bones"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "aṭṭhimiñjaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "bone marrow"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "vakkaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "kidneys"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "hadayaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "heart"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "yakanaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "liver"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "kilomakaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "membranes"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "pihakaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "spleen"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "papphāsaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "lungs"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "antaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "bowels"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "antaguṇaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "entrails"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "udariyaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "undigested food"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "karīsaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "excrement"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "pittaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "bile"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "semhaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "phlegm"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "pubbo"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "pus"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "lohitaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "blood"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "sedo"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "sweat"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "medo"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "fat"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "assu"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "tears"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "vasā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "grease"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "kheḷo"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "spittle"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "siṅghāṇikā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "mucus"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "lasikā"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "oil of the joints"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "muttaṃ"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "urine"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "lang": "pi",
+              "html": "matthaluṅgan’ti"
+            },
+            {
+              "type": "verse",
+              "lang": "en",
+              "html": "brain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Evam-ayaṃ me kāyo uddhaṃ pāda꜕ta꜕lā adho kesamatthakā"
+        },
+        {
+          "type": "verse",
+          "html": "ta꜕ca꜕pa꜕ri꜕yanto pūro nānappa꜕kārassa꜕ a꜕su꜕ci꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, then, which is my body, from the soles of the feet up, and down from the crown of the head, is a sealed bag of skin filled with unattractive things."
+        }
+      ]
+    }
+  ]
+}

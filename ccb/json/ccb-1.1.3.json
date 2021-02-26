@@ -1,0 +1,307 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 1,
+  "id": "ccb-1.1.3",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Homage to the Buddha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ buddhābhi꜕tthu꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "en",
+          "html": "[ No꜓w let us chant in praise of the Bu꜕ddha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo so tathā꜓ga꜕to a꜕rahaṃ sammāsambuddho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Tathāga꜕ta is the Pu꜓re One, the꜕ Perfectly Enli꜓ghtened One."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vijjāca꜕raṇa꜓-sampanno"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He is i꜕mpeccable i꜕n conduct and u꜕ndersta꜓nding,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Su꜕ga꜕to"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The A꜕cco꜓mplished One,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Loka꜕vi꜓dū"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Knower o꜓f the꜕ Worlds."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anu꜓tta꜕ro purisa꜕damma-sārathi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He trains perfectly tho꜕se who wi꜓sh to꜓ be꜕ trained."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Satthā deva-ma꜕nussānaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He is Teacher of go꜓ds and hu꜕mans."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Buddho bha꜕gavā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He is awake and ho꜕ly."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo imaṃ lokaṃ sa꜕devakaṃ sa꜕mārakaṃ sa꜕brahma꜕kaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "In this world with i꜕ts gods, demons, a꜕nd kind spi꜓rits,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sassa꜓maṇa-brāhmaṇiṃ pa꜕jaṃ sa꜕deva-ma꜕nussa꜓ṃ sa꜕yaṃ a꜕bhiññā sacchika꜕tv꜓ā pa꜕vedesi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Its se꜓ekers and sa꜕ges, ce꜕lestial and hu꜕ma꜓n beings, he has by"
+        },
+        {
+          "type": "verse",
+          "html": "de꜕ep insight reve꜓aled the꜕ Truth."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yo dhammaṃ dese꜓si ā꜕di꜓-kalyāṇaṃ majjhe꜓-ka꜕lyāṇaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "pa꜕riyosāna-k꜕alyāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "He has pointed out the Dha꜕mma: beautiful in the begi꜕nning,"
+        },
+        {
+          "type": "verse",
+          "html": "beautiful in the mi꜓ddle, beautiful i꜕n the꜓ end."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sāttha꜓ṃ sa꜕byañjanaṃ kevala-pa꜕ripuṇṇaṃ pa꜕risuddhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "brahma-ca꜕ri꜓yaṃ pa꜕kāsesi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "He has explained the Spi꜓ri꜓tu꜕al Life of co꜕mplete pu꜓rity in its"
+        },
+        {
+          "type": "verse",
+          "html": "e꜓ssence and conve꜕ntions."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tam-aha꜓ṃ bha꜕gavantaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ bha꜕gavantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "si꜕rasā꜓ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "I chant m꜕y praise to꜕ the Ble꜓ssed One, I bow m꜕y head to꜕"
+        },
+        {
+          "type": "verse",
+          "html": "the꜓ Ble꜓ssed One."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

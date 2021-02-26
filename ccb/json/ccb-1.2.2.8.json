@@ -1,0 +1,117 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.8",
+  "type": "chant",
+  "lang": "en",
+  "title": "Supreme Praise of the Saṅgha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the supreme praise of the Sa꜕ṅgha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>Born</u> o꜕f the Dha꜓mma, tha꜕t Saṅgha which has pra꜓cti꜕sed well,"
+        },
+        {
+          "type": "verse",
+          "html": "The field of the꜕ Saṅgha formed o꜕f <u>eight</u> kinds of no꜓ble꜕ beings,"
+        },
+        {
+          "type": "verse",
+          "html": "Guided in body a꜕nd <u>mind</u> b꜕y excellent mora꜓lity and vi꜕rtue."
+        },
+        {
+          "type": "verse",
+          "html": "I revere that a꜕ssembly of no꜓ble beings pe꜕rfected in pu꜕rity."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Saṅgha, which is the su꜕preme, se꜕cure re꜓fuge of al꜖l beings —"
+        },
+        {
+          "type": "verse",
+          "html": "As the꜕ Third Object of Re꜕colle꜓ction, I꜕ venerate it with bo꜓wed head."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "I am indeed the Saṅgha’s se꜕rvant, the꜕ Saṅgha is my Lo꜓rd a꜕nd Guide."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Saṅgha is sorrow’s destro꜕yer and it bestows ble꜓ssi꜓ngs o꜕n me."
+        },
+        {
+          "type": "verse",
+          "html": "To the꜕ Saṅgha I de꜓dicate this bo꜕dy꜕ and life,"
+        },
+        {
+          "type": "verse",
+          "html": "And in de꜕votion I wi꜕ll <u>walk</u> the well-practised wa꜓y of the꜕ Sa꜕ṅgha."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other re꜕fuge, the꜕ Saṅgha is my e꜓xcelle꜕nt re꜕fuge."
+        },
+        {
+          "type": "verse",
+          "html": "By the꜕ utterance of thi꜕s <u>Truth</u>, may I grow in the Ma꜓ste꜕r’s Way."
+        },
+        {
+          "type": "verse",
+          "html": "By my de꜕votion to the Sa꜕ṅgha, and the꜕ blessing o꜕f this pra꜓ctice —"
+        },
+        {
+          "type": "verse",
+          "html": "By i꜕ts power, may a꜕ll obstacles be o꜓ve꜕rcome."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "By body, speech, o꜕r mind,"
+        },
+        {
+          "type": "verse",
+          "html": "For whatever wro꜕ng action I have co꜕mmitted towards the Sa꜕ṅgha,"
+        },
+        {
+          "type": "verse",
+          "html": "May my a꜕cknowledgement of fault be acce꜓pted,"
+        },
+        {
+          "type": "verse",
+          "html": "That i꜕n future there may be re꜕straint regarding the Sa꜕ṅgha."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "At this time meditation is practised in silence, sometimes followed by a Dhamma talk, and ending with the following:"
+    }
+  ]
+}

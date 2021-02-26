@@ -1,0 +1,807 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.27",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "The Teaching on Striving According to Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Handa mayaṃ dhamma-pahaṃsāna-pāṭham bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ svā꜕kkhāto bhi꜓kkh꜕ave mayā dhammo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, th꜕e Dhamma has thus been we꜕ll expo꜓unded by me,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Uttāno"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Elu꜕ci꜕da꜕ted,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓va꜕ṭo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Di꜕sclosed,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕kāsi꜓to"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Re꜕vealed,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Chi꜓nna-pi꜕loti꜓ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "An꜕d str꜕ipped o꜕f pa꜕tchwork —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Alam-eva sa꜕ddhā-pa꜕bbaj꜓itena kula-pu꜕ttena vī꜓riyaṃ ā꜕rabh꜕ituṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This is enou꜕gh fo꜕r a꜕ cl꜕ansman, who has go꜕ne forth out o꜕f faith, to arou꜕se h꜕is e꜓ne꜓rgy꜕ thus:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kāmaṃ ta꜕co ca nahā꜓ru c꜕a aṭṭhi c꜕a a꜕vasi꜓ss꜕atu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "‘Willingly let o꜕nly꜕ my꜕ skin, si꜕ne꜕ws a꜕nd bo꜕nes re꜕main,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕rīre u꜕pasuss꜓atu maṃsa꜕-lohi꜕taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And let th꜓e flesh and blo꜕od i꜕n th꜕is bo꜕dy wi꜕th꜕er a꜕way."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yaṃ taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "As long as whate꜕ve꜕r i꜕s t꜕o b꜕e a꜕ttained"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pu꜕risa-thāmena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "By huma꜓n strength,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pu꜕risa-vī꜓riyena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "By human e꜓ne꜕rgy,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pu꜕risa-pa꜕rakk꜕amena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "B꜕y hu꜕ma꜕n e꜕ffort,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕tta꜕bbaṃ na taṃ a꜕pāpu꜕ṇitvā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Has not be꜓en a꜕ttained,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vī꜓riyassa sa꜓ṇṭhānaṃ bha꜕vissa꜕tī’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Let no꜕t m꜕y e꜕ff꜕orts st꜕and still.’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkhaṃ bhi꜓kkh꜕ave kusī꜓to vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, the laz꜓y person dwe꜕lls i꜕n su꜓ffe꜕ring,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Voki꜕ṇṇo pāpa꜕kehi a꜕ku꜕saleh꜕i dhammehi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Soiled by e꜕vi꜕l, u꜕nwho꜕leso꜕me states"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Maha꜓ntañca sa꜕da꜕tthaṃ pa꜕ri꜓hāpeti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And great is th꜓e personal go꜕od tha꜕t h꜕e ne꜕glects."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Āraddha-vī꜓riyo c꜕a kho bhi꜓kkh꜕ave su꜕khaṃ vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The ene꜓rgetic pe꜕rs꜕on tho꜕ugh dw꜕ells ha꜕ppi꜕ly,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕vivitto pāpa꜕keh꜕i a꜕ku꜕saleh꜕i dhammehi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Well withdrawn from unwho꜓leso꜕me states"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Maha꜓ntañca sa꜕da꜕tthaṃ pa꜕ri꜓pūreti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And great is th꜓e personal go꜕od tha꜕t h꜕e a꜕chieves."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Na bhi꜓kkh꜕ave hī꜕nena a꜕gga꜕ssa꜕ pa꜕tt꜓i hoti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, it i꜓s not by lo꜕we꜕r means that the supre꜕me i꜕s a꜕ttained"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Aggena ca kho bhi꜓kkh꜕ave a꜕gga꜕ssa꜕ pa꜕tt꜓i hoti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "But, bhikkhus, it is by th꜓e su꜕preme that the supre꜕me i꜕s a꜕ttained."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Maṇḍape꜓yyam-i꜓daṃ bhi꜓kkh꜕ave brahmaca꜕ri꜓yaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, this h꜓ol꜕y life is like the cre꜕am o꜕f t꜕he milk:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Satthā sammukhī꜓-bhū꜕to"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Te꜕ach꜕er i꜕s pr꜕esent,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Tasmāti꜕ha bhi꜓kkh꜕ave vī꜓riyaṃ ārabha꜕tha"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Therefore, bh꜕ikkhus, sta꜕rt t꜕o a꜕rou꜕se your e꜓ne꜕rgy"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕ppa꜕tta꜕ssa꜕ pa꜕tt꜓iyā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "For the a꜓ttainment of the as ye꜕t u꜕na꜕ttained,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anadhi꜓ga꜕tassa a꜕dhiga꜕māya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "For the a꜓chievement of the as ye꜕t u꜕na꜕chieved,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Asa꜕cchi꜕ka꜕tassa sa꜕cchi꜕ki꜕ri꜓yāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "For the reali꜓zation of the as ye꜕t u꜕nre꜕alized."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ no ayaṃ amhākaṃ pa꜕bb꜕ajjā a꜕vaṅka꜕tā a꜕vañjhā bha꜕vi꜓ssati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Thinking, in su꜕ch a꜕ way: ‘Our Go꜓i꜕ng Forth will no꜕t b꜕e ba꜕rren"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕phalā s꜕a-u꜕dra꜓yā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "But will be꜓come fru꜕itfu꜕l an꜕d fe꜕rtile,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yesa꜓ṃ mayaṃ pa꜕ribhuñjāma cīva꜓ra-piṇḍa꜕pāta-se꜓nāsana-"
+        },
+        {
+          "type": "verse",
+          "html": "gi꜓lānappa꜕ccaya-bhesa꜕jja-parikkhā꜓raṃ tesaṃ te kārā a꜕mhesu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And all our us꜕e o꜕f robes, a꜕lmsfood, l꜕odgings, and medici꜕nal re꜓qui꜕sites, given by o꜕th꜕ers fo꜕r ou꜕r su꜕pport,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ma꜕happh꜕alā bhavissanti ma꜕hāni꜕sa꜓ṃsā’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Will rewa꜕rd th꜕em wi꜕th gre꜕at fruit and great be꜓ne꜕fit.’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ hi꜕ vo bhi꜓kkh꜕ave si꜕kkh꜕it꜕abbaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, you should tra꜕in yo꜕urse꜕lves thus:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕tt’atthaṃ vā hi bhi꜓kk꜕have sa꜓mpassa꜕mānena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Co꜓nsidering your ow꜕n good,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕lam-eva a꜕ppamādena sa꜓mpādetuṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is e꜓nough to str꜕ive fo꜕r th꜕e go꜕al wi꜕tho꜕ut ne꜕gligence;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕r’atthaṃ vā hi bhi꜓kkh꜕ave sa꜓mpass꜕amānena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, co꜓nsidering the go꜕od o꜕f o꜕thers,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕lam-eva a꜕ppamādena sa꜓mpāde꜕tuṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is e꜓nough to str꜕ive fo꜕r th꜕e go꜕al wi꜕tho꜕ut ne꜕gligence;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕bhay’atthaṃ vā hi bhi꜓kkh꜕ave sa꜓mpassa꜕mānena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, co꜓nsidering the go꜕od o꜕f both,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Alam-eva a꜕ppamādena sa꜓mpāde꜕tun’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is e꜓nough to str꜕ive fo꜕r th꜕e go꜕al wi꜕tho꜕ut ne꜕gligence."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.11",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Khandha-parittaṃ",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Virūpakkhehi me mettaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mettaṃ erāpathehi me"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Chabyā-puttehi me mettaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mettaṃ kaṇhā-gotamakehi ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Apādakehi me mettaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mettaṃ dipādakehi me"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Catuppadehi me mettaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mettaṃ bahuppadehi me"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mā maṃ apādako hiṃsi"
+            },
+            {
+              "type": "verse",
+              "html": "mā maṃ hiṃsi dipādako"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mā maṃ catuppado hiṃsi"
+            },
+            {
+              "type": "verse",
+              "html": "mā maṃ hiṃsi bahuppado"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe sattā sabbe pāṇā"
+            },
+            {
+              "type": "verse",
+              "html": "sabbe bhūtā ca kevalā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe bhadrāni passantu"
+            },
+            {
+              "type": "verse",
+              "html": "mā kiñci pāpam-āgamā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Appamāṇo buddho"
+            },
+            {
+              "type": "verse",
+              "html": "appamāṇo dhammo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Appamāṇo saṅgho"
+            },
+            {
+              "type": "verse",
+              "html": "pamāṇavantāni siriṃsapāni"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ahi-vicchikā sata-padī"
+            },
+            {
+              "type": "verse",
+              "html": "uṇṇā-nābhī sarabhū mūsikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Katā me rakkhā katā me parittā"
+            },
+            {
+              "type": "verse",
+              "html": "paṭikkamantu bhūtāni"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "So’haṃ namo bhagavato"
+            },
+            {
+              "type": "verse",
+              "html": "namo sattannaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sammā-sambuddhānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

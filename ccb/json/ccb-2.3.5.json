@@ -1,0 +1,33 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 3,
+  "id": "ccb-2.3.5",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Paṃsu-kūla for the living",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aciraṃ vat’ayaṃ kāyo"
+        },
+        {
+          "type": "verse",
+          "html": "Paṭhaviṃ adhisessati"
+        },
+        {
+          "type": "verse",
+          "html": "Chuddho apeta-viññāṇo"
+        },
+        {
+          "type": "verse",
+          "html": "Niratthaṃ va kaliṅgaraṃ"
+        }
+      ]
+    }
+  ]
+}

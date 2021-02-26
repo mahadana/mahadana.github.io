@@ -1,0 +1,1043 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.24",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "The Teaching on Mindfulness of Breathing",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayam ānāpānass꜕ati-sutta-pāṭhaṃ bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ānāpāna꜓ssa꜕ti bhi꜓kkha꜕ve bhāvi꜓tā bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, wh꜕en mindfulness of bre꜓athing is de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mahappha꜕lā ho꜓ti mahā꜓nisa꜓ṃsā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is of gre꜕at fruit and great be꜕nefit;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ānāpāna꜓ssa꜕ti bhi꜓kkha꜕ve bhāvi꜓tā bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Wh꜕en mindfulness of bre꜓athing is de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ca꜕ttāro sati꜓pa꜕ṭṭhāne pa꜕ri꜓pū꜕reti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It fu꜕lfills the Four Foundations of Mi꜕ndfu꜕lness;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ca꜕ttāro sa꜕tipa꜕ṭṭhānā bhāvi꜓tā bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "When th꜕e Four Foundations of Mi꜓ndfulness are de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕tta-bojjhaṅge pa꜕ri꜓pū꜕renti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "They fu꜕lfill the Seven Factors of Awa꜕kening;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕tta-bojjhaṅgā bhāvi꜓tā bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "When th꜕e Seven Factors of Awa꜓kening are de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vijjā-vimuttiṃ pa꜕ri꜓pū꜕renti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "They fu꜕lfill true knowledge and deli꜕verance."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kathaṃ bhāvi꜓tā ca bhi꜓kkha꜕ve ānāpāna꜓ss꜕ati ka꜕thaṃ bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "An꜕d how, bhikkhus, is mindfulness of bre꜓athing de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mahappha꜕lā ho꜓ti mahā꜓nisa꜓ṃsā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So that it is of gre꜕at fruit and great be꜕nefit?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha bhi꜓kkha꜕ve bhikkhu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Here, bhikkhus, a bhi꜕kkhu,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Arañña꜓-ga꜕to vā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Gone to꜕ the fo꜓rest,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rukkha-mūla꜓-ga꜕to vā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To the fo꜕ot o꜕f a꜕ tree"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Suññāgāra꜓-ga꜕to vā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Or to an em꜓pty꜕ hut."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "N꜕isīdati pallaṅkaṃ ābhuji꜓tv꜕ā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Si꜕ts down having cro꜕ssed hi꜕s legs,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ujuṃ kāyaṃ pa꜕ṇidhāya pa꜕rimukhaṃ sa꜕tiṃ u꜕paṭṭha꜕petvā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Sets his bo꜕dy꜕ e꜕rect, having established mi꜓ndfulness in fro꜕nt o꜕f him."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "So sa꜕to’va a꜕ssasa꜕ti sa꜕to’va pa꜕ssa꜕sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ever mi꜓ndful he bre꜕athes in; mindful h꜕e bre꜕athes out."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dīghaṃ vā assa꜕sa꜓nto dīghaṃ a꜕ssasā꜓mī’ti pa꜕jānāti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Breathing i꜓n long, he꜕ knows ‘I bre꜕athe i꜕n long’;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dīghaṃ vā pa꜕ssa꜕santo dīghaṃ pa꜕ssasā꜓mī’ti pa꜕jānāti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Breathing ou꜕t long, he꜕ knows ‘I bre꜕athe ou꜕t long’;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rassaṃ vā a꜕ssa꜕santo rassaṃ a꜕ssasā꜓mī’ti pa꜕jānāti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Breathing i꜓n short, h꜕e knows ‘I bre꜕athe i꜕n short’;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rassaṃ vā pa꜕ssa꜕santo rassaṃ pa꜕ssasā꜓mī’ti pa꜕jānāti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Breathing ou꜕t short, h꜕e knows ‘I bre꜕athe ou꜕t short’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sabba꜕-kāya-paṭ꜕isa꜓ṃvedī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n experiencing the whole bo꜕dy’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sabba꜕-kāya-paṭ꜕isa꜓ṃvedī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t e꜕xpe꜕ri꜕enci꜕ng th꜕e who꜕le bo꜕dy’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Passa꜕mbhayaṃ kāya꜕-sa꜓ṅkhāraṃ a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n tranquillizing the bodily forma꜕tions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Passa꜕mbhayaṃ kāya꜕-sa꜓ṅkhāraṃ pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t tra꜕nqui꜕ll꜕izi꜕ng th꜕e bo꜕dily fo꜕rmations’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pīti꜕-paṭi꜕sa꜓ṃvedī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n experiencing ra꜕pture’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pīti꜕-paṭi꜕sa꜓ṃvedī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t e꜕xpe꜕ri꜕enci꜕ng ra꜕pture’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sukh꜕a-paṭi꜕sa꜓ṃvedī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n experiencing ple꜕asure’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sukh꜕a-paṭi꜕sa꜓ṃvedī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t e꜕xpe꜕ri꜕enci꜕ng ple꜕asure’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Citta꜕-sa꜓ṅkhāra-paṭi꜕sa꜓ṃvedī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n experiencing the mental forma꜕tions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Citta꜕-sa꜓ṅkhāra-paṭi꜕sa꜓ṃvedī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t e꜕xpe꜕ri꜕enci꜕ng th꜕e me꜕nta꜕l fo꜕rma꜕tions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Passa꜕mbhayaṃ citta꜕-sa꜓ṅkhāraṃ a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n tranquillizing the mental forma꜕tions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Passa꜕mbhayaṃ citt꜕a-sa꜓ṅkhāraṃ pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t tra꜕nqu꜕ill꜕izi꜕ng th꜕e me꜕nta꜕l fo꜕rma꜕tions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Citta꜕-paṭi꜕sa꜓ṃvedī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n experiencing th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Citta꜕-paṭi꜕sa꜓ṃvedī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t e꜕xpe꜕ri꜕enci꜕ng th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕bhippa꜕moda꜓yaṃ cittaṃ a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n gladdening th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕bhippa꜕moda꜓yaṃ cittaṃ pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t gl꜕adde꜕ni꜕ng th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕māda꜓haṃ cittaṃ a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n concentrating th꜕e mind’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕māda꜓haṃ cittaṃ pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t co꜕nce꜕ntr꜕ati꜕ng th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vimoca꜓yaṃ cittaṃ a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n liberating th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vimoca꜓yaṃ cittaṃ pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t li꜕be꜕ra꜕ti꜕ng th꜕e mind’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Aniccānupa꜕ssī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n contemplating impe꜕rmanence’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Aniccānupa꜕ssī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t co꜕nte꜕mpla꜕ti꜕ng i꜕mpe꜕rmanence’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Virāgānupa꜕ssī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n contemplating the fading away of pa꜕ssions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Virāgānupa꜕ssī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t co꜕nte꜕mpl꜕ati꜕ng th꜕e fa꜕di꜕ng aw꜕ay o꜕f pa꜕ssions’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nirodhānupa꜕ssī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n contemplating cessa꜕tion’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nirodhānupa꜕ssī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t co꜕nte꜕mpl꜕ati꜕ng ce꜕ss꜕ation’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕ṭiniss꜕aggānupa꜕ssī a꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe i꜓n contemplating reli꜕nquishment’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕ṭinissa꜕ggānupa꜕ssī pa꜕ssasi꜕ssāmī’ti si꜕kkh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He tra꜕ins thus: ‘I shall breathe ou꜕t co꜕nte꜕mpl꜕ati꜕ng re꜕li꜕nquishment’."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ bhāvi꜓tā kho bhi꜓kkha꜕ve ānāpāna꜓ss꜕ati evaṃ bahu꜕līka꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, that is ho꜕w mindfulness of bre꜓athing is de꜕veloped and cu꜕ltiva꜓ted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mahappha꜕lā ho꜓ti mahā꜓nisa꜓ṃsā’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So that it is of gr꜕eat fruit and great be꜕nefit."
+        }
+      ]
+    }
+  ]
+}

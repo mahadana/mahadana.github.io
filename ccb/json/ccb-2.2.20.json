@@ -1,0 +1,238 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.20",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Bojjh’aṅga-parittaṃ",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Bojjh’aṅgo sati-saṅkhāto"
+            },
+            {
+              "type": "verse",
+              "html": "dhammānaṃ vicayo tathā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Viriyam-pīti-passaddhi"
+            },
+            {
+              "type": "verse",
+              "html": "bojjh’aṅgā ca tathā’pare"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Samādh’upekkha-bojjh’aṅgā"
+            },
+            {
+              "type": "verse",
+              "html": "satt’ete sabba-dassinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Muninā sammad-akkhātā"
+            },
+            {
+              "type": "verse",
+              "html": "bhāvitā bahulīkatā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Saṃvattanti abhiññāya"
+            },
+            {
+              "type": "verse",
+              "html": "nibbānāya ca bodhiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena sacca-vajjena"
+            },
+            {
+              "type": "verse",
+              "html": "sotthi te hotu sabbadā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ekasmiṃ samaye nātho"
+            },
+            {
+              "type": "verse",
+              "html": "moggallānañ-ca kassapaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Gilāne dukkhite disvā"
+            },
+            {
+              "type": "verse",
+              "html": "bojjh’aṅge satta desayi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Te ca taṃ abhinanditvā"
+            },
+            {
+              "type": "verse",
+              "html": "rogā mucciṃsu taṅ-khaṇe"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena sacca-vajjena"
+            },
+            {
+              "type": "verse",
+              "html": "sotthi te hotu sabbadā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ekadā dhamma-rājā pi"
+            },
+            {
+              "type": "verse",
+              "html": "gelaññenābhipīḷito"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Cundattherena tañ-ñeva"
+            },
+            {
+              "type": "verse",
+              "html": "bhaṇāpetvāna sādaraṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sammoditvā ca ābādhā"
+            },
+            {
+              "type": "verse",
+              "html": "tamhā vuṭṭhāsi ṭhānaso"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena sacca-vajjena"
+            },
+            {
+              "type": "verse",
+              "html": "sotthi te hotu sabbadā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pahīnā te ca ābādhā"
+            },
+            {
+              "type": "verse",
+              "html": "tiṇṇannam-pi mahesinaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Magg’āhata-kilesā va"
+            },
+            {
+              "type": "verse",
+              "html": "pattānuppatti-dhammataṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena sacca-vajjena"
+            },
+            {
+              "type": "verse",
+              "html": "sotthi te hotu sabbadā"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.21",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on the Training Code",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ ovāda-pā꜕ṭi꜕mokkha-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Version One"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bb꜕a-pāpa꜕ss꜕a a꜕ka꜕ra꜓ṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Avoidance of all e꜕vil ways;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ku꜕salassūpasa꜓mpa꜕dā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Commitment to what’s wh꜓olly good;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕ci꜕tta-pa꜕ri꜓yoda꜓pa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Purifica꜕tion of one’s mind:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Etaṃ buddhāna sā꜓sa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Just this is what the Bu꜓ddhas teach."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kha꜓ntī pa꜕ramaṃ ta꜕po tīti꜕kkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Pa꜕tience is the cl꜕eansing flame;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nibbānaṃ pa꜕ramaṃ va꜕dant꜕i buddhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Nibbāna’s supre꜓me, the Bu꜓ddhas say."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Na h꜕i pa꜕bbaji꜕to pa꜕rūpaghātī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ha꜕rming others, you’re n꜓o recluse;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕maṇo ho꜓ti pa꜕raṃ vihe꜓ṭha꜕yanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "A trouble-maker’s no꜕ samana."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕nūpa꜕vādo a꜕nūpa꜕ghāto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To neither insult nor cau꜕se wounds;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pā꜕ṭimokkhe꜓ ca꜕ sa꜓ṃva꜕ro"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To live restrai꜓ned by training rules;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mattaññu꜕tā ca꜕ bhatta꜕smiṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To know what’s eno꜓ugh when taking food;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕ntañca꜕ saya꜓n’āsa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To dw꜕ell alone in a qu꜓iet place;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕dhici꜕tte ca꜕ āyogo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And devo꜕tion to the hi꜓gher mind:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Etaṃ buddhāna sā꜓sa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Every Buddha te꜓aches this."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Version Two"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sabba-pāpa꜕ss꜕a a꜕ka꜕ra꜓ṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not do꜕in꜕g a꜕ny꜕ e꜕vil;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kusalassūpasa꜓mpa꜕dā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To be committed to꜕ th꜕e good;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕citta-pa꜕ri꜓yoda꜓pa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To pu꜕ri꜕fy꜕ on꜕e’s mind:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Etaṃ buddhāna sā꜓sa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "These are th꜓e teachings o꜕f al꜕l Bu꜕ddhas."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kha꜓ntī pa꜕ramaṃ ta꜕po tīti꜕kkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Patient e꜓ndurance is the highest pra꜕cti꜕ce, bu꜕rni꜕ng ou꜕t de꜕fi꜕lements;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nibbānaṃ pa꜕ramaṃ vadant꜕i buddhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Buddha꜓s say Nibbā꜕na꜕ i꜕s su꜕preme."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Na h꜕i pa꜕bbaji꜕to pa꜕rūpaghātī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not a renu꜕nci꜕ant is꜕ on꜕e wh꜕o in꜕ju꜕res o꜕thers;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕maṇo ho꜓ti pa꜕raṃ vihe꜓ṭha꜕yanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Whoever troubl꜓es others ca꜕n’t b꜕e ca꜓lled a꜕ monk."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕nūpa꜕vādo a꜕nūpa꜕ghāto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not to insu꜕lt an꜕d no꜕t t꜕o i꜕njure;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pāṭimokkhe꜓ ca꜕ sa꜓ṃva꜕ro"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To live restrained by tra꜕ini꜕ng rules;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mattaññu꜕tā ca꜕ bhatta꜕smiṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Knowing one’s me꜕asure a꜕t t꜕he meal;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pantañca꜕ saya꜓n’āsa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Retreating to a lo꜓ne꜕ly place;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕dhici꜕tte ca꜕ āyogo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Devoti꜓on to the hi꜕ghe꜕r mind:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Etaṃ buddhāna sā꜓sa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "These are the tea꜕chi꜕ngs o꜕f al꜕l Bu꜕ddhas."
+        }
+      ]
+    }
+  ]
+}

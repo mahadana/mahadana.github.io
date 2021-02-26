@@ -1,0 +1,102 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Dedication of Offerings",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Yo so ] bha꜕gavā a꜕rahaṃ sammāsambuddho"
+        },
+        {
+          "type": "verse",
+          "html": "Svākkhā꜓to yena bha꜕gava꜓tā dhammo"
+        },
+        {
+          "type": "verse",
+          "html": "Supaṭi꜕panno yassa bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Tam-ma꜓yaṃ bha꜕gavantaṃ sa꜕dhammaṃ sa꜕saṅghaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Imehi꜓ sakkārehi꜕ yathārahaṃ āropi꜕tehi a꜕bhi꜓pūja꜕yāma"
+        },
+        {
+          "type": "verse",
+          "html": "Sādhu꜓ no bhante bha꜕gavā su꜕cira-parinibbu꜕topi"
+        },
+        {
+          "type": "verse",
+          "html": "Pacchi꜓mā-ja꜕na꜓tānu꜓kampa꜕-mānasā"
+        },
+        {
+          "type": "verse",
+          "html": "Ime sakkāre dugga꜕ta꜕-paṇṇākāra꜓-bhūte pa꜕ṭiggaṇhātu"
+        },
+        {
+          "type": "verse",
+          "html": "Amhā꜓kaṃ dīgha꜕rattaṃ hi꜕tāya su꜕khāya"
+        },
+        {
+          "type": "verse",
+          "html": "Arahaṃ sammāsambuddho bha꜕gavā"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhaṃ bha꜕gavantaṃ a꜕bhi꜓vādemi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Svākkhā꜓to ] bha꜕gava꜓tā dhammo"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ namassāmi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Supaṭi꜕panno ] bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅghaṃ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

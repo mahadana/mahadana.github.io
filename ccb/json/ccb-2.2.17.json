@@ -1,0 +1,34 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.17",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Aṅguli-māla-parittaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yato’haṃ bhagini ariyāya jātiyā jāto"
+        },
+        {
+          "type": "verse",
+          "html": "Nābhijānāmi sañcicca pāṇaṃ jīvitā voropetā"
+        },
+        {
+          "type": "verse",
+          "html": "Tena saccena sotthi te hotu sotthi gabbhassa"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Three times"
+    }
+  ]
+}

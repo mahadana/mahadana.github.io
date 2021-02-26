@@ -1,0 +1,222 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.7",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Maṅgala-sutta",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Asevanā ca bālānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Paṇḍitānañ-ca sevanā"
+        },
+        {
+          "type": "verse",
+          "html": "Pūjā ca pūjanīyānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Paṭirūpa-desa-vāso ca"
+        },
+        {
+          "type": "verse",
+          "html": "Pubbe ca kata-puññatā"
+        },
+        {
+          "type": "verse",
+          "html": "Atta-sammā-paṇidhi ca"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bāhu-saccañ-ca sippañ-ca,"
+        },
+        {
+          "type": "verse",
+          "html": "Vinayo ca susikkhito"
+        },
+        {
+          "type": "verse",
+          "html": "Subhāsitā ca yā vācā"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Mātā-pitu-upaṭṭhānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Putta-dārassa saṅgaho"
+        },
+        {
+          "type": "verse",
+          "html": "Anākulā ca kammantā"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dānañ-ca dhamma-cariyā ca"
+        },
+        {
+          "type": "verse",
+          "html": "Ñātakānañ-ca saṅgaho"
+        },
+        {
+          "type": "verse",
+          "html": "Anavajjāni kammāni"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Gāravo ca nivāto ca"
+        },
+        {
+          "type": "verse",
+          "html": "Santuṭṭhī ca kataññutā"
+        },
+        {
+          "type": "verse",
+          "html": "Kālena dhammassavanaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Khantī ca sovacassatā"
+        },
+        {
+          "type": "verse",
+          "html": "Samaṇānañ-ca dassanaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Kālena dhamma-sākacchā"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tapo ca brahma-cariyañ-ca"
+        },
+        {
+          "type": "verse",
+          "html": "Ariya-saccāna-dassanaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Nibbāna-sacchikiriyā ca"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Phuṭṭhassa loka-dhammehi"
+        },
+        {
+          "type": "verse",
+          "html": "Cittaṃ yassa na kampati"
+        },
+        {
+          "type": "verse",
+          "html": "Asokaṃ virajaṃ khemaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etam maṅgalam-uttamaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Etādisāni katvāna"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbattham-aparājitā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbattha sotthiṃ gacchanti"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tesaṃ maṅgalam-uttaman’ti"
+        }
+      ]
+    }
+  ]
+}

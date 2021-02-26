@@ -1,0 +1,29 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.2",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Pubba-bhāga-nama-kāra-pāṭho",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammā-sambuddhassa"
+        },
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammā-sambuddhassa"
+        },
+        {
+          "type": "verse",
+          "html": "Namo tassa bhagavato arahato sammā-sambuddhassa"
+        }
+      ]
+    }
+  ]
+}

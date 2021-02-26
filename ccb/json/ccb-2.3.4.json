@@ -1,0 +1,54 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 3,
+  "id": "ccb-2.3.4",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Paṃsu-kūla for the dead",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccā vata saṅkhārā"
+        },
+        {
+          "type": "verse",
+          "html": "Uppāda-vaya-dhammino"
+        },
+        {
+          "type": "verse",
+          "html": "Uppajjitvā nirujjhanti"
+        },
+        {
+          "type": "verse",
+          "html": "Tesaṃ vūpasamo sukho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sabbe sattā maranti ca"
+        },
+        {
+          "type": "verse",
+          "html": "Mariṃsu ca marissare"
+        },
+        {
+          "type": "verse",
+          "html": "Tath’evāhaṃ marissāmi"
+        },
+        {
+          "type": "verse",
+          "html": "N’atthi me ettha saṃsayo"
+        }
+      ]
+    }
+  ]
+}

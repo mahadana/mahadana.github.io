@@ -1,0 +1,180 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.21",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Jaya-maṅgala-aṭṭha-gāthā",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bāhuṃ sahassam-abhinimmita sāvudhan-taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Grīmekhalaṃ udita-ghora-sasena-māraṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dān’ādi-dhamma-vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Mārātirekam-abhiyujjhita-sabba-rattiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ghoram-pan’āḷavakam-akkhama-thaddha-yakkhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Khantī-sudanta-vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Nāḷāgiriṃ gaja-varaṃ atimatta-bhūtaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dāv’aggi-cakkam-asanīva sudāruṇan-taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Mett’ambu-seka-vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ukkhitta-khaggam-atihattha-sudāruṇan-taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhāvan-ti-yojana-path’aṅguli- mālavantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Iddhī’bhisaṅkhata-mano jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Katvāna kaṭṭham-udaraṃ iva gabbhinīyā"
+        },
+        {
+          "type": "verse",
+          "html": "Ciñcāya duṭṭha-vacanaṃ jana-kāya majjhe"
+        },
+        {
+          "type": "verse",
+          "html": "Santena soma-vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saccaṃ vihāya-mati-saccaka-vāda-ketuṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Vādābhiropita-manaṃ ati-andha-bhūtaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Paññā-padīpa-jalito jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Nandopananda-bhujagaṃ vibudhaṃ mah’iddhiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Puttena thera-bhujagena damāpayanto"
+        },
+        {
+          "type": "verse",
+          "html": "Iddhūpadesa-vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Brahmaṃ visuddhi-jutim-iddhi-bakābhidhānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāṇāgadena vidhinā jitavā mun’indo"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā bhavatu te jaya-maṅgalāni"
+        }
+      ]
+    }
+  ]
+}

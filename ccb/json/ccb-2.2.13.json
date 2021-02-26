@@ -1,0 +1,184 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.13",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Mora-parittaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Udet’ayañ-cakkhumā eka-rājā"
+        },
+        {
+          "type": "verse",
+          "html": "Harissa-vaṇṇo paṭhavippabhāso"
+        },
+        {
+          "type": "verse",
+          "html": "Taṃ taṃ namassāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Harissa-vaṇṇaṃ paṭhavippabhāsaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Tay’ajja guttā viharemu divasaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ye brāhmaṇā vedagu sabba-dhamme"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Te me namo"
+            },
+            {
+              "type": "verse",
+              "html": "te ca maṃ pālayantu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nam’atthu buddhānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "nam’atthu bodhiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Namo vimuttānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "namo vimuttiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Imaṃ so parittaṃ katvā"
+            },
+            {
+              "type": "verse",
+              "html": "moro carati esanā ti"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Apet’ayañ-cakkhumā eka-rājā"
+        },
+        {
+          "type": "verse",
+          "html": "Harissa-vaṇṇo paṭhavippabhāso"
+        },
+        {
+          "type": "verse",
+          "html": "Taṃ taṃ namassāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Harissa-vaṇṇaṃ paṭhavippabhāsaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Tay’ajja guttā viharemu rattiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ye brāhmaṇā vedagu sabba-dhamme"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Te me namo"
+            },
+            {
+              "type": "verse",
+              "html": "te ca maṃ pālayantu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nam’atthu buddhānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "nam’atthu bodhiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Namo vimuttānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "namo vimuttiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Imaṃ so parittaṃ katvā"
+            },
+            {
+              "type": "verse",
+              "html": "moro vāsam-akappayī ti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

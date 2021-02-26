@@ -1,0 +1,307 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.17",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on the Three Characteristics",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ ti-lakkhaṇ’ādi-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜓ṅkhā꜓rā a꜕ni꜓ccā’t꜕i"
+        },
+        {
+          "type": "verse",
+          "html": "yadā paññāya꜓ pa꜕ssa꜕ti"
+        },
+        {
+          "type": "verse",
+          "html": "Atha nibbinda꜕ti dukkhe"
+        },
+        {
+          "type": "verse",
+          "html": "esa꜕ maggo vi꜓su꜕ddh꜓iyā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Impermanent are all condi꜕tio꜕ned things’ —"
+        },
+        {
+          "type": "verse",
+          "html": "When with wisdom th꜓is i꜕s seen"
+        },
+        {
+          "type": "verse",
+          "html": "One feels we꜕ary꜕ o꜕f a꜕ll du꜕kkha;"
+        },
+        {
+          "type": "verse",
+          "html": "This is the path to pu꜓r꜕ity."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜓ṅkhā꜓rā du꜕kkhā’t꜕i"
+        },
+        {
+          "type": "verse",
+          "html": "yadā paññāya꜓ pa꜕ssa꜕ti"
+        },
+        {
+          "type": "verse",
+          "html": "Atha nibbinda꜕ti dukkhe"
+        },
+        {
+          "type": "verse",
+          "html": "esa꜕ maggo vi꜓su꜕ddh꜓iyā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Dukkha are all condi꜕tio꜕ned things’ —"
+        },
+        {
+          "type": "verse",
+          "html": "When with wisdom th꜓is i꜕s seen"
+        },
+        {
+          "type": "verse",
+          "html": "One feels we꜕ary꜕ o꜕f a꜕ll du꜕kkha;"
+        },
+        {
+          "type": "verse",
+          "html": "This is the path to pu꜓r꜕ity."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe dhammā ana꜓ttā’ti꜕"
+        },
+        {
+          "type": "verse",
+          "html": "yadā paññāya꜓ pa꜕ssa꜕ti"
+        },
+        {
+          "type": "verse",
+          "html": "Atha nibbinda꜕ti dukkhe"
+        },
+        {
+          "type": "verse",
+          "html": "esa꜕ maggo vi꜓su꜕ddh꜓iyā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘There is no self in a꜕nything’ —"
+        },
+        {
+          "type": "verse",
+          "html": "When with wisdom th꜓is i꜕s seen"
+        },
+        {
+          "type": "verse",
+          "html": "One feels we꜕ary꜕ o꜕f a꜕ll du꜕kkha;"
+        },
+        {
+          "type": "verse",
+          "html": "This is the path to pu꜓ri꜕ty."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕ppa꜕kā te manusse꜓su꜕"
+        },
+        {
+          "type": "verse",
+          "html": "ye janā pāra-gāmi꜓no"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕thāyaṃ i꜕ta꜕rā pajā"
+        },
+        {
+          "type": "verse",
+          "html": "tīram-evānudhā꜓va꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Few amongst huma꜕nkind"
+        },
+        {
+          "type": "verse",
+          "html": "Are those who g꜓o b꜕eyond,"
+        },
+        {
+          "type": "verse",
+          "html": "Yet there are the ma꜕ny folks"
+        },
+        {
+          "type": "verse",
+          "html": "Ever wand’ring o꜕n th꜕is shore."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye ca꜕ kho sammad-akkhāte"
+        },
+        {
+          "type": "verse",
+          "html": "dhamme dhammānuva꜓tt꜕ino"
+        },
+        {
+          "type": "verse",
+          "html": "Te ja꜕nā pā꜕ram-essanti"
+        },
+        {
+          "type": "verse",
+          "html": "ma꜕ccu-dheyyaṃ sudu꜓tta꜕raṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Wherever Dha꜕mm꜕a i꜕s we꜕ll-taught,"
+        },
+        {
+          "type": "verse",
+          "html": "Those who train in li꜓ne wi꜕th it"
+        },
+        {
+          "type": "verse",
+          "html": "Are the ones who wi꜕ll cr꜕oss o꜕ver"
+        },
+        {
+          "type": "verse",
+          "html": "The realm o꜓f death so ha꜕rd t꜕o flee."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kaṇhaṃ dhammaṃ vi꜕ppahā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "su꜕kkaṃ bhāvetha꜕ paṇḍi꜓to"
+        },
+        {
+          "type": "verse",
+          "html": "Okā a꜕noka꜕m-āgamma"
+        },
+        {
+          "type": "verse",
+          "html": "viveke ya꜕tth꜕a dūramaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ta꜕trābh꜕irat꜕im-iccheyya"
+        },
+        {
+          "type": "verse",
+          "html": "hi꜕tvā kāme a꜕kiñc꜓ano"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Abandoning the da꜕rke꜕r states,"
+        },
+        {
+          "type": "verse",
+          "html": "The wise pursu꜓e th꜕e bright;"
+        },
+        {
+          "type": "verse",
+          "html": "From the floo꜕ds dr꜕y la꜕nd th꜕ey reach"
+        },
+        {
+          "type": "verse",
+          "html": "Living wi꜓thdrawn so ha꜕rd t꜕o do."
+        },
+        {
+          "type": "verse",
+          "html": "Such rare de꜓light on꜕e sho꜕uld de꜕si꜕re,"
+        },
+        {
+          "type": "verse",
+          "html": "Sense pleasu꜓res cast awa꜕y,"
+        },
+        {
+          "type": "verse",
+          "html": "No꜕t ha꜕vin꜕g a꜕nything."
+        }
+      ]
+    }
+  ]
+}

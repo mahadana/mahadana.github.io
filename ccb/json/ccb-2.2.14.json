@@ -1,0 +1,134 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.14",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Vaṭṭaka-parittaṃ",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Atthi loke sīla-guṇo"
+            },
+            {
+              "type": "verse",
+              "html": "saccaṃ soceyy’anuddayā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tena saccena kāhāmi"
+            },
+            {
+              "type": "verse",
+              "html": "sacca-kiriyam-anuttaraṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Āvajjitvā dhamma-balaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "saritvā pubbake jine"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sacca-balam-avassāya"
+            },
+            {
+              "type": "verse",
+              "html": "sacca-kiriyam-akās’ahaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Santi pakkhā apattanā"
+            },
+            {
+              "type": "verse",
+              "html": "santi pādā avañcanā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mātā pitā ca nikkhantā"
+            },
+            {
+              "type": "verse",
+              "html": "jāta-veda paṭikkama"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Saha sacce kate mayhaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mahā-pajjalito sikhī"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vajjesi soḷasa karīsāni"
+            },
+            {
+              "type": "verse",
+              "html": "udakaṃ patvā yathā sikhī"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Saccena me samo n’atthi"
+            },
+            {
+              "type": "verse",
+              "html": "esā me sacca-pāramī ti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

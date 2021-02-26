@@ -1,0 +1,364 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.8",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Requesting the Three Refuges & the Eight Precepts",
+  "children": [
+    {
+      "type": "aside",
+      "html": "After bowing three times, with hands joined in añjali, recite the appropriate request."
+    },
+    {
+      "type": "h2",
+      "html": "For a group from a monk"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mayaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi mayaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi mayaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "For oneself from a monk"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ahaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi ahaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi ahaṃ bhante tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "For a group from a nun"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mayaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi mayaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi mayaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "For oneself from a nun"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ahaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi ahaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi ahaṃ ayye tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "For a group from a layperson"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mayaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi mayaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi mayaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "For oneself from a layperson"
+    },
+    {
+      "type": "grid",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ahaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dutiyampi ahaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tatiyampi ahaṃ mitta tisaraṇena sa꜕ha"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭha sī꜓lāni yā꜕cāmi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "html": "Translation"
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "We/I, Venerable Sir/Sister/Friend,"
+        },
+        {
+          "type": "verse",
+          "html": "request the Three Refuges and the Eight Precepts."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For the second time,"
+        },
+        {
+          "type": "verse",
+          "html": "We/I, Venerable Sir/Sister/Friend,"
+        },
+        {
+          "type": "verse",
+          "html": "request the Three Refuges and the Eight Precepts."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For the third time,"
+        },
+        {
+          "type": "verse",
+          "html": "We/I, Venerable Sir/Sister/Friend,"
+        },
+        {
+          "type": "verse",
+          "html": "request the Three Refuges and the Eight Precepts."
+        }
+      ]
+    }
+  ]
+}

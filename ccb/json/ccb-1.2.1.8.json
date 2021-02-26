@@ -1,0 +1,121 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.8",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Supreme Praise of the Saṅgha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ saṅghābhi꜕gī꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕ddhammajo supaṭipatti꜕-gu꜓ṇādi꜕yutto"
+        },
+        {
+          "type": "verse",
+          "html": "Yo’ṭṭhabbi꜕dho ari꜓yapugga꜕la꜓-saṅgha꜕-seṭṭho"
+        },
+        {
+          "type": "verse",
+          "html": "Sī꜓lādi꜕dhamma-pa꜕varāsa꜕ya꜓-kāya꜕-citto"
+        },
+        {
+          "type": "verse",
+          "html": "Vandām’aha꜓ṃ ta꜕m-ari꜕yāna꜕-gaṇa꜓ṃ su꜕suddhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅgho yo sabba꜕-pāṇīnaṃ sa꜕raṇaṃ khema꜕m-utta꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ta꜕tiyānussa꜕tiṭṭhānaṃ vandāmi꜕ taṃ si꜓ren’a꜕haṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saṅghass’ā꜓ha꜕smi dāso/dāsī va saṅgho me sā꜕mi-ki꜓ssaro"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅgho dukkhassa꜕ ghātā ca꜕ vi꜓dhātā ca꜕ hi꜓tassa꜕ me"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅghass’āha꜓ṃ niyyādemi sa꜕rīrañ-jīvi꜕tañ-ci꜕daṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Vandanto’ha꜓ṃ/Vandantī’ha꜓ṃ ca꜕rissāmi saṅghassopa꜕ṭi꜓panna꜕taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Natthi me sa꜕ra꜓ṇaṃ aññaṃ saṅgho me sa꜕ra꜓ṇaṃ va꜕raṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca꜕-vajjena vaḍḍheyyaṃ sa꜕tthu-sā꜓sane"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅghaṃ me vanda꜕mānena/vanda꜕mānāya"
+        },
+        {
+          "type": "verse",
+          "html": "yaṃ puññaṃ pa꜕su꜓taṃ i꜕dha"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbepi anta꜕rāyā me māhe꜓su꜓ṃ ta꜕ssa꜓ teja꜕sā"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kāyena vācāya va ceta꜕sā꜓ vā"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅghe ku꜕kammaṃ pa꜕kataṃ ma꜕yā yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅgho pa꜕ṭiggaṇhā꜕tu acca꜕yantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Kālantare sa꜓ṃvarituṃ va꜕ sa꜓ṅghe"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "At this time meditation is practised in silence, sometimes followed by a Dhamma talk, and ending with the following:"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.16",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Āṭānāṭiya-parittaṃ",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vipassissa nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "cakkhumantassa sirīmato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sikhissa pi nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "sabba-bhūtānukampino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vessabhussa nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "nhātakassa tapassino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nam’atthu kakusandhassa"
+            },
+            {
+              "type": "verse",
+              "html": "māra-senappamaddino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Konāgamanassa nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "brāhmaṇassa vusīmato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Kassapassa nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "vippamuttassa sabbadhi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Aṅgīrasassa nam’atthu"
+            },
+            {
+              "type": "verse",
+              "html": "sakya-puttassa sirīmato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yo imaṃ dhammam-adesesi"
+            },
+            {
+              "type": "verse",
+              "html": "sabba-dukkhāpanūdanaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ye cāpi nibbutā loke"
+            },
+            {
+              "type": "verse",
+              "html": "yathā-bhūtaṃ vipassisuṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Te janā apisuṇā"
+            },
+            {
+              "type": "verse",
+              "html": "mahantā vīta-sāradā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Hitaṃ deva-manussānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "yaṃ namassanti gotamaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vijjā-caraṇa-sampannaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "mahantaṃ vīta-sāradaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vijjā-caraṇa-sampannaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "buddhaṃ vandāma gotaman’ti"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

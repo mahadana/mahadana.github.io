@@ -1,0 +1,203 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.10",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Five Subjects for Frequent Recollection",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ abhiṇha-paccave꜕kkhaṇa-pāṭhaṃ bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Jarā-dhammomhi꜕ ] jaraṃ a꜕na꜕tīto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Jarā-dhammāmhi꜕ ] jaraṃ a꜕na꜕tītā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I am of the nature to꜕ age, I have not go꜓ne beyond a꜕geing."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Byādhi꜓-dhammomhi꜕ byādhiṃ a꜕na꜕tīto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Byādhi꜓-dhammāmhi꜕ byādhiṃ a꜕na꜕tītā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I am of the nature to si꜕cken, I have not go꜓ne beyond si꜕ckness."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ma꜕raṇa-dhammomhi꜕ ma꜕raṇaṃ a꜕na꜕tīto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ma꜕raṇa-dhammāmhi꜕ ma꜕raṇaṃ a꜕na꜕tītā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I am of the nature to꜕ die, I have not go꜓ne beyond d꜕ying."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bbehi me pi꜕yehi ma꜕nāpehi꜕ nānābhāvo vi꜕nābhāvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "All that i꜕s mine, be꜕loved and ple꜓asing,"
+        },
+        {
+          "type": "verse",
+          "html": "will become o꜕therwise, will become se꜓parated fro꜕m me."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kammassa꜕komhi kamma꜓dāyādo kamma꜕yoni kamma꜕bandhu kammapa꜕ṭisa꜓ra꜕ṇo"
+        },
+        {
+          "type": "verse",
+          "html": "Yaṃ kammaṃ ka꜕rissāmi, kalyāṇaṃ vā pāpa꜕kaṃ vā, tassa꜕ dāyādo bha꜕vissāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kammassa꜕kāmhi kamma꜓dāyādā kamma꜕yoni kamma꜕bandhu kammapa꜕ṭisa꜓ra꜕ṇā"
+        },
+        {
+          "type": "verse",
+          "html": "Yaṃ kammaṃ ka꜕rissāmi, kalyāṇaṃ vā pāpa꜕kaṃ vā, tassa꜕ dāyādā bha꜕vissāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "I am the꜕ owner of my ka꜕mma, heir to my ka꜕mma, born of my ka꜕mma,"
+        },
+        {
+          "type": "verse",
+          "html": "related to my ka꜕mma, abide suppo꜓rted by my ka꜕mma."
+        },
+        {
+          "type": "verse",
+          "html": "Whatever kamma I sha꜕ll do, for good or fo꜕r ill, of <u>that</u> I will be꜕ the꜓ heir."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ amhehi꜕ a꜕bhiṇhaṃ pacca꜕vekkhi꜓tabbaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "<u>Thus</u> we sho꜕uld frequently re꜓co꜕llect."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 1,
+  "id": "ccb-1.1.4",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Homage to the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ dhammābhi꜕tthu꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "en",
+          "html": "[ No꜓w let us chant in praise of the Dha꜕mma. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo so svākkhā꜓to bha꜕gava꜓tā dhammo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Dhamma is we꜕ll expo꜓unded by the Ble꜕ssed One,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ndiṭṭhi꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Apparent here a꜕nd now,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕kāli꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Timeless,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ehi꜕passi꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "E꜕ncouraging inve꜕stiga꜓tion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Opanayi꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Leading i꜕nwards,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕cca꜕ttaṃ vedi꜓ta꜕bbo viññūhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To be e꜕xperienced indi꜕vidually by꜓ the꜕ wise."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tam-aha꜓ṃ dhammaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ dhammaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "si꜕rasā꜓ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "I chant m꜕y praise to꜕ this Te꜓aching, I bow m꜕y head"
+        },
+        {
+          "type": "verse",
+          "html": "to꜕ thi꜓s Truth."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

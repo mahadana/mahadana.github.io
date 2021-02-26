@@ -1,0 +1,63 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.7",
+  "type": "chant",
+  "lang": "en",
+  "title": "Recollection of the Saṅgha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the recollection of the Sa꜕ṅgha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "They are the꜕ Blessed One’s disci꜓ples, who have pra꜕ctised well,"
+        },
+        {
+          "type": "verse",
+          "html": "Who have practised dire꜕ctly,"
+        },
+        {
+          "type": "verse",
+          "html": "Who have practised insi꜓ghtfully,"
+        },
+        {
+          "type": "verse",
+          "html": "<u>Those</u> who pra꜓ctise with inte꜕grity —"
+        },
+        {
+          "type": "verse",
+          "html": "That is the fo꜕ur pairs, the꜕ eight kinds of no꜓ble꜕ beings —"
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the꜕ Blessed One’s disci꜓ples."
+        },
+        {
+          "type": "verse",
+          "html": "Such ones a꜕re worthy of gifts, worthy of ho꜕spita꜓lity,"
+        },
+        {
+          "type": "verse",
+          "html": "worthy of o꜕fferings, worthy o꜓f re꜕spect;"
+        },
+        {
+          "type": "verse",
+          "html": "They give o꜕ccasion for i꜕nco꜕mparable go꜓odness to ari꜕se i꜕n the world."
+        }
+      ]
+    }
+  ]
+}

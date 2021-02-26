@@ -1,0 +1,113 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.23",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Jaya-parittaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Mahā-kāruṇiko nātho"
+        },
+        {
+          "type": "verse",
+          "html": "Hitāya sabba-pāṇinaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Pūretvā pāramī sabbā"
+        },
+        {
+          "type": "verse",
+          "html": "Patto sambodhim-uttamaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca-vajjena"
+        },
+        {
+          "type": "verse",
+          "html": "Hotu te jaya-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Jayanto bodhiyā mūle"
+        },
+        {
+          "type": "verse",
+          "html": "Sakyānaṃ nandi-vaḍḍhano"
+        },
+        {
+          "type": "verse",
+          "html": "Evaṃ tvaṃ vijayo hohi"
+        },
+        {
+          "type": "verse",
+          "html": "Jayassu jaya-maṅgale"
+        },
+        {
+          "type": "verse",
+          "html": "Aparājita-pallaṅke"
+        },
+        {
+          "type": "verse",
+          "html": "Sīse paṭhavi-pokkhare"
+        },
+        {
+          "type": "verse",
+          "html": "Abhiseke sabba-buddhānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Aggappatto pamodati"
+        },
+        {
+          "type": "verse",
+          "html": "Sunakkhattaṃ sumaṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Supabhātaṃ suhuṭṭhitaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Sukhaṇo sumuhutto ca"
+        },
+        {
+          "type": "verse",
+          "html": "Suyiṭṭhaṃ brahma-cārisu"
+        },
+        {
+          "type": "verse",
+          "html": "Padakkhiṇaṃ kāya-kammaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Vācā-kammaṃ padakkhiṇaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Padakkhiṇaṃ mano-kammaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Paṇidhi te padakkhiṇā"
+        },
+        {
+          "type": "verse",
+          "html": "Padakkhiṇāni katvāna"
+        },
+        {
+          "type": "verse",
+          "html": "Labhant’atthe padakkhiṇe"
+        }
+      ]
+    }
+  ]
+}

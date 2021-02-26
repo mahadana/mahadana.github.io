@@ -1,0 +1,134 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.19",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Sakkatvā",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā buddha-ratanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Hitaṃ deva-manussānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "buddha-tejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassant’upaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "dukkhā vūpasamentu te/me"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā dhamma-ratanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pariḷāhūpasamanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "dhamma-tejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassant’upaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "bhayā vūpasamentu te/me"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā saṅgha-ratanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Āhuneyyaṃ pāhuneyyaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "saṅgha-tejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassant’upaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "rogā vūpasamentu te/me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

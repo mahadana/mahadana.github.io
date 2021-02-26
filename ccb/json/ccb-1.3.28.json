@@ -1,0 +1,243 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.28",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "The Verses of Tāyana",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Handa mayaṃ tāyana-gāthāyo bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Chi꜓nda so꜕taṃ pa꜕rakkamma"
+        },
+        {
+          "type": "verse",
+          "html": "kā꜕me panūda brā꜓hm꜕aṇa"
+        },
+        {
+          "type": "verse",
+          "html": "Nappahā꜓ya mu꜕ni kāme"
+        },
+        {
+          "type": "verse",
+          "html": "n’ekattam-upa꜕pajja꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Exert yourself a꜕nd cut t꜕he stream."
+        },
+        {
+          "type": "verse",
+          "html": "Discard sense-pl꜓easu꜕res, Holy꜕ Man;"
+        },
+        {
+          "type": "verse",
+          "html": "Not letting sensu꜕al pleasu꜕res go,"
+        },
+        {
+          "type": "verse",
+          "html": "A sage will no꜓t re꜕ach uni꜕ty."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kayirā ce ka꜕yirāthe꜓naṃ"
+        },
+        {
+          "type": "verse",
+          "html": "da꜕ḷham-enaṃ pa꜕rakka꜕me"
+        },
+        {
+          "type": "verse",
+          "html": "Sithilo hi pa꜕ribbājo"
+        },
+        {
+          "type": "verse",
+          "html": "bh꜕iyyo ākira꜕te ra꜕jaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vigorously, wi꜕th all on꜕e’s strength,"
+        },
+        {
+          "type": "verse",
+          "html": "It should be do꜓ne, wh꜕at should b꜕e done;"
+        },
+        {
+          "type": "verse",
+          "html": "A lax monast꜕ic life sti꜕rs up"
+        },
+        {
+          "type": "verse",
+          "html": "The dust of pa꜓ssio꜕ns all th꜕e more."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕kataṃ dukkaṭaṃ se꜓yyo"
+        },
+        {
+          "type": "verse",
+          "html": "pacchā tappati du꜓kk꜕aṭaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Katañca su꜕ka꜓taṃ seyyo"
+        },
+        {
+          "type": "verse",
+          "html": "yaṃ ka꜕tvā nānuta꜕ppa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Better is not t꜕o do ba꜕d deeds"
+        },
+        {
+          "type": "verse",
+          "html": "That afterwa꜓rds wo꜕uld bring re꜕morse;"
+        },
+        {
+          "type": "verse",
+          "html": "It’s rather go꜓od de꜕eds one sho꜕uld do"
+        },
+        {
+          "type": "verse",
+          "html": "Which having done on꜕e won’t re꜕gret."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kuso꜓ ya꜕thā du꜕ggahi꜕to"
+        },
+        {
+          "type": "verse",
+          "html": "hattham-evā꜓nu꜕kant꜕ati"
+        },
+        {
+          "type": "verse",
+          "html": "Sā꜓maññaṃ du꜕pparāma꜕ṭṭhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "nirayāyūpa꜕kaḍḍh꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "As Kusa-grass, wh꜕en wrongly꜕ grasped,"
+        },
+        {
+          "type": "verse",
+          "html": "Will only cu꜓t i꜕nto on꜕e’s hand"
+        },
+        {
+          "type": "verse",
+          "html": "So does th꜕e monk’s lif꜕e wrongl꜕y led"
+        },
+        {
+          "type": "verse",
+          "html": "Indeed drag on꜓e t꜕o hell꜕ish states."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yaṃ kiñci si꜕thi꜓laṃ kammaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜓ṅki꜕liṭṭha꜓ñca꜕ yaṃ va꜓taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅka꜕ssaraṃ brahma-ca꜕ri꜓yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "na taṃ ho꜓ti ma꜕happh꜕alan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Whateve꜕r deed tha꜕t’s slackl꜕y done,"
+        },
+        {
+          "type": "verse",
+          "html": "Whatever vo꜓w co꜕rruptl꜕y kept,"
+        },
+        {
+          "type": "verse",
+          "html": "The Holy Life le꜕d in꜕ doubtf꜕ul ways —"
+        },
+        {
+          "type": "verse",
+          "html": "All these will ne꜓ve꜕r bear gr꜕eat fruit."
+        }
+      ]
+    }
+  ]
+}

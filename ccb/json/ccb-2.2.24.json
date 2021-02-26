@@ -1,0 +1,75 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.24",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Bhavatu sabba-maṅgalaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhavatu sabba-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Rakkhantu sabba-devatā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabba-buddhānubhāvena"
+        },
+        {
+          "type": "verse",
+          "html": "Sadā sotthī bhavantu te/me"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhavatu sabba-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Rakkhantu sabba-devatā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabba-dhammānubhāvena"
+        },
+        {
+          "type": "verse",
+          "html": "Sadā sotthī bhavantu te/me"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhavatu sabba-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Rakkhantu sabba-devatā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabba-saṅghānubhāvena"
+        },
+        {
+          "type": "verse",
+          "html": "Sadā sotthī bhavantu te/me"
+        }
+      ]
+    }
+  ]
+}

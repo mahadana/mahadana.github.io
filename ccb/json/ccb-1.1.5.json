@@ -1,0 +1,291 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 1,
+  "id": "ccb-1.1.5",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Homage to the Saṅgha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ saṅghābhi꜕tthu꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "en",
+          "html": "[ No꜓w let us chant in praise of the Sa꜕ṅgha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo so supaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "They are the꜕ Blessed One’s disci꜓ples, who have pra꜕ctised well,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ujupaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Who have practised dire꜕ctly,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ñāyapaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Who have practised insi꜓ghtfully,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sā꜓mīci꜕pa꜕ṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Those who pra꜓ctise with inte꜕grity —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yadidaṃ cattāri purisa꜕yugāni aṭṭha꜓ purisa꜕pugga꜕lā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "That is the fo꜕ur pairs, the꜕ eight kinds of no꜓ble꜕ beings —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Esa bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "These are the꜕ Blessed One’s disci꜓ples."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Āhu꜕neyyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Such ones a꜕re worthy of gifts,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pāhu꜕neyyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Worthy of ho꜕spita꜓lity,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dakkhi꜕ṇeyyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Worthy of o꜕fferings,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Añja꜕li-ka꜕ra꜓ṇīyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Worthy o꜓f re꜕spect;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anu꜓tta꜕raṃ puññakkhe꜕ttaṃ lokassa"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "They give o꜕ccasion for i꜕ncomparable go꜓odness to ari꜕se"
+        },
+        {
+          "type": "verse",
+          "html": "i꜕n the world."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tam-aha꜓ṃ saṅghaṃ a꜕bhi꜓pūja꜕yāmi tam-aha꜓ṃ saṅghaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "si꜕rasā꜓ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "I chant m꜕y praise to꜕ this Sa꜓ṅgha, I bow m꜕y head to꜕"
+        },
+        {
+          "type": "verse",
+          "html": "thi꜓s Sa꜓ṅgha."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

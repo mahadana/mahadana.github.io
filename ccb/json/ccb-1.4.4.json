@@ -1,0 +1,128 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.4",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Requesting Paritta Chanting",
+  "children": [
+    {
+      "type": "aside",
+      "html": "After bowing three times, with hands joined in añjali, recite the following"
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vipatti-paṭibāhā꜓ya sabba꜕-sampatti꜕-siddhi꜕yā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbadukkha-vināsā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "Parittaṃ brūtha꜕ maṅga꜕laṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vipatti-paṭibāhā꜓ya sabba꜕-sampatti꜕-siddhi꜕yā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbabhaya-vināsā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "Parittaṃ brūtha꜕ maṅga꜕laṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vipatti-paṭibāhā꜓ya sabba꜕-sampatti꜕-siddhi꜕yā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbaroga-vināsā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "Parittaṃ brūtha꜕ maṅga꜕laṃ"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bow three times"
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For warding off misfortune, for the arising of good fortune,"
+        },
+        {
+          "type": "verse",
+          "html": "For the dispelling of all dukkha,"
+        },
+        {
+          "type": "verse",
+          "html": "May you chant a blessing and protection."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For warding off misfortune, for the arising of good fortune,"
+        },
+        {
+          "type": "verse",
+          "html": "For the dispelling of all fear,"
+        },
+        {
+          "type": "verse",
+          "html": "May you chant a blessing and protection."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For warding off misfortune, for the arising of good fortune,"
+        },
+        {
+          "type": "verse",
+          "html": "For the dispelling of all sickness,"
+        },
+        {
+          "type": "verse",
+          "html": "May you chant a blessing and protection."
+        }
+      ]
+    }
+  ]
+}

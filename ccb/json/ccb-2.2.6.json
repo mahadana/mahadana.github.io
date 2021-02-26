@@ -1,0 +1,174 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.6",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Ratana-sutta",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yaṅkiñci vittaṃ idha vā huraṃ vā"
+        },
+        {
+          "type": "verse",
+          "html": "Saggesu vā yaṃ ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Na no samaṃ atthi tathāgatena"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi buddhe ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Khayaṃ virāgaṃ amataṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Yad-ajjhagā sakya-munī samāhito"
+        },
+        {
+          "type": "verse",
+          "html": "Na tena dhammena sam’atthi kiñci"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi dhamme ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam buddha-seṭṭho parivaṇṇayī suciṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Samādhim-ānantarikaññam-āhu"
+        },
+        {
+          "type": "verse",
+          "html": "Samādhinā tena samo na vijjati"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi dhamme ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye puggalā aṭṭha sataṃ pasaṭṭhā"
+        },
+        {
+          "type": "verse",
+          "html": "Cattāri etāni yugāni honti"
+        },
+        {
+          "type": "verse",
+          "html": "Te dakkhiṇeyyā sugatassa sāvakā"
+        },
+        {
+          "type": "verse",
+          "html": "Etesu dinnāni mahapphalāni"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi saṅghe ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye suppayuttā manasā daḷhena"
+        },
+        {
+          "type": "verse",
+          "html": "Nikkāmino gotama-sāsanamhi"
+        },
+        {
+          "type": "verse",
+          "html": "Te patti-pattā amataṃ vigayha"
+        },
+        {
+          "type": "verse",
+          "html": "Laddhā mudhā nibbutiṃ bhuñjamānā"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi saṅghe ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Khīṇaṃ purāṇaṃ navaṃ n’atthi sambhavaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Viratta-citt’āyatike bhavasmiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Te khīṇa-bījā aviruḷhi-chandā"
+        },
+        {
+          "type": "verse",
+          "html": "Nibbanti dhīrā yathā’yam padīpo"
+        },
+        {
+          "type": "verse",
+          "html": "Idam-pi saṅghe ratanaṃ paṇītaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena saccena suvatthi hotu"
+        }
+      ]
+    }
+  ]
+}

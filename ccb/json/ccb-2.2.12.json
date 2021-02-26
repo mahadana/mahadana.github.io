@@ -1,0 +1,83 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.12",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Buddha-dhamma-saṅgha-guṇā",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Iti pi so bhagavā arahaṃ sammā-sambuddho"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjā-caraṇa-sampanno sugato loka-vidū"
+        },
+        {
+          "type": "verse",
+          "html": "Anuttaro purisa-damma-sārathi"
+        },
+        {
+          "type": "verse",
+          "html": "Satthā devamanussānaṃ buddho bhagavā’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Svākkhāto bhagavatā dhammo sandiṭṭhiko akāliko ehi-passiko"
+        },
+        {
+          "type": "verse",
+          "html": "Opanayiko paccattaṃ veditabbo viññūhī’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Supaṭipanno bhagavato sāvaka-saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Uju-paṭipanno bhagavato sāvaka-saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāya-paṭipanno bhagavato sāvaka-saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Sāmīci-paṭipanno bhagavato sāvaka-saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Yad-idaṃ cattāri purisa-yugāni aṭṭha purisa-puggalā"
+        },
+        {
+          "type": "verse",
+          "html": "Esa bhagavato sāvaka-saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo"
+        },
+        {
+          "type": "verse",
+          "html": "Anuttaraṃ puññakkhettaṃ lokassā’ti"
+        }
+      ]
+    }
+  ]
+}

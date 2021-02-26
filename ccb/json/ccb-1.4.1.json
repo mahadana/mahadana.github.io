@@ -1,0 +1,21 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.1",
+  "type": "chant",
+  "lang": "en",
+  "title": "Añjali",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Chanting and making formal requests is done with the hands in añjali. This is a gesture of respect, made by placing the palms together directly in front of the chest, with the fingers aligned and pointing upwards."
+        }
+      ]
+    }
+  ]
+}

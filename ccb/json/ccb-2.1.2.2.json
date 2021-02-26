@@ -1,0 +1,577 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 1,
+  "id": "ccb-2.1.2.2",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Anatta-lakkhaṇa Sutta",
+  "children": [
+    {
+      "type": "aside",
+      "center": true,
+      "html": "Solo introduction"
+    },
+    {
+      "type": "grid",
+      "center": true,
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yantaṃ sattehi dukkhena"
+            },
+            {
+              "type": "verse",
+              "html": "ñeyyaṃ anattalakkhaṇaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Attavādattasaññāṇaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "sammadeva vimocanaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sambuddho taṃ pakāsesi"
+            },
+            {
+              "type": "verse",
+              "html": "diṭṭhasaccāna yoginaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Uttariṃ paṭivedhāya"
+            },
+            {
+              "type": "verse",
+              "html": "bhāvetuṃ ñāṇamuttamaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yantesaṃ diṭṭhadhammānam"
+            },
+            {
+              "type": "verse",
+              "html": "ñāṇenupaparikkhataṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbāsavehi cittāni"
+            },
+            {
+              "type": "verse",
+              "html": "vimucciṃsu asesato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tathā ñāṇānussārena"
+            },
+            {
+              "type": "verse",
+              "html": "sāsanaṃ kātumicchataṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sādhūnaṃ atthasiddhatthaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "taṃ suttantaṃ bhaṇāma se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Evaṃ me sutaṃ ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ekaṃ samayaṃ bhagavā bārāṇasiyaṃ viharati isipatane migadāye. Tatra kho bhagavā pañcavaggiye bhikkhū āmantesi:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Rūpaṃ bhikkhave anattā, rūpañca hidaṃ bhikkhave attā abhavissa, nayidaṃ rūpaṃ ābādhāya saṃvatteyya, labbhetha ca rūpe, evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yasmā ca kho bhikkhave rūpaṃ anattā, tasmā rūpaṃ ābādhāya saṃvattati, na ca labbhati rūpe, evaṃ me rūpaṃ hotu, evaṃ me rūpaṃ mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Vedanā anattā, vedanā ca hidaṃ bhikkhave attā abhavissa, nayidaṃ vedanā ābādhāya saṃvatteyya, labbhetha ca vedanāya, evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yasmā ca kho bhikkhave vedanā anattā, tasmā vedanā ābādhāya saṃvattati, na ca labbhati vedanāya, evaṃ me vedanā hotu, evaṃ me vedanā mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saññā anattā, saññā ca hidaṃ bhikkhave attā abhavissa, nayidaṃ saññā ābādhāya saṃvatteyya, labbhetha ca saññāya, evaṃ me saññā hotu, evaṃ me saññā mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yasmā ca kho bhikkhave saññā anattā, tasmā, saññā ābādhāya saṃvattati, na ca labbhati saññāya, evaṃ me saññā hotu, evaṃ me saññā mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saṅkhārā anattā, saṅkhārā ca hidaṃ bhikkhave attā abhavissaṃsu, nayidaṃ saṅkhārā ābādhāya saṃvatteyyuṃ, labbhetha ca saṅkhāresu, evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yasmā ca kho bhikkhave saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṃvattanti, na ca labbhati saṅkhāresu, evaṃ me saṅkhārā hontu, evaṃ me saṅkhārā mā ahesun ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Viññāṇaṃ anattā, viññāṇañca hidaṃ bhikkhave attā abhavissa, nayidaṃ viññānam ābādhāya saṃvatteyya, labbhetha ca viññāne evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yasmā ca kho bhikkhave viññāṇaṃ anattā, tasmā viññāṇaṃ ābādhāya saṃvattati, na ca labbhati viññāne, evaṃ me viññāṇaṃ hotu, evaṃ me viññāṇaṃ mā ahosī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Taṃ kiṃ maññatha bhikkhave, ] rūpam niccaṃ vā aniccaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ dukkhaṃ viparināma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ, etaṃ mama, esoham’asmi, eso me attā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "No hetaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Taṃ kiṃ maññatha bhikkhave, vedanā niccā vā aniccā vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccā bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ dukkhaṃ viparināma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ, etaṃ mama, esoham’asmi, eso me attā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "No hetaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Taṃ kiṃ maññatha bhikkhave, saññā niccā vā aniccā vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccā bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ dukkhaṃ viparināma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ, etaṃ mama, esoham’asmi, eso me attā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "No hetaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Taṃ kiṃ maññatha bhikkhave, saṅkhārā niccā vā aniccā vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccā bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ dukkhaṃ viparināma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ, etaṃ mama, esoham’asmi, eso me attā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "No hetaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Taṃ kiṃ maññatha bhikkhave, viññāṇaṃ niccaṃ vā aniccaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aniccaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ, dukkhaṃ vā taṃ sukhaṃ vā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yam panāniccaṃ dukkhaṃ viparināma-dhammaṃ, kallaṃ nu taṃ samanupassituṃ etaṃ mama, esoham’asmi, eso me attā ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "No hetaṃ bhante."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Tasmā tiha bhikkhave ] yaṃ kiñci rūpaṃ atītānāgata-paccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yandūre santike vā, sabbaṃ rūpaṃ netaṃ mama, nesoham’asmi, na me so attā ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yā kāci vedanā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā vedanā netaṃ mama, nesoham’asmi, na me so attā ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yā kāci saññā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā yā dūre santike vā, sabbā saññā netaṃ mama, nesoham’asmi, na me so attā ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye keci saṅkhārā atītānāgata-paccuppannā ajjhattā vā bahiddhā vā oḷārikā vā sukhumā vā hīnā vā paṇītā vā ye dūre santike vā, sabbe saṅkhārā netaṃ mama, nesoham’asmi, na me so attā ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yaṃ kiñci viññāṇaṃ atītānāgata-paccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yandūre santike vā, sabbaṃ viññāṇaṃ netaṃ mama, nesoham’asmi, na me so attā ti, evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Evaṃ passaṃ bhikkhave ] sutvā ariyasāvako rūpasmim pi nibbindati, vedanāya pi nibbindati, saññāya pi nibbindati, saṅkhāresu pi nibbindati, viññāṇasmim pi nibbindati, nibbindaṃ virajjati, virāgā vimuccati, vimuttasmiṃ vimuttam iti ñāṇaṃ hoti, khīṇā jāti, vusitaṃ brahmacariyaṃ, kataṃ karaṇīyaṃ, nāparaṃ itthattāyā ti pajānātī ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Idam-avoca bhagavā. ] Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṃ abhinanduṃ. Imasmiñca pana veyyākaraṇasmiṃ bhaññamāne pañcavaggiyānaṃ bhikkhūnaṃ anupādāya āsavehi cittāni vimucciṃsū ti."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Anattalakkhaṇa-suttaṃ niṭṭhitaṃ."
+        }
+      ]
+    }
+  ]
+}

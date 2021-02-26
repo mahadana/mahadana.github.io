@@ -1,0 +1,516 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.8",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Just as Rivers",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yathā vāri-vahā꜓ pūrā pa꜕ripūrenti sāgaraṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Just as ri꜕ve꜕rs fu꜕ll o꜕f wa꜕ter entirely fill u꜓p th꜕e sea"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evam-eva i꜓to dinnaṃ pe꜕tānaṃ u꜕pakappa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So will what’s he꜕re be꜕en gi꜕ven bring blessi꜓ngs to dep꜕art꜕ed sp꜕irits."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Icchitaṃ pa꜕tthitaṃ tu꜓mhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May all your ho꜕pes a꜕nd a꜕ll yo꜕ur lo꜕ngings"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Khippam-eva sami꜓jjhatu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Come true in n꜓o lo꜕ng time."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bbe pūrentu sa꜓ṅkappā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May all your w꜕ish꜕es b꜕e fu꜕lfilled"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Cando paṇṇaraso꜓ yathā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Like on the fi꜕fte꜕enth da꜕y th꜕e moon"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Maṇi jot꜕iraso꜓ yathā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Or like a bright and sh꜓ini꜕ng gem."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sabb’ītiyo vivajja꜓ntu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May all misfo꜕rtu꜕nes b꜕e a꜕vo꜕ided,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "S꜕abba-rogo vinassa꜕tu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May all il꜕lne꜕ss b꜕e di꜕spelled,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mā te bha꜕vatv-antarā꜓yo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May you n꜓ever me꜕et wi꜕th da꜕ngers,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sukhī꜓ dīgh’āyu꜕ko bha꜕va"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May you be ha꜕pp꜕y an꜕d li꜕ve long."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕bhivādana-sī꜓lissa꜕"
+        },
+        {
+          "type": "verse",
+          "html": "Niccaṃ vu꜕ḍḍhāpa꜕cāyi꜕no"
+        },
+        {
+          "type": "verse",
+          "html": "C꜕attāro dhammā vaḍḍha꜓nti"
+        },
+        {
+          "type": "verse",
+          "html": "Āyu꜓ vaṇṇo su꜕khaṃ balaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For those who ar꜕e r꜕esp꜕ectful,"
+        },
+        {
+          "type": "verse",
+          "html": "Who always ho꜓nour the e꜕lders,"
+        },
+        {
+          "type": "verse",
+          "html": "Four are th꜓e qu꜕al꜕iti꜕es wh꜕ich wi꜕ll in꜕crease:"
+        },
+        {
+          "type": "verse",
+          "html": "Life, be꜓auty, ha꜕ppi꜕ne꜕ss an꜕d strength."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Bhavatu sa꜕bba꜕-maṅg꜓alaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May every ble꜕ssi꜕ng co꜕me t꜕o be"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rakkha꜓ntu sa꜕bba꜕-deva꜓tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And all good spirits gu꜓ard yo꜕u well."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bba-bu꜓ddhānu꜓bhāvena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Through the po꜕we꜕r o꜕f a꜕ll Bu꜕ddhas"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕dā so꜕tthī꜓ bhavantu꜕ te"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May you a꜕lwa꜕ys b꜕e a꜕t ease."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Bhavatu sa꜕bba꜕-maṅg꜓alaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May every ble꜕ssi꜕ng co꜕me t꜕o be"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rakkha꜓ntu sa꜕bba꜕-deva꜓tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And all good spirits gu꜓ard yo꜕u well."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bba-dha꜓mmānu꜓bhāvena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Through the po꜕we꜕r o꜕f a꜕ll Dha꜕mmas"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕dā so꜕tthī꜓ bhavantu꜕ te"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May you a꜕lwa꜕ys b꜕e a꜕t ease."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Bhavatu sa꜕bba꜕-maṅg꜓alaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May every ble꜕ssi꜕ng co꜕me t꜕o be"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rakkha꜓ntu sa꜕bba꜕-deva꜓tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And all good spirits gu꜓ard yo꜕u well."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bba-sa꜓ṅghānu꜓bhāvena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Through the po꜕we꜕r o꜕f a꜕ll Sa꜕ṅghas"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕dā so꜕tthī꜓ bhavantu꜕ te"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May you a꜕lwa꜕ys b꜕e a꜕t ease."
+        }
+      ]
+    }
+  ]
+}

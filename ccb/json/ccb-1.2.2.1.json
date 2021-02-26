@@ -1,0 +1,106 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.1",
+  "type": "chant",
+  "lang": "en",
+  "title": "Dedication of Offerings",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ To the Ble꜕ssed One, ] the꜕ Lord, who fu꜓lly a꜕ttained"
+        },
+        {
+          "type": "verse",
+          "html": "perfect enli꜕ghtenment,"
+        },
+        {
+          "type": "verse",
+          "html": "To the꜕ Teaching, which he expo꜕unde꜕d so well,"
+        },
+        {
+          "type": "verse",
+          "html": "And to the꜕ Blessed One’s disci꜓ples who have pra꜕ctised well,"
+        },
+        {
+          "type": "verse",
+          "html": "To these — the꜕ Buddha, the꜕ Dhamma, a꜕nd the Sa꜓ṅgha —"
+        },
+        {
+          "type": "verse",
+          "html": "We render wi꜕th offerings our ri꜓ghtful ho꜖mage."
+        },
+        {
+          "type": "verse",
+          "html": "It is we꜓ll for us that the Ble꜕ssed One, having attained li꜕bera꜓tion,"
+        },
+        {
+          "type": "verse",
+          "html": "Still had co꜕mpassion for later ge꜓nera꜖tions."
+        },
+        {
+          "type": "verse",
+          "html": "May the꜕se simple o꜓fferings be acce꜕pted"
+        },
+        {
+          "type": "verse",
+          "html": "For o꜕ur long-lasting benefit and fo꜕r the ha꜓ppiness it giv꜖es us."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Lord, the꜕ Perfectly Enli꜓ghtened and Ble꜕ssed One —"
+        },
+        {
+          "type": "verse",
+          "html": "I꜕ render homage to꜕ the Bu꜓ddha, the Ble꜕ssed One."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ The꜕ Teaching, ] so co꜕mpletely expla꜓ined by him —"
+        },
+        {
+          "type": "verse",
+          "html": "I bo꜖w to꜕ the꜕ Dha꜕mma."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ The꜕ Blessed One’s disci꜓ples, ] who have pra꜕ctised well —"
+        },
+        {
+          "type": "verse",
+          "html": "I bo꜖w to꜕ the꜕ Sa꜕ṅgha."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

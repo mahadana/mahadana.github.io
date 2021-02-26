@@ -1,0 +1,212 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.10",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Sambuddhe",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sambuddhe aṭṭhavīsañca"
+            },
+            {
+              "type": "verse",
+              "html": "dvādasañca sahassake"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pañca-sata-sahassāni"
+            },
+            {
+              "type": "verse",
+              "html": "namāmi sirasā ahaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tesaṃ dhammañca saṅghañca"
+            },
+            {
+              "type": "verse",
+              "html": "ādarena namāmihaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Namakārānubhāvena"
+            },
+            {
+              "type": "verse",
+              "html": "hantvā sabbe upaddave"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Anekā antarāyāpi"
+            },
+            {
+              "type": "verse",
+              "html": "vinassantu asesato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sambuddhe pañca-paññāsañca"
+            },
+            {
+              "type": "verse",
+              "html": "catuvīsati sahassake"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dasa-sata-sahassāni"
+            },
+            {
+              "type": "verse",
+              "html": "namāmi sirasā ahaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tesaṃ dhammañca saṅghañca"
+            },
+            {
+              "type": "verse",
+              "html": "ādarena namāmihaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Namakārānubhāvena"
+            },
+            {
+              "type": "verse",
+              "html": "hantvā sabbe upaddave"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Anekā antarāyāpi"
+            },
+            {
+              "type": "verse",
+              "html": "vinassantu asesato"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sambuddhe navuttarasate"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭhacattāḷīsa sahassake"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vīsati-sata-sahassāni"
+            },
+            {
+              "type": "verse",
+              "html": "namāmi sirasā ahaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tesaṃ dhammañca saṅghañca"
+            },
+            {
+              "type": "verse",
+              "html": "ādarena namāmihaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Namakārānubhāvena"
+            },
+            {
+              "type": "verse",
+              "html": "hantvā sabbe upaddave"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Anekā antarāyāpi"
+            },
+            {
+              "type": "verse",
+              "html": "vinassantu asesato"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

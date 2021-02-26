@@ -1,0 +1,199 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.19",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on a Shining Night of Prosperity",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ bhadd’eka-ratta꜕-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕tītaṃ nānvāga꜕meyya"
+        },
+        {
+          "type": "verse",
+          "html": "nappa꜕ṭikaṅkhe꜓ a꜕nāga꜓taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ya꜕d’a꜕tītaṃ pa꜕hīnan-taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "a꜕ppattañc꜕a a꜕nāga꜕taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "One should not revi꜕ve th꜕e past"
+        },
+        {
+          "type": "verse",
+          "html": "Nor speculate on wha꜓t’s t꜕o come;"
+        },
+        {
+          "type": "verse",
+          "html": "The past is l꜕eft be꜕hind,"
+        },
+        {
+          "type": "verse",
+          "html": "The futu꜓re is un-r꜓ea꜕lized."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Paccu꜕ppannañca꜕ yo dhammaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "tattha tattha vi꜓pa꜕ss꜕ati"
+        },
+        {
+          "type": "verse",
+          "html": "Asa꜓ṃhi꜕raṃ asa꜓ṅku꜕ppaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "taṃ viddhām-a꜕nu꜕brūhaye"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "In every presently ari꜕se꜕n state"
+        },
+        {
+          "type": "verse",
+          "html": "There, just there, one cle꜓arly꜕ sees;"
+        },
+        {
+          "type": "verse",
+          "html": "Unmoved, una꜕gi꜕ta꜕ted,"
+        },
+        {
+          "type": "verse",
+          "html": "Such insight i꜓s on꜕e’s strength."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕jj’eva ki꜕cca꜕m-ātappaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "ko jaññā ma꜓ra꜕ṇaṃ su꜕ve"
+        },
+        {
+          "type": "verse",
+          "html": "Na hi no sa꜓ṅga꜕ran-tena"
+        },
+        {
+          "type": "verse",
+          "html": "mahā-senena ma꜓cc꜕unā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ardently doing one’s ta꜕sk t꜕oday,"
+        },
+        {
+          "type": "verse",
+          "html": "Tomorrow, who knows, de꜓ath ma꜕y come;"
+        },
+        {
+          "type": "verse",
+          "html": "Facing the mighty ho꜕rdes o꜕f death,"
+        },
+        {
+          "type": "verse",
+          "html": "Indeed o꜓ne cannot str꜕ike a꜕ deal."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Evaṃ vihārim-ātāpiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "a꜕ho-rattam-a꜕tandi꜓taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Taṃ ve bha꜕dd’eka꜕-ratto’ti"
+        },
+        {
+          "type": "verse",
+          "html": "santo ā꜕ci꜕kkha꜕te muni"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "To dwell with e꜕ne꜕rgy꜕ a꜕roused"
+        },
+        {
+          "type": "verse",
+          "html": "Thus for a night of no꜓n-de꜕cline,"
+        },
+        {
+          "type": "verse",
+          "html": "That is a ‘night of shi꜕ni꜕ng pr꜕osperity.’"
+        },
+        {
+          "type": "verse",
+          "html": "So it was taught by the Peacefu꜕l Sage."
+        }
+      ]
+    }
+  ]
+}

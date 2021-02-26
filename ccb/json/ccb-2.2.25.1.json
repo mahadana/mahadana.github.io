@@ -1,0 +1,363 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.25.1",
+  "type": "chant",
+  "lang": "en",
+  "title": "The Twenty-Eight Buddhas’ Protection",
+  "children": [
+    {
+      "type": "aside",
+      "center": true,
+      "html": "Solo introduction"
+    },
+    {
+      "type": "group",
+      "leader": true,
+      "children": [
+        {
+          "type": "verse",
+          "html": "We will now recite the discourse given by the Great Hero (the Buddha), as a protection for virtue-loving human beings,"
+        },
+        {
+          "type": "verse",
+          "html": "Against harm from all evil-doing, malevolent non-humans who are displeased with the Buddha’s Teachings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Homage to all Buddhas, the mighty who have arisen:"
+        },
+        {
+          "type": "verse",
+          "html": "Taṇhaṅkara, the great hero, Medhaṅkara, the renowned,"
+        },
+        {
+          "type": "verse",
+          "html": "Saraṇaṅkara, who guarded the world, Dīpaṅkara, the light-bearer,"
+        },
+        {
+          "type": "verse",
+          "html": "Koṇḍañña, liberator of people, Maṅgala, great leader of people,"
+        },
+        {
+          "type": "verse",
+          "html": "Sumana, kindly and wise, Revata, increaser of joy,"
+        },
+        {
+          "type": "verse",
+          "html": "Sobhita, perfected in virtues, Anomadassī, greatest of beings,"
+        },
+        {
+          "type": "verse",
+          "html": "Paduma, illuminer of the world, Nārada, true charioteer,"
+        },
+        {
+          "type": "verse",
+          "html": "Padumuttara, most excellent of beings, Sumedha, the unequalled one,"
+        },
+        {
+          "type": "verse",
+          "html": "Sujāta, summit of the world, Piyadassī, great leader of men,"
+        },
+        {
+          "type": "verse",
+          "html": "Atthadassī, the compassionate, Dhammadassī, destroyer of darkness,"
+        },
+        {
+          "type": "verse",
+          "html": "Siddhattha, unequalled in the world, and Tissa, speaker of Truth,"
+        },
+        {
+          "type": "verse",
+          "html": "Phussa, bestower of blessings, Vipassī, the incomparable,"
+        },
+        {
+          "type": "verse",
+          "html": "Sikhī, the bliss-bestowing teacher, Vessabhū, giver of happiness,"
+        },
+        {
+          "type": "verse",
+          "html": "Kakusandha, the caravan leader, Koṇāgamana, abandoner of ills,"
+        },
+        {
+          "type": "verse",
+          "html": "Kassapa, perfect in glory, Gotama, chief of the Sakyans."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "These and all self-enlightened Buddhas are also peerless ones,"
+        },
+        {
+          "type": "verse",
+          "html": "All the Buddhas together, all of mighty power,"
+        },
+        {
+          "type": "verse",
+          "html": "All endowed with the Ten Powers, attained to highest knowledge,"
+        },
+        {
+          "type": "verse",
+          "html": "All of these are accorded the supreme place of leadership."
+        },
+        {
+          "type": "verse",
+          "html": "They roar the lion’s roar with confidence among their followers,"
+        },
+        {
+          "type": "verse",
+          "html": "They observe with the divine eye, unhindered, all the world."
+        },
+        {
+          "type": "verse",
+          "html": "The leaders endowed with the eighteen kinds of Buddha-Dhamma,"
+        },
+        {
+          "type": "verse",
+          "html": "The thirty-two major and eighty minor marks of a great being,"
+        },
+        {
+          "type": "verse",
+          "html": "Shining with fathom-wide haloes, all these elephant-like sages,"
+        },
+        {
+          "type": "verse",
+          "html": "All these omniscient Buddhas, conquerors free of corruption,"
+        },
+        {
+          "type": "verse",
+          "html": "Of mighty brilliance, mighty power, of mighty wisdom, mighty strength,"
+        },
+        {
+          "type": "verse",
+          "html": "Of mighty compassion and wisdom, bearing bliss to all,"
+        },
+        {
+          "type": "verse",
+          "html": "Islands, guardians and supports, shelters and caves for all beings,"
+        },
+        {
+          "type": "verse",
+          "html": "Resorts, kinsmen and comforters, benevolent givers of refuge,"
+        },
+        {
+          "type": "verse",
+          "html": "These are all the final resting place for the world with its deities."
+        },
+        {
+          "type": "verse",
+          "html": "With my head at their feet I salute these greatest of humans."
+        },
+        {
+          "type": "verse",
+          "html": "With both speech and thought I venerate those Tathāgatas,"
+        },
+        {
+          "type": "verse",
+          "html": "Whether lying down, seated or standing, or walking anywhere."
+        },
+        {
+          "type": "verse",
+          "html": "May they ever guard your happiness, the Buddhas, bringers of peace,"
+        },
+        {
+          "type": "verse",
+          "html": "And may you, guarded by them, at peace, freed from all fear,"
+        },
+        {
+          "type": "verse",
+          "html": "Released from all illness, safe from all torments,"
+        },
+        {
+          "type": "verse",
+          "html": "Having transcended hatred, may you gain cessation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "By the power of their truth, their virtue and love,"
+        },
+        {
+          "type": "verse",
+          "html": "May they protect and guard you in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "In the Eastern quarter are beings of great power,"
+        },
+        {
+          "type": "verse",
+          "html": "May they protect and guard you in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "In the Southern quarter are deities of great power,"
+        },
+        {
+          "type": "verse",
+          "html": "May they protect and guard you in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "In the Western quarter are dragons of great power,"
+        },
+        {
+          "type": "verse",
+          "html": "May they protect and guard you in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "In the Northern quarter are spirits of great power,"
+        },
+        {
+          "type": "verse",
+          "html": "May they protect and guard you in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "In the East is Dhataraṭṭha, in the South is Viruḷhaka,"
+        },
+        {
+          "type": "verse",
+          "html": "In the West is Virūpakkha, Kuvera rules the North."
+        },
+        {
+          "type": "verse",
+          "html": "These Four Mighty Kings, far-famed guardians of the world,"
+        },
+        {
+          "type": "verse",
+          "html": "May they all be your protectors in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "Sky-dwelling and earth-dwelling gods and dragons of great power,"
+        },
+        {
+          "type": "verse",
+          "html": "May they all be your protectors in health and happiness."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other refuge, the Buddha is my excellent refuge:"
+        },
+        {
+          "type": "verse",
+          "html": "By this declaration of truth may the blessings of victory be yours."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other refuge, the Dhamma is my excellent refuge:"
+        },
+        {
+          "type": "verse",
+          "html": "By this declaration of truth may the blessings of victory be yours."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other refuge, the Saṅgha is my excellent refuge:"
+        },
+        {
+          "type": "verse",
+          "html": "By this declaration of truth may the blessings of victory be yours."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Whatever jewel may be found in the world, however splendid,"
+        },
+        {
+          "type": "verse",
+          "html": "There is no jewel equal to the Buddha, therefore may you be blessed."
+        },
+        {
+          "type": "verse",
+          "html": "Whatever jewel may be found in the world, however splendid,"
+        },
+        {
+          "type": "verse",
+          "html": "There is no jewel equal to the Dhamma, therefore may you be blessed."
+        },
+        {
+          "type": "verse",
+          "html": "Whatever jewel may be found in the world, however splendid,"
+        },
+        {
+          "type": "verse",
+          "html": "There is no jewel equal to the Saṅgha, therefore may you be blessed."
+        },
+        {
+          "type": "verse",
+          "html": "If you venerate the Buddha jewel, the supreme, excellent protection,"
+        },
+        {
+          "type": "verse",
+          "html": "Which benefits gods and humans, then in safety, by the Buddha’s power,"
+        },
+        {
+          "type": "verse",
+          "html": "All dangers will be prevented, your sorrows will pass away."
+        },
+        {
+          "type": "verse",
+          "html": "If you venerate the Dhamma jewel, the supreme, excellent protection,"
+        },
+        {
+          "type": "verse",
+          "html": "Which calms all fevered states, then in safety, by the Dhamma’s power,"
+        },
+        {
+          "type": "verse",
+          "html": "All dangers will be prevented, your fears will pass away."
+        },
+        {
+          "type": "verse",
+          "html": "If you venerate the Saṅgha jewel, the supreme, excellent protection,"
+        },
+        {
+          "type": "verse",
+          "html": "Worthy of gifts and hospitality, then in safety, by the Saṅgha’s power,"
+        },
+        {
+          "type": "verse",
+          "html": "All dangers will be prevented, your sicknesses will pass away."
+        },
+        {
+          "type": "verse",
+          "html": "May all calamities be avoided, may all illness pass away,"
+        },
+        {
+          "type": "verse",
+          "html": "May no dangers threaten you, may you be happy and long-lived,"
+        },
+        {
+          "type": "verse",
+          "html": "Greeted kindly and welcome everywhere."
+        },
+        {
+          "type": "verse",
+          "html": "May four things accrue to you: long life, beauty, bliss, and strength."
+        }
+      ]
+    }
+  ]
+}

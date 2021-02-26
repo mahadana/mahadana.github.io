@@ -1,0 +1,55 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.3",
+  "type": "chant",
+  "lang": "en",
+  "title": "Recollection of the Buddha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the recollection of the Bu꜕ddha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕ good word of the꜕ Blessed One’s re꜕puta꜓tion has spread as fo꜕llows:"
+        },
+        {
+          "type": "verse",
+          "html": "He, the꜕ Ble꜕ssed One, is indeed the Pu꜓re One,"
+        },
+        {
+          "type": "verse",
+          "html": "the꜕ Perfectly Enli꜓ghtened One;"
+        },
+        {
+          "type": "verse",
+          "html": "He is i꜕mpeccable i꜕n conduct and u꜕ndersta꜓nding,"
+        },
+        {
+          "type": "verse",
+          "html": "the A꜕cco꜓mplished One, the꜕ Knower o꜓f the꜕ Worlds;"
+        },
+        {
+          "type": "verse",
+          "html": "He trains perfectly tho꜕se who wi꜓sh to꜓ be꜕ trained;"
+        },
+        {
+          "type": "verse",
+          "html": "he is Teacher of go꜓ds and hu꜕mans; he is Awake and Ho꜕ly."
+        }
+      ]
+    }
+  ]
+}

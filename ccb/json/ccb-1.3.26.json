@@ -1,0 +1,2135 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.26",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Teachings from the Discourse on Setting in Motion the Wheel of Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ dhammacakkappavattana-su꜕tta-pāṭhaṃ bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dve me bhi꜓kkha꜕ve antā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, there are these tw꜕o ex꜕tremes"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pabbaji꜓tena na sevi꜓ta꜕bbā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "That shou꜕ld no꜕t b꜕e pu꜕rsued by one who ha꜓s go꜕ne forth:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo cāyaṃ kāmesu꜕ kāma-su꜕kh’alli꜓kānu꜓yogo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "That is, whatever is tied u꜕p t꜕o se꜕nse pl꜕easures, within the re꜕alm"
+        },
+        {
+          "type": "verse",
+          "html": "o꜕f se꜕nsu꜕a꜕li꜕ty,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Hīno"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Whi꜕ch i꜕s low,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Gammo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Co꜕mmon,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pothujj꜓ani꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The way of the co꜕mmo꜕n folks,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anar꜓iyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not the wa꜕y o꜕f th꜕e No꜓bl꜕e Ones"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anattha-sa꜓ñh꜕ito"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And po꜕intless;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo cāyaṃ atta-kilama꜓thānu꜓yogo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Then there is whate꜕ve꜕r i꜕s t꜕ied up with se꜕lf-de꜕pr꜕iva꜕tion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Which is pa꜕inful,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anar꜓iyo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not the wa꜕y o꜕f th꜕e No꜓bl꜕e Ones"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕nattha꜕-sa꜓ñh꜕ito"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And po꜕intless."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ete te bhi꜓kkha꜕ve ub꜕ho꜕ ante a꜕nupa꜕gamma majjhi꜓mā pa꜕ṭi꜕pa꜕dā tathā꜓ga꜕tena a꜕bhis꜓ambuddhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bhikkhus, without go꜕ing t꜕o e꜕ith꜕er o꜕f th꜕ese e꜕xtremes, the Tathā꜓ga꜕ta has u꜕lt꜕ima꜕tel꜕y a꜕wa꜕kened to a꜓ middle wa꜕y o꜕f pr꜕actice,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Cakkhu-ka꜕ra꜓ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Givi꜓ng rise to v꜕ision,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ñāṇa-ka꜕ra꜓ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ma꜕ki꜕ng fo꜕r i꜕nsight,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕pasa꜕māya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Leadi꜓ng t꜕o calm,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕bhiññāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To he꜕ight꜕ened kn꜕owing,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mbodhāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Awa꜕ke꜕ning,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ni꜓bbānāya sa꜓ṃvat꜕tati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "An꜕d t꜕o Nibbā꜕na."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamā ca sā bhi꜓kkh꜕ave majjhi꜕mā p꜕aṭ꜕ip꜕adā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, i꜕s tha꜕t mi꜕ddl꜕e wa꜕y o꜕f pra꜕ctice?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayam-eva a꜕riyo aṭṭha꜓ṅgi꜕ko maggo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is this No꜕bl꜕e Ei꜕ghtfo꜕ld Path,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Se꜓yyathī꜓daṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Which is as fo꜕llows:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-diṭṭhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght View,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Inte꜕ntion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vācā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Speech,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-kammanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right A꜕ction,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-ājīvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Li꜓vel꜕ihood,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vā꜕yāmo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right E꜕ffort,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Mi꜓ndfu꜕lness,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕mādhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Co꜕nce꜕ntr꜕ation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ kho sā bhi꜓kkh꜕ave majjh꜕imā p꜕aṭ꜕ip꜕adā tathā꜓ga꜕tena abhisa꜓mbuddhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is the mi꜕ddl꜕e wa꜕y o꜕f pr꜕actice that the Tathā꜓ga꜕ta has u꜕lti꜕ma꜕tel꜕y a꜕wa꜕ke꜕ned to,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Cakkhu-ka꜕ra꜓ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Givi꜓ng rise to v꜕ision,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ñāṇa-ka꜕ra꜓ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ma꜕ki꜕ng fo꜕r i꜕nsight,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕pasa꜕māya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Leadi꜓ng t꜕o calm,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕bhiññāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To he꜕ight꜕ened kn꜕owing,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mbodhāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Awa꜕ke꜕ning,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ni꜓bbānāya sa꜓ṃvat꜕tati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "An꜕d t꜕o Nibbā꜕na."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idaṃ kho pana bhi꜓kkh꜕ave dukkhaṃ a꜕riya꜓-s꜕accaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This bhikkhus is the No꜕ble꜕ Tr꜕uth o꜕f du꜕kkha:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Jātipi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Birth is du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Jarāpi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ageing is du꜕kkha"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Maraṇampi꜕ dukkhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And death is du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "So꜓ka-pa꜕rideva-dukkha꜕-domanass’u꜕pāyāsā꜓pi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So꜓rrow, lamenta꜕tion, pain, grief and de꜕spair are du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Appiyehi꜕ sa꜓mpa꜕yogo dukkho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Association with the di꜕sliked is du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Piyehi꜕ vi꜓ppa꜕yogo dukkho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Separa꜓tion from th꜕e liked is du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yampiccha꜓ṃ na꜕ labhati꜕ tampi꜕ dukkhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not attaining one’s wi꜓shes is du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅkhi꜕ttena pañcu꜕pādānakkha꜓ndhā dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "In brief, th꜕e five focuses of iden꜓tity are du꜕kkha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idaṃ kho pa꜕na bhi꜓kkh꜕ave dukkha-sa꜕mu꜕dayo a꜕riya꜓-sa꜕ccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This bhikkhus is the No꜕bl꜕e Tr꜕uth o꜕f th꜕e cau꜕se o꜕f du꜕kkha:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yā’yaṃ taṇhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is this cra꜕ving"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ponobbha꜓vi꜕kā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Which lea꜕ds t꜕o re꜕birth,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nandi꜓-rāga-sa꜕ha꜕ga꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Accompanied by deli꜓ght a꜕nd lust,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ta꜕tra-ta꜕trābhi꜓nandi꜕nī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Delighting now he꜕re, no꜕w there,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Se꜓yyathī꜓daṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Na꜕mely:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kāma-taṇhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Craving fo꜕r se꜕nsu꜕a꜕lity,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Bhava-taṇhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Craving t꜓o be꜕come,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓bhava-taṇhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Craving no꜕t t꜕o be꜕come."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idaṃ kho pa꜕na bhi꜓kkh꜕ave dukkha-nirodho a꜕riya꜓-sa꜕ccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This bhikkhus is the No꜕bl꜕e Tr꜕uth o꜕f th꜕e ce꜕ssa꜕ti꜕on o꜕f du꜕kkha:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo tassā yeva taṇhāya a꜕sesa-vi꜓rāga-nirodho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is the remainderless fa꜕di꜕ng a꜕wa꜕y an꜕d ce꜕ssa꜕tion of th꜓at very cr꜕aving,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Cāgo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Its reli꜓nqu꜕ishment,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pa꜕ṭini꜓ssa꜕ggo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Le꜕tti꜕ng go,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Mutti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Re꜕lease,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕nāla꜓yo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Without a꜕ny꜕ a꜕tta꜕chment."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idaṃ kho pa꜕na bhi꜓kkh꜕ave dukkha-nirodha꜕-gāmi꜓nī pa꜕ṭi꜕pa꜕dā a꜕riya꜓-sa꜕ccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This bhikkhus is the No꜕ble꜕ Tru꜕th o꜕f th꜕e wa꜕y o꜕f pra꜕ctice leading to the ce꜓ssation of du꜕kkha:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayam-eva a꜕riyo aṭṭh’a꜓ṅgi꜕ko maggo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is just this No꜕ble꜕ E꜕ightfo꜕ld Path,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Se꜓yyathī꜓daṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Which is as fo꜕llows:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-diṭṭhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght View,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Inte꜕ntion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vācā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Speech,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-kammanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right A꜕ction,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-ājīvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Li꜓vel꜕ihood,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vā꜕yāmo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right E꜕ffort,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Mi꜓ndfu꜕lness,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕mādhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Co꜕nce꜕ntr꜕ation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Idaṃ dukkhaṃ a꜕riya-sa꜕ccan’t꜕i me bhi꜓kkh꜕ave"
+        },
+        {
+          "type": "verse",
+          "html": "Pubbe a꜕nanussu꜕tesu꜕ dhammesu"
+        },
+        {
+          "type": "verse",
+          "html": "Cakkhuṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāṇaṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Paññā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Āloko u꜕da꜓pādi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhikkhus, in rega꜕rd t꜕o thi꜕ngs u꜕nhe꜕ard-o꜕f be꜕fore,"
+        },
+        {
+          "type": "verse",
+          "html": "Visio꜓n a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "I꜕ns꜕ight a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Disce꜕rnm꜕ent a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Knowle꜓dge a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "L꜕ight a꜕rose:"
+        },
+        {
+          "type": "verse",
+          "html": "This is the No꜕bl꜕e Tru꜕th o꜕f du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkhaṃ a꜕riya꜓-sa꜕ccaṃ pa꜕riññeyyan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now this No꜕ble꜕ Tr꜕uth o꜕f du꜕kkha should be completely u꜓nde꜕rstood;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkhaṃ a꜕riya꜓-sa꜕ccaṃ pa꜕riññātan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now this No꜕ble꜕ Tr꜕uth o꜕f du꜕kkha has be꜕en co꜕mple꜕tel꜕y u꜕nde꜕rstood."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Idaṃ dukkha-sa꜕mu꜕dayo a꜕riya꜓-sa꜕ccan’t꜕i me bhi꜓kkh꜕ave"
+        },
+        {
+          "type": "verse",
+          "html": "Pubbe a꜕nanussu꜕tesu꜕ dhammesu"
+        },
+        {
+          "type": "verse",
+          "html": "Cakkhuṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāṇaṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Paññā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Āloko u꜕da꜓pādi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhikkhus, in rega꜕rd t꜕o thi꜕ngs u꜕nhe꜕ard-o꜕f be꜕fore,"
+        },
+        {
+          "type": "verse",
+          "html": "Visio꜓n a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "I꜕ns꜕ight a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Disce꜕rnm꜕ent a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Knowle꜓dge a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "L꜕ight a꜕rose:"
+        },
+        {
+          "type": "verse",
+          "html": "This is the No꜕ble꜕ Tru꜕th o꜕f th꜕e ca꜕use o꜕f du꜕kkha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-sa꜕mu꜕dayo a꜕riya꜓-sa꜕ccaṃ pa꜕hāta꜕bban’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now this ca꜕use o꜕f du꜕kkha sho꜕uld b꜕e a꜕ba꜕ndoned;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-sa꜕mu꜕dayo a꜕riya꜓-sa꜕ccaṃ pa꜕hīnan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now this ca꜕use o꜕f du꜕kkha ha꜕s be꜕en a꜕ba꜕ndoned."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Idaṃ dukkha꜕-nirodho a꜕riya꜓-sa꜕ccan’t꜕i me bhi꜓kkh꜕ave"
+        },
+        {
+          "type": "verse",
+          "html": "Pubbe a꜕nanussu꜕tesu꜕ dhammesu"
+        },
+        {
+          "type": "verse",
+          "html": "Cakkhuṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāṇaṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Paññā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Āloko u꜕da꜓pādi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhikkhus, in rega꜕rd t꜕o thi꜕ngs u꜕nhe꜕ard-o꜕f be꜕fore,"
+        },
+        {
+          "type": "verse",
+          "html": "Visio꜓n a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "I꜕ns꜕ight a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Disce꜕rnm꜕ent a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Knowle꜓dge a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "L꜕ight a꜕rose:"
+        },
+        {
+          "type": "verse",
+          "html": "This is the No꜕ble꜕ Tr꜕uth o꜕f th꜕e ce꜕ssa꜕ti꜕on o꜕f du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-nirodho a꜕riya꜓-sa꜕ccaṃ sacch꜕ikāta꜓bban’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now the ce꜓ssation o꜕f du꜕kkha should be expe꜕rie꜕nced di꜕re꜕ctly;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-nirodho a꜕riya꜓-sa꜕ccaṃ sacch꜕ika꜕tan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now the ce꜓ssation o꜕f du꜕kkha ha꜕s be꜕en e꜕xpe꜕rie꜕nced di꜕re꜕ctly."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Idaṃ dukkha꜕-nirodha꜕-gāmi꜓nī pa꜕ṭi꜕pa꜕dā a꜕riya꜓-sa꜕ccan’t꜕i me bhi꜓kkh꜕ave"
+        },
+        {
+          "type": "verse",
+          "html": "Pubbe a꜕nanussu꜕tesu꜕ dhammesu"
+        },
+        {
+          "type": "verse",
+          "html": "Cakkhuṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāṇaṃ u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Paññā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjā u꜕da꜓pādi"
+        },
+        {
+          "type": "verse",
+          "html": "Āloko u꜕da꜓pādi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhikkhus, in rega꜕rd t꜕o thi꜕ngs u꜕nhe꜕ard-o꜕f be꜕fore,"
+        },
+        {
+          "type": "verse",
+          "html": "Visio꜓n a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "I꜕ns꜕ight a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Disce꜕rnm꜕ent a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "Knowle꜓dge a꜕rose,"
+        },
+        {
+          "type": "verse",
+          "html": "L꜕ight a꜕rose:"
+        },
+        {
+          "type": "verse",
+          "html": "This is the No꜕ble꜕ Tru꜕th o꜕f th꜕e wa꜕y o꜕f pra꜕ctice"
+        },
+        {
+          "type": "verse",
+          "html": "leading to the ce꜓ssation of du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-nirodha-gāmi꜓nī pa꜕ṭi꜕pa꜕dā a꜕riya꜓-sa꜕ccaṃ bhāvetabban’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Now this wa꜕y o꜕f pra꜕ctice leading to the ce꜓ssation of du꜕kkha"
+        },
+        {
+          "type": "verse",
+          "html": "sho꜕uld be꜕ de꜕ve꜕loped;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ kho pa꜕n’idaṃ dukkha-nirodha-gāmi꜓nī pa꜕ṭi꜕pa꜕dā a꜕riya꜓-sa꜕ccaṃ bhāvi꜓tan’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Now this wa꜕y o꜕f pra꜕ctice leading to the ce꜓ssation of du꜕kkha"
+        },
+        {
+          "type": "verse",
+          "html": "ha꜕s be꜕en de꜕ve꜕loped."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yāva kī꜕vañca꜕ me bhi꜓kkh꜕ave i꜕mesu꜕ ca꜕tūsu a꜕riya꜓-sa꜕ccesu"
+        },
+        {
+          "type": "verse",
+          "html": "Evan-t꜕i-pa꜕rivaṭṭaṃ dvādas’ā꜓kā꜓raṃ yathā꜓-bhūtaṃ ñāṇa-dassa꜕naṃ na su꜕vi꜓su꜕ddhaṃ a꜕hosi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "As long, bhi꜕kkhus, as my knowledge and understa꜕nding,"
+        },
+        {
+          "type": "verse",
+          "html": "As it ac꜕tua꜕lly꜕ is,"
+        },
+        {
+          "type": "verse",
+          "html": "Of these Four No꜓bl꜕e Truths,"
+        },
+        {
+          "type": "verse",
+          "html": "With their three pha꜕se꜕s an꜕d twe꜕lve a꜕spects,"
+        },
+        {
+          "type": "verse",
+          "html": "Was no꜕t e꜕nt꜓irel꜕y pure,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "N’eva tāv’āhaṃ bhi꜓kkh꜕ave sa꜕deva꜓ke loke sa꜕māra꜓ke sa꜕brahma꜓ke"
+        },
+        {
+          "type": "verse",
+          "html": "Sassamaṇa-brāhmaṇiyā pa꜕jāya sa꜕deva-ma꜕nussā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "Anu꜓tta꜕raṃ sa꜓mmā-sa꜓mbodhiṃ a꜕bhisa꜓mbuddho pa꜕ccaññāsiṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Did I not cla꜕im, bhi꜕kkhus,"
+        },
+        {
+          "type": "verse",
+          "html": "In this world of de꜕vas, Mā꜕ra꜕ an꜕d Br꜕ahmā,"
+        },
+        {
+          "type": "verse",
+          "html": "Amongst ma꜕nkind with its priests and renu꜓nci꜕ants,"
+        },
+        {
+          "type": "verse",
+          "html": "Kings and co꜓mmo꜕ners,"
+        },
+        {
+          "type": "verse",
+          "html": "An u꜕lti꜕ma꜕te a꜕wa꜕ke꜕ning"
+        },
+        {
+          "type": "verse",
+          "html": "To unsu꜓rpassed, pe꜕rfe꜕ct e꜕nli꜓ghte꜕nment."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ya꜕to ca꜕ kho me bhi꜓kkh꜕ave i꜕mesu꜕ ca꜕tūsu a꜕riya꜓-sa꜕ccesu"
+        },
+        {
+          "type": "verse",
+          "html": "Evan-t꜕i-pa꜕rivaṭṭaṃ dvādas’ā꜓kā꜓raṃ yathā꜓-bhūtaṃ ñāṇa-dassanaṃ su꜕vi꜓su꜕ddhaṃ ahosi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "But when, bhi꜕kkhus, my knowledge and understa꜕nding"
+        },
+        {
+          "type": "verse",
+          "html": "As it ac꜕tua꜕lly꜕ is,"
+        },
+        {
+          "type": "verse",
+          "html": "Of these Four No꜓bl꜕e Truths,"
+        },
+        {
+          "type": "verse",
+          "html": "With their three pha꜕se꜕s an꜕d twe꜕lve a꜕spects,"
+        },
+        {
+          "type": "verse",
+          "html": "Was inde꜕ed e꜕nt꜓irel꜕y pure,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ath’āhaṃ bhi꜓kkh꜕ave sa꜕deva꜓ke loke sa꜕mār꜓ake sa꜕brahma꜓ke"
+        },
+        {
+          "type": "verse",
+          "html": "Sassamaṇa-brāhmaṇiyā pa꜕jāya sa꜕deva-ma꜕nussā꜓ya"
+        },
+        {
+          "type": "verse",
+          "html": "Anu꜓tta꜕raṃ sa꜓mmā-sa꜓mbodhiṃ a꜕bhisa꜓mbuddho pa꜕cca꜕ññā꜕siṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Th꜕en i꜕ndeed did I cla꜕im, bhi꜕kkhus,"
+        },
+        {
+          "type": "verse",
+          "html": "In this world of de꜕vas, Mā꜕ra꜕ an꜕d Br꜕ahmā,"
+        },
+        {
+          "type": "verse",
+          "html": "Amongst ma꜕nkind with its priests and renu꜓nci꜕ants,"
+        },
+        {
+          "type": "verse",
+          "html": "Kings and co꜓mmo꜕ners,"
+        },
+        {
+          "type": "verse",
+          "html": "An u꜕lti꜕ma꜕te a꜕wa꜕ke꜕ning"
+        },
+        {
+          "type": "verse",
+          "html": "To unsu꜓rpassed, pe꜕rfe꜕ct e꜕nli꜓ghte꜕nment."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ñāṇañca pana me dass꜕anaṃ u꜕da꜓pādi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now kno꜕wle꜕dge an꜕d u꜕nde꜕rst꜕anding aro꜕se i꜕n me:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕kuppā me vi꜓mutti a꜕yam-ant꜕imā jāti natthi꜓ dāni pu꜕nabbh꜕avo’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "My release i꜕s unsh꜓akeable,"
+        },
+        {
+          "type": "verse",
+          "html": "This is my la꜕st birth,"
+        },
+        {
+          "type": "verse",
+          "html": "There won’t be a꜕ny꜕ fu꜕rth꜕er be꜕co꜕ming."
+        }
+      ]
+    }
+  ]
+}

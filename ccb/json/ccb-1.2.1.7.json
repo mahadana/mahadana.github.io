@@ -1,0 +1,59 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.7",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Recollection of the Saṅgha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ saṅghānu꜕ssa꜕ti꜕nayaṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Supaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Ujupaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Ñāyapaṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Sā꜓mīci꜕pa꜕ṭi꜕panno bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Yadidaṃ cattāri purisa꜕yugāni aṭṭha꜓ purisa꜕pugga꜕lā"
+        },
+        {
+          "type": "verse",
+          "html": "Esa bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Āhu꜕neyyo pāhu꜕neyyo dakkhi꜕ṇeyyo añja꜕li-ka꜕ra꜓ṇīyo"
+        },
+        {
+          "type": "verse",
+          "html": "Anu꜓tta꜕raṃ puññakkhe꜕ttaṃ lokassā’ti"
+        }
+      ]
+    }
+  ]
+}

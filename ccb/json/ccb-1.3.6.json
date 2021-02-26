@@ -1,0 +1,316 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.6",
+  "type": "chant",
+  "lang": "en",
+  "title": "The Highest Blessings",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Now let us chant the verses on the Highest Bl꜕essings ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ <u>Thus</u> have I <u>heard</u> that the Ble꜕ssed One ]"
+        },
+        {
+          "type": "verse",
+          "html": "Was staying at Sā꜓va꜕tthī,"
+        },
+        {
+          "type": "verse",
+          "html": "<u>Residing</u> at the Jeta’s Grove"
+        },
+        {
+          "type": "verse",
+          "html": "In Anāthapi꜓ṇḍika꜕’s Park."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>Then</u> in the dark of the night, a ra꜓dia꜕nt de꜕va"
+        },
+        {
+          "type": "verse",
+          "html": "Illuminated <u>all</u> Je꜓ta꜕’s Grove."
+        },
+        {
+          "type": "verse",
+          "html": "She bowed down low before the Ble꜕ssed One"
+        },
+        {
+          "type": "verse",
+          "html": "Then standing to one si꜓de she꜕ said:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Devas are concerned for ha꜓ppiness"
+        },
+        {
+          "type": "verse",
+          "html": "And ever lo꜓ng fo꜕r peace."
+        },
+        {
+          "type": "verse",
+          "html": "The same is true for hu꜓mankind."
+        },
+        {
+          "type": "verse",
+          "html": "What <u>then</u> are the hi꜓ghest ble꜕ssings?’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘A꜕vo꜕iding those of foo꜕lish ways,"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕sso꜕ciating wi꜓th the꜕ wise,"
+        },
+        {
+          "type": "verse",
+          "html": "And ho꜕nouring those wo꜓rthy of ho꜕nour."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Li꜕ving in places of suitable kinds,"
+        },
+        {
+          "type": "verse",
+          "html": "With the frui꜕ts of past goo꜕d deeds"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕nd gui꜕ded by the ri꜓ghtfu꜕l way."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Acco꜕mplished in le꜕arni꜕ng a꜕nd cra꜕ftsman’s skills,"
+        },
+        {
+          "type": "verse",
+          "html": "With di꜕scipline, highl꜕y trained,"
+        },
+        {
+          "type": "verse",
+          "html": "And <u>speech</u> that is true and ple꜓asant to꜕ hear."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Provi꜕ding for mother and father’s support"
+        },
+        {
+          "type": "verse",
+          "html": "And che꜓rishing family,"
+        },
+        {
+          "type": "verse",
+          "html": "And ways of work that ha꜓rm no꜕ being,"
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Generosity and a r꜕ighteous life,"
+        },
+        {
+          "type": "verse",
+          "html": "Offering help to re꜓lati꜕ves and kin,"
+        },
+        {
+          "type": "verse",
+          "html": "And acting in ways that le꜓ave no꜕ blame."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Steadfast in re꜕straint, and shunning e꜓vil ways,"
+        },
+        {
+          "type": "verse",
+          "html": "Avo꜕iding into꜓xicants that du꜕ll the mind,"
+        },
+        {
+          "type": "verse",
+          "html": "And heedfu꜕lness in all things tha꜓t arise."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Respe꜕ctfulness and being of humble ways,"
+        },
+        {
+          "type": "verse",
+          "html": "Contentment and gra꜓titude,"
+        },
+        {
+          "type": "verse",
+          "html": "And hearing the Dha꜕mma fre꜓quentl꜕y taught."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Patience and will꜕ingness to accept one’s faults,"
+        },
+        {
+          "type": "verse",
+          "html": "Seeing venerated se꜓ekers of the꜕ truth,"
+        },
+        {
+          "type": "verse",
+          "html": "And sharing o꜕ften the wo꜓rds of Dha꜕mma."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Ardent, co꜕mmitted to the Ho꜕ly Life,"
+        },
+        {
+          "type": "verse",
+          "html": "Seeing for onese꜓lf the Noble꜕ Truths"
+        },
+        {
+          "type": "verse",
+          "html": "And the realization of Nibbā꜕na."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘Although in co꜕nta꜕ct wi꜕th th꜕e world,"
+        },
+        {
+          "type": "verse",
+          "html": "Unsha꜕ken the mi꜓nd r꜕emains"
+        },
+        {
+          "type": "verse",
+          "html": "Beyond all so꜕rrow, spo꜓tless, se꜕cure."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "‘The꜕y who <u>live</u> by fo꜕llowing this path"
+        },
+        {
+          "type": "verse",
+          "html": "Know vi꜕ctory whe꜓rever the꜕y go,"
+        },
+        {
+          "type": "verse",
+          "html": "And every <u>place</u> for them i꜕s safe."
+        },
+        {
+          "type": "verse",
+          "html": "<u>These</u> are the hi꜓ghest ble꜕ssings.’"
+        }
+      ]
+    }
+  ]
+}

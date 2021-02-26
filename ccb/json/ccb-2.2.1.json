@@ -1,0 +1,114 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Invitation to the Devas",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Pharitvāna mettaṃ samettā bhadantā"
+        },
+        {
+          "type": "verse",
+          "html": "Avikkhitta-cittā parittaṃ bhaṇantu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Samantā cakka-vāḷesu"
+        },
+        {
+          "type": "verse",
+          "html": "Atr’āgacchantu devatā"
+        },
+        {
+          "type": "verse",
+          "html": "Saddhammaṃ muni-rājassa"
+        },
+        {
+          "type": "verse",
+          "html": "Suṇantu sagga-mokkha-daṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sagge kāme ca rūpe"
+        },
+        {
+          "type": "verse",
+          "html": "Giri-sikhara-taṭe c’antalikkhe vimāne"
+        },
+        {
+          "type": "verse",
+          "html": "Dīpe raṭṭhe ca gāme"
+        },
+        {
+          "type": "verse",
+          "html": "Taru-vana-gahane geha-vatthumhi khette"
+        },
+        {
+          "type": "verse",
+          "html": "Bhummā c’āyantu devā"
+        },
+        {
+          "type": "verse",
+          "html": "Jala-thala-visame yakkha-gandhabba-nāgā"
+        },
+        {
+          "type": "verse",
+          "html": "Tiṭṭhantā santike yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Muni-vara-vacanaṃ sādhavo me suṇantu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dhammassavana-kālo ayam-bhadantā"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Three times, or"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Buddha-dassana-kālo ayam-bhadantā"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammassavana-kālo ayam-bhadantā"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅgha-payirūpāsana-kālo ayam-bhadantā"
+        }
+      ]
+    }
+  ]
+}

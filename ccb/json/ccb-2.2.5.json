@@ -1,0 +1,81 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.5",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Namo-kāra-aṭṭhaka",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Namo arahato sammā"
+        },
+        {
+          "type": "verse",
+          "html": "Sambuddhassa mahesino"
+        },
+        {
+          "type": "verse",
+          "html": "Namo uttama-dhammassa"
+        },
+        {
+          "type": "verse",
+          "html": "Svākkhātass’eva ten’idha"
+        },
+        {
+          "type": "verse",
+          "html": "Namo mahā-saṅghassāpi"
+        },
+        {
+          "type": "verse",
+          "html": "Visuddha-sīla-diṭṭhino"
+        },
+        {
+          "type": "verse",
+          "html": "Namo omāty-āraddhassa"
+        },
+        {
+          "type": "verse",
+          "html": "Ratanattayassa sādhukaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Namo omakātītassa"
+        },
+        {
+          "type": "verse",
+          "html": "Tassa vatthuttayassa-pi"
+        },
+        {
+          "type": "verse",
+          "html": "Namo-kārappabhāvena"
+        },
+        {
+          "type": "verse",
+          "html": "Vigacchantu upaddavā"
+        },
+        {
+          "type": "verse",
+          "html": "Namo-kārānubhāvena"
+        },
+        {
+          "type": "verse",
+          "html": "Suvatthi hotu sabbadā"
+        },
+        {
+          "type": "verse",
+          "html": "Namo-kārassa tejena"
+        },
+        {
+          "type": "verse",
+          "html": "Vidhimhi homi tejavā"
+        }
+      ]
+    }
+  ]
+}

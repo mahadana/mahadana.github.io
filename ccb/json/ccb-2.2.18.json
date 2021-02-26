@@ -1,0 +1,65 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.18",
+  "type": "chant",
+  "lang": "pi",
+  "title": "N’atthi me saraṇaṃ aññaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "N’atthi me saraṇaṃ aññaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Buddho me saraṇaṃ varaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca-vajjena"
+        },
+        {
+          "type": "verse",
+          "html": "Hotu te jaya-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "N’atthi me saraṇaṃ aññaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammo me saraṇaṃ varaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca-vajjena"
+        },
+        {
+          "type": "verse",
+          "html": "Hotu te jaya-maṅgalaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "N’atthi me saraṇaṃ aññaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅgho me saraṇaṃ varaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca-vajjena"
+        },
+        {
+          "type": "verse",
+          "html": "Hotu te jaya-maṅgalaṃ"
+        }
+      ]
+    }
+  ]
+}

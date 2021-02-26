@@ -1,0 +1,116 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.4",
+  "type": "chant",
+  "lang": "en",
+  "title": "Supreme Praise of the Buddha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the supreme praise of the Bud꜕dha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "The꜕ Buddha, the꜕ truly wo꜓rthy one, e꜕ndowed with"
+        },
+        {
+          "type": "verse",
+          "html": "such e꜓xcellent qua꜕lities,"
+        },
+        {
+          "type": "verse",
+          "html": "Whose being is composed of pu꜕rity, transcendental wi꜓sdom,"
+        },
+        {
+          "type": "verse",
+          "html": "and compa꜕ssion,"
+        },
+        {
+          "type": "verse",
+          "html": "Who has e꜕nlightened the wise like the꜕ sun awa꜓kening the lo꜕tus —"
+        },
+        {
+          "type": "verse",
+          "html": "I bow m꜕y head to tha꜕t peaceful chi꜓ef of co꜕nquerors."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Buddha, who is the꜕ safe, se꜕cure re꜓fuge of al꜖l beings —"
+        },
+        {
+          "type": "verse",
+          "html": "As the꜕ First Object of Re꜕colle꜓ction, I꜕ venerate him with bo꜓wed head."
+        },
+        {
+          "type": "verse",
+          "html": "I am indeed the Buddha’s se꜕rvant, the꜕ Buddha is my Lo꜓rd a꜕nd Guide."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Buddha is sorrow’s destro꜕yer, who bestows ble꜓ssi꜓ngs o꜕n me."
+        },
+        {
+          "type": "verse",
+          "html": "To the꜕ Buddha I de꜓dicate this bo꜕d꜕y and life,"
+        },
+        {
+          "type": "verse",
+          "html": "And in de꜕votion I wi꜕ll <u>walk</u> the Buddha’s Pa꜓th of A꜕wa꜕kening."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other re꜕fuge, the꜕ Buddha is my e꜓xcelle꜕nt re꜕fuge."
+        },
+        {
+          "type": "verse",
+          "html": "By the꜕ utterance of thi꜕s <u>Truth</u>, may I grow in the Ma꜓ste꜕r’s Way."
+        },
+        {
+          "type": "verse",
+          "html": "By my de꜕votion to the Bu꜕ddha, and the꜕ blessing of this pra꜓ctice —"
+        },
+        {
+          "type": "verse",
+          "html": "By i꜕ts power, may a꜕ll obstacles be o꜓ve꜕rcome."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "By body, speech, o꜕r mind,"
+        },
+        {
+          "type": "verse",
+          "html": "For whatever wro꜕ng action I have co꜕mmitted towards the Bu꜕ddha,"
+        },
+        {
+          "type": "verse",
+          "html": "May my a꜕cknowledgement of fault be acce꜓pted,"
+        },
+        {
+          "type": "verse",
+          "html": "That i꜕n future there may be re꜕straint regarding the Bu꜕ddha."
+        }
+      ]
+    }
+  ]
+}

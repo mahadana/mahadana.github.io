@@ -1,0 +1,1109 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.25.2",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Āṭānāṭiya Paritta (long version)",
+  "children": [
+    {
+      "type": "aside",
+      "center": true,
+      "html": "Solo introduction"
+    },
+    {
+      "type": "grid",
+      "center": true,
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Appasannehi nāthassa"
+            },
+            {
+              "type": "verse",
+              "html": "sāsane sādhusammate"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Amanussehi caṇḍehi"
+            },
+            {
+              "type": "verse",
+              "html": "sadā kibbisakāribhi"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Parisānañca-tassannam"
+            },
+            {
+              "type": "verse",
+              "html": "ahiṃsāya ca guttiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yandesesi mahāvīro"
+            },
+            {
+              "type": "verse",
+              "html": "parittan-tam bhaṇāma se."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "[ Namo me sabbabuddhānaṃ ]"
+            },
+            {
+              "type": "verse",
+              "html": "uppannānaṃ mahesinaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Taṇhaṅkaro mahāvīro"
+            },
+            {
+              "type": "verse",
+              "html": "medhaṅkaro mahāyaso"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Saraṇaṅkaro lokahito"
+            },
+            {
+              "type": "verse",
+              "html": "dīpaṅkaro jutindharo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Koṇḍañño janapāmokkho"
+            },
+            {
+              "type": "verse",
+              "html": "maṅgalo purisāsabho"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sumano sumano dhīro"
+            },
+            {
+              "type": "verse",
+              "html": "revato rativaḍḍhano"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sobhito guṇasampanno"
+            },
+            {
+              "type": "verse",
+              "html": "anomadassī januttamo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Padumo lokapajjoto"
+            },
+            {
+              "type": "verse",
+              "html": "nārado varasārathī"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Padumuttaro sattasāro"
+            },
+            {
+              "type": "verse",
+              "html": "sumedho appaṭipuggalo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sujāto sabbalokaggo"
+            },
+            {
+              "type": "verse",
+              "html": "piyadassī narāsabho"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Atthadassī kāruṇiko"
+            },
+            {
+              "type": "verse",
+              "html": "dhammadassī tamonudo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Siddhattho asamo loke"
+            },
+            {
+              "type": "verse",
+              "html": "tisso ca vadataṃ varo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Phusso ca varado buddho"
+            },
+            {
+              "type": "verse",
+              "html": "vipassī ca anūpamo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sikhī sabbahito satthā"
+            },
+            {
+              "type": "verse",
+              "html": "vessabhū sukhadāyako"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Kakusandho satthavāho"
+            },
+            {
+              "type": "verse",
+              "html": "koṇāgamano raṇañjaho"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Kassapo sirisampanno"
+            },
+            {
+              "type": "verse",
+              "html": "gotamo sakyapuṅgavo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ete caññe ca sambuddhā"
+            },
+            {
+              "type": "verse",
+              "html": "anekasatakoṭayo"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe buddhā asamasamā"
+            },
+            {
+              "type": "verse",
+              "html": "sabbe buddhā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe dasabalūpetā"
+            },
+            {
+              "type": "verse",
+              "html": "vesārajjehupāgatā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe te paṭijānanti"
+            },
+            {
+              "type": "verse",
+              "html": "āsabhaṇṭhānamuttamaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sīhanādaṃ nadantete"
+            },
+            {
+              "type": "verse",
+              "html": "parisāsu visāradā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Brahmacakkaṃ pavattenti"
+            },
+            {
+              "type": "verse",
+              "html": "loke appaṭivattiyaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Upetā buddhadhammehi"
+            },
+            {
+              "type": "verse",
+              "html": "aṭṭhārasahi nāyakā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dvattiṃsa-lakkhaṇūpetā"
+            },
+            {
+              "type": "verse",
+              "html": "sītyānubyañjanādharā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Byāmappabhāya suppabhā"
+            },
+            {
+              "type": "verse",
+              "html": "sabbe te munikuñjarā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Buddhā sabbaññuno ete"
+            },
+            {
+              "type": "verse",
+              "html": "sabbe khīṇāsavā jinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mahappabhā mahātejā"
+            },
+            {
+              "type": "verse",
+              "html": "mahāpaññā mahabbalā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mahākāruṇikā dhīrā"
+            },
+            {
+              "type": "verse",
+              "html": "sabbesānaṃ sukhāvahā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dīpā nāthā patiṭṭhā"
+            },
+            {
+              "type": "verse",
+              "html": "ca tāṇā leṇā ca pāṇinaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Gatī bandhū mahassāsā"
+            },
+            {
+              "type": "verse",
+              "html": "saraṇā ca hitesino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sadevakassa lokassa"
+            },
+            {
+              "type": "verse",
+              "html": "sabbe ete parāyanā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tesāhaṃ sirasā pāde"
+            },
+            {
+              "type": "verse",
+              "html": "vandāmi purisuttame"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Vacasā manasā ceva"
+            },
+            {
+              "type": "verse",
+              "html": "vandāmete tathāgate"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sayane āsane ṭhāne"
+            },
+            {
+              "type": "verse",
+              "html": "gamane cāpi sabbadā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sadā sukhena rakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "buddhā santikarā tuvaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tehi tvaṃ rakkhito santo"
+            },
+            {
+              "type": "verse",
+              "html": "mutto sabbabhayena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabba-rogavinimutto"
+            },
+            {
+              "type": "verse",
+              "html": "sabba-santāpavajjito"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabba-veramatikkanto"
+            },
+            {
+              "type": "verse",
+              "html": "nibbuto ca tuvaṃ bhava"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tesaṃ saccena sīlena"
+            },
+            {
+              "type": "verse",
+              "html": "khantimettābalena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe  anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Puratthimasmiṃ disābhāge"
+            },
+            {
+              "type": "verse",
+              "html": "santi bhūtā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dakkhiṇasmiṃ disābhāge"
+            },
+            {
+              "type": "verse",
+              "html": "santi devā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pacchimasmiṃ disābhāge"
+            },
+            {
+              "type": "verse",
+              "html": "santi nāgā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Uttarasmiṃ disābhāge"
+            },
+            {
+              "type": "verse",
+              "html": "santi yakkhā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Purimadisaṃ dhataraṭṭho"
+            },
+            {
+              "type": "verse",
+              "html": "dakkhiṇena viruḷhako"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pacchimena virūpakkho"
+            },
+            {
+              "type": "verse",
+              "html": "kuvero uttaraṃ disaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Cattāro te mahārājā"
+            },
+            {
+              "type": "verse",
+              "html": "lokapālā yasassino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ākāsaṭṭhā ca bhummaṭṭhā"
+            },
+            {
+              "type": "verse",
+              "html": "devā nāgā mahiddhikā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Tepi tumhe anurakkhantu"
+            },
+            {
+              "type": "verse",
+              "html": "ārogyena sukhena ca"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Natthi me saraṇaṃ aññaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "buddho me saraṇaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena saccavajjena"
+            },
+            {
+              "type": "verse",
+              "html": "hotu te  jayamaṅgalaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Natthi me saraṇaṃ aññaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "dhammo me saraṇaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena saccavajjena"
+            },
+            {
+              "type": "verse",
+              "html": "hotu te jayamaṅgalaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Natthi me saraṇaṃ aññaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "saṅgho me saraṇaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Etena saccavajjena"
+            },
+            {
+              "type": "verse",
+              "html": "hotu te jayamaṅgalaṃ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yaṅkiñci ratanaṃ loke"
+            },
+            {
+              "type": "verse",
+              "html": "vijjati vividhaṃ puthu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ratanaṃ buddhasamaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "natthi tasmā sotthī bhavantu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yaṅkiñci ratanaṃ loke"
+            },
+            {
+              "type": "verse",
+              "html": "vijjati vividhaṃ puthu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ratanaṃ dhammasamaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "natthi tasmā sotthī bhavantu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Yaṅkiñci ratanaṃ loke"
+            },
+            {
+              "type": "verse",
+              "html": "vijjati vividhaṃ puthu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ratanaṃ saṅghasamaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "natthi tasmā sotthī bhavantu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā buddharatanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Hitaṃ devamanussānaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "buddhatejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassantupaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "dukkhā vūpasamentu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā dhammaratanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Pariḷāhūpasamanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "dhammatejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassantupaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "bhayā vūpasamentu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sakkatvā saṅgharatanaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "osathaṃ uttamaṃ varaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Āhuneyyaṃ pāhuneyyaṃ"
+            },
+            {
+              "type": "verse",
+              "html": "saṅghatejena sotthinā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Nassantupaddavā sabbe"
+            },
+            {
+              "type": "verse",
+              "html": "rogā vūpasamentu te"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbītiyo vivajjantu"
+            },
+            {
+              "type": "verse",
+              "html": "sabbarogo vinassatu"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Mā te bhavatvantarāyo"
+            },
+            {
+              "type": "verse",
+              "html": "sukhī dīghāyuko bhava"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Abhivādanasīlissa"
+            },
+            {
+              "type": "verse",
+              "html": "niccaṃ vuḍḍhāpacāyino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Cattāro dhammā vaḍḍhanti"
+            },
+            {
+              "type": "verse",
+              "html": "āyu vaṇṇo sukhaṃ balaṃ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

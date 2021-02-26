@@ -1,0 +1,190 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.7",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "The Five Precepts",
+  "children": [
+    {
+      "type": "aside",
+      "html": "Repeat each precept after the leader"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pāṇātipātā vera꜓maṇī sikkhā꜓padaṃ sa꜓mādi꜕yāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I undertake the precept to refrain from taking the life of any living creature."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Adinnādānā vera꜓maṇī sikkhā꜓padaṃ sa꜓mādi꜕yāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I undertake the precept to refrain from taking that which is not given."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kāmesu micchā꜓cārā vera꜓maṇī sikkhā꜓padaṃ sa꜓mādi꜕yāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I undertake the precept to refrain from sexual misconduct."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Musā꜓vādā vera꜓maṇī sikkhā꜓padaṃ sa꜓mādi꜕yāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I undertake the precept to refrain from lying."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Surāmeraya-majja-pamādaṭṭhā꜓nā vera꜓maṇī sikkhā꜓padaṃ sa꜓mādi꜕yāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I undertake the precept to refrain from consuming intoxicating drink and drugs which lead to carelessness."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Leader:"
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Imāni pañca sikkhā꜓padāni"
+        },
+        {
+          "type": "verse",
+          "html": "Sī꜓lena suga꜕tiṃ yanti"
+        },
+        {
+          "type": "verse",
+          "html": "Sī꜓lena bhoga꜕sa꜓mpadā"
+        },
+        {
+          "type": "verse",
+          "html": "Sī꜓lena nibbu꜕tiṃ yanti"
+        },
+        {
+          "type": "verse",
+          "html": "Tasmā꜓ sī꜓laṃ viso꜓dhaye ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "These are the Five Precepts;"
+        },
+        {
+          "type": "verse",
+          "html": "virtue is the source of happiness,"
+        },
+        {
+          "type": "verse",
+          "html": "virtue is the source of true wealth,"
+        },
+        {
+          "type": "verse",
+          "html": "virtue is the source of peacefulness —"
+        },
+        {
+          "type": "verse",
+          "html": "Therefore let virtue be purified."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Response:"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sādhu, sādhu, sādhu"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bow three times"
+    }
+  ]
+}

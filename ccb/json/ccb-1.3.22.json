@@ -1,0 +1,127 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.22",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on the Buddha’s First Exclamation",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ paṭhama-bu꜕ddha-bhāsi꜕ta-gāthāyo bh꜕aṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A꜕neka꜕-jāti꜕-sa꜓ṃsā꜓raṃ"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜕ndhāviss꜓aṃ a꜕nibbi꜕saṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ga꜕ha-kā꜕raṃ ga꜕vesa꜓nto"
+        },
+        {
+          "type": "verse",
+          "html": "dukkhā jāt꜕i pu꜕nappu꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "For many lifetimes in the ro꜕und o꜕f birth,"
+        },
+        {
+          "type": "verse",
+          "html": "Wandering on e꜓ndle꜕ssly,"
+        },
+        {
+          "type": "verse",
+          "html": "For the bu꜕ilde꜕r o꜕f th꜕is ho꜕use I꜕ searched —"
+        },
+        {
+          "type": "verse",
+          "html": "How painful is repe꜓ated꜕ birth."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ga꜕ha-kā꜕raka꜕ diṭṭho꜓’si"
+        },
+        {
+          "type": "verse",
+          "html": "pu꜕na gehaṃ na kā꜓hasi"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbā te phāsu꜕kā bhaggā"
+        },
+        {
+          "type": "verse",
+          "html": "gaha-kūṭa꜓ṃ vi꜕saṅkh꜕ataṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Visa꜓ṅkhā꜕ra-ga꜕taṃ ci꜕ttaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "taṇhānaṃ kh꜕aya꜕m-ajjh꜕agā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "House-builder yo꜕u’ve be꜕en seen,"
+        },
+        {
+          "type": "verse",
+          "html": "Another home you w꜓ill no꜕t build,"
+        },
+        {
+          "type": "verse",
+          "html": "All your ra꜕fte꜕rs ha꜕ve be꜕en snapped,"
+        },
+        {
+          "type": "verse",
+          "html": "Dismantle꜓d is your ri꜕dge-pole;"
+        },
+        {
+          "type": "verse",
+          "html": "The non-co꜓nstructing mi꜕nd"
+        },
+        {
+          "type": "verse",
+          "html": "Ha꜕s co꜕me to꜕ cra꜕vi꜕ng’s end."
+        }
+      ]
+    }
+  ]
+}

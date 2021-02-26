@@ -1,0 +1,211 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.2",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on the Sharing of Merit",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ sa꜕bba-patti-dāna-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Puññass’i꜕dāni꜓ ka꜕ta꜕ssa yān’aññāni꜓ ka꜕tāni꜓ me"
+        },
+        {
+          "type": "verse",
+          "html": "Tesa꜓ñca꜕ bhāgi꜕no ho꜓ntu꜕ sa꜕ttānantā꜕ppa꜕māṇa꜓kā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "May whate꜕ve꜕r li꜕vi꜕ng be꜕ings,"
+        },
+        {
+          "type": "verse",
+          "html": "Without measure, wi꜓tho꜕ut end,"
+        },
+        {
+          "type": "verse",
+          "html": "Parta꜕ke o꜕f al꜕l th꜕e me꜕rit,"
+        },
+        {
+          "type": "verse",
+          "html": "From the good deeds I꜓ ha꜕ve done:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye pi꜕yā gu꜓ṇavantā ca꜕ mayhaṃ mātā-pi꜕tāda꜓yo"
+        },
+        {
+          "type": "verse",
+          "html": "Diṭṭhā me cāpy꜕adiṭṭhā vā aññe majjh꜓att꜕a-veri꜓no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Those loved an꜓d full of go꜕odness,"
+        },
+        {
+          "type": "verse",
+          "html": "My mother and my fa꜓th꜕er dear,"
+        },
+        {
+          "type": "verse",
+          "html": "Beings seen by me and tho꜕se u꜕nseen,"
+        },
+        {
+          "type": "verse",
+          "html": "Those neutral an꜓d a꜕verse,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕ttā tiṭṭha꜓nti꜕ lokasmiṃ te-bhummā ca꜕tu꜕-yoni꜓kā"
+        },
+        {
+          "type": "verse",
+          "html": "Pañc’eka꜕-ca꜕tu꜕-vokārā sa꜓ṃsa꜕rantā bh꜕avābha꜕ve"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Beings esta꜕bli꜕shed i꜕n th꜕e world,"
+        },
+        {
+          "type": "verse",
+          "html": "From the three planes and four gro꜓unds o꜕f birth,"
+        },
+        {
+          "type": "verse",
+          "html": "With five a꜕ggr꜕ega꜕tes o꜕r on꜕e o꜕r fo꜕ur,"
+        },
+        {
+          "type": "verse",
+          "html": "Wand’ring on from re꜓alm to꜕ realm,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ñātaṃ ye pa꜕tti꜓-dānam-me a꜕nu꜓modantu꜕ te sa꜕yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ye c’imaṃ nappa꜕jānanti devā tesa꜓ṃ ni꜕veda꜕yuṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Those who kno꜕w m꜕y ac꜕t of꜕ de꜕di꜕ca꜕tion,"
+        },
+        {
+          "type": "verse",
+          "html": "May they all rejo꜓ice in꜕ it,"
+        },
+        {
+          "type": "verse",
+          "html": "And as for those yet u꜕na꜕ware,"
+        },
+        {
+          "type": "verse",
+          "html": "May the devas le꜓t th꜕em know."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ma꜓yā dinnāna-puññānaṃ a꜕nu꜓moda꜕na-he꜓tu꜕nā"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā sa꜕dā ho꜓ntu꜕ a꜕verā su꜕kh꜕a-jīvi꜓no"
+        },
+        {
+          "type": "verse",
+          "html": "Kh꜓ema꜓ppa꜕dañca꜕ pa꜕ppontu꜕ tesā꜓sā꜓ si꜕jjha꜕taṃ su꜕bhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "By rejo꜕ici꜕ng in꜕ my꜕ sha꜕ring,"
+        },
+        {
+          "type": "verse",
+          "html": "May all beings liv꜓e a꜕t ease,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edo꜕m fro꜕m ho꜕st꜕il꜕ity,"
+        },
+        {
+          "type": "verse",
+          "html": "May their good wishes b꜓e fu꜕lfilled,"
+        },
+        {
+          "type": "verse",
+          "html": "And may they a꜕ll re꜕ach sa꜕fety."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.5",
+  "type": "chant",
+  "lang": "en",
+  "title": "Recollection of the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the recollection of the Dha꜕mma. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "The꜕ Dhamma is we꜕ll expo꜓unded by the Ble꜕ssed One,"
+        },
+        {
+          "type": "verse",
+          "html": "Apparent here a꜕nd now, timeless, e꜕ncouraging inve꜕stiga꜓tion,"
+        },
+        {
+          "type": "verse",
+          "html": "Leading i꜕nwards, to be e꜕xperienced indi꜕vidually by꜓ the꜕ wise."
+        }
+      ]
+    }
+  ]
+}

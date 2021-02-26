@@ -1,0 +1,132 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.4.2",
+  "type": "chant",
+  "lang": "en",
+  "title": "Reflection on Universal Well-Being",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Now let us chant the reflections on universal we꜕ll-being. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ May I abi꜕de in we꜓ll-being, ]"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m a꜕ffliction,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m ho꜕sti꜓lity,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m i꜕ll-will,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m a꜕nxi꜓ety,"
+        },
+        {
+          "type": "verse",
+          "html": "And may I <u>mainta꜖in</u> we꜖ll-be꜓ing in m꜕yself."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "May everyone abi꜕de in we꜓ll-being,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m ho꜕sti꜓lity,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m i꜕ll-will,"
+        },
+        {
+          "type": "verse",
+          "html": "In fre꜕edom fro꜓m a꜕nxi꜓ety, and may they"
+        },
+        {
+          "type": "verse",
+          "html": "<u>Mainta꜖in</u> we꜖ll-be꜓ing in the꜕mselves."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "May <u>all</u> beings be rele꜖ased fro꜕m a꜕ll su꜓ffering."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "And may they not be pa꜓rted from the꜕ <u>good fo꜓rtune</u> they have a꜕ttained."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "When they act upon inte꜕ntion,"
+        },
+        {
+          "type": "verse",
+          "html": "<u>All</u> beings a꜕re the o꜓wners of their a꜕ction and inhe꜓rit its re꜕sults."
+        },
+        {
+          "type": "verse",
+          "html": "Their futu꜓re is born from such a꜕ction, compa꜓nion to such a꜕ction,"
+        },
+        {
+          "type": "verse",
+          "html": "And its <u>results</u> will be꜖ the꜓ir home."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>All</u> a꜓ctions with inte꜕ntion,"
+        },
+        {
+          "type": "verse",
+          "html": "Be the꜓y <u>skilful</u> or ha꜓rmful —"
+        },
+        {
+          "type": "verse",
+          "html": "Of su꜕ch <u>acts</u> they will be꜕ the꜓ heirs."
+        }
+      ]
+    }
+  ]
+}

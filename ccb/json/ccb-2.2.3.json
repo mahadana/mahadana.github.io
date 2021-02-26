@@ -1,0 +1,63 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.3",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Saraṇa-gamana-pāṭho",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dutiyam pi buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dutiyam pi dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Dutiyam pi saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tatiyam pi buddhaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Tatiyam pi dhammaṃ saraṇaṃ gacchāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Tatiyam pi saṅghaṃ saraṇaṃ gacchāmi"
+        }
+      ]
+    }
+  ]
+}

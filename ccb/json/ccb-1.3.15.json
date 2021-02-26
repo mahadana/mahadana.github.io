@@ -1,0 +1,247 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.15",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "True and False Refuges",
+  "children": [
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ khemākhema-sa꜕raṇa-gamana-"
+        },
+        {
+          "type": "verse",
+          "html": "-pa꜕ridīpikā-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bahuṃ ve sa꜕ra꜓ṇaṃ yanti꜕"
+        },
+        {
+          "type": "verse",
+          "html": "pa꜕bba꜕tāni va꜕nāni꜓ ca"
+        },
+        {
+          "type": "verse",
+          "html": "Ārāma-rukkha꜕-cetyāni"
+        },
+        {
+          "type": "verse",
+          "html": "manussā꜓ bha꜕ya꜕-tajji꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "To many re꜕fu꜕ge꜕s th꜕ey go —"
+        },
+        {
+          "type": "verse",
+          "html": "To mountain slopes and fo꜓re꜕st glades,"
+        },
+        {
+          "type": "verse",
+          "html": "To pa꜕rkla꜕nd shri꜕nes an꜕d sa꜕cre꜕d sites —"
+        },
+        {
+          "type": "verse",
+          "html": "People overco꜓me by꜕ fear."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "N’etaṃ kho sa꜕ra꜓ṇaṃ khemaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "n’etaṃ sa꜕raṇam-u꜓tt꜕amaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "N’etaṃ sa꜕raṇam-āgamma"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜕bba-dukkhā꜓ pa꜕mucca꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Such a refuge is no꜕t se꜕cure,"
+        },
+        {
+          "type": "verse",
+          "html": "Such a refuge is no꜓t su꜕preme,"
+        },
+        {
+          "type": "verse",
+          "html": "Such a꜓ refuge do꜕es no꜕t bring"
+        },
+        {
+          "type": "verse",
+          "html": "Complete release from suf꜕fe꜕ring."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yo ca꜕ Buddhañca꜕ Dhammañca꜕"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜓ṅghañca꜕ sa꜓ra꜕ṇaṃ ga꜕to"
+        },
+        {
+          "type": "verse",
+          "html": "Ca꜕ttāri a꜕riya-saccāni"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜕mmappaññāya꜓ pa꜕ss꜕ati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Whoe꜕ve꜕r go꜕es t꜕o r꜕efuge"
+        },
+        {
+          "type": "verse",
+          "html": "In the Tr꜓iple꜕ Gem"
+        },
+        {
+          "type": "verse",
+          "html": "Sees with ri꜓ght disce꜕rnment"
+        },
+        {
+          "type": "verse",
+          "html": "The Fo꜕ur No꜕bl꜕e Truths:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ dukkha-sa꜕muppādaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "dukkhassa ca꜕ a꜕ti꜕kka꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕riyañ-c’a꜕ṭṭh’a꜓ṅgi꜕kaṃ maggaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "dukkhūpasa꜕ma꜕-gāmi꜓naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Suffering an꜕d it꜕s o꜕rigin"
+        },
+        {
+          "type": "verse",
+          "html": "And that which li꜓es be꜕yond —"
+        },
+        {
+          "type": "verse",
+          "html": "The Nob꜕le E꜕ightfo꜕ld Path"
+        },
+        {
+          "type": "verse",
+          "html": "That leads th꜓e way to su꜕ff’r꜕ing’s end."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Etaṃ kho sa꜕ra꜓ṇaṃ khemaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "etaṃ sa꜕raṇam-u꜓tta꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etaṃ sa꜕raṇam-āgamma"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜕bba-dukkhā꜓ pa꜕mucca꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Such a꜓ refuge i꜕s se꜕cure,"
+        },
+        {
+          "type": "verse",
+          "html": "Such a refuge i꜓s su꜕preme,"
+        },
+        {
+          "type": "verse",
+          "html": "Such a refuge tr꜕uly꜕ brings"
+        },
+        {
+          "type": "verse",
+          "html": "Complete r꜓elease from all su꜕ffe꜕ring."
+        }
+      ]
+    }
+  ]
+}

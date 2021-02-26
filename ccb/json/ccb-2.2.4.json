@@ -1,0 +1,123 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.4",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Nama-kāra-siddhi-gāthā",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yo cakkhumā moha-malāpakaṭṭho"
+        },
+        {
+          "type": "verse",
+          "html": "Sāmaṃ va buddho sugato vimutto"
+        },
+        {
+          "type": "verse",
+          "html": "Mārassa pāsā vinimocayanto"
+        },
+        {
+          "type": "verse",
+          "html": "Pāpesi khemaṃ janataṃ vineyyaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhaṃ varan-taṃ sirasā namāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Lokassa nāthañ-ca vināyakañ-ca"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā te jaya-siddhi hotu"
+        },
+        {
+          "type": "verse",
+          "html": "Sabb’antarāyā ca vināsamentu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dhammo dhajo yo viya tassa satthu"
+        },
+        {
+          "type": "verse",
+          "html": "Dassesi lokassa visuddhi-maggaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Niyyāniko dhamma-dharassa dhārī"
+        },
+        {
+          "type": "verse",
+          "html": "Sāt’āvaho santi-karo suciṇṇo"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ varan-taṃ sirasā namāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Mohappadālaṃ upasanta-dāhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā te jaya-siddhi hotu"
+        },
+        {
+          "type": "verse",
+          "html": "Sabb’antarāyā ca vināsamentu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Saddhamma-senā sugatānugo yo"
+        },
+        {
+          "type": "verse",
+          "html": "Lokassa pāpūpakilesa-jetā"
+        },
+        {
+          "type": "verse",
+          "html": "Santo sayaṃ santi-niyojako ca"
+        },
+        {
+          "type": "verse",
+          "html": "Svākkhāta-dhammaṃ viditaṃ karoti"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅghaṃ varan-taṃ sirasā namāmi"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhānubuddhaṃ sama-sīla-diṭṭhiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Tan-tejasā te jaya-siddhi hotu"
+        },
+        {
+          "type": "verse",
+          "html": "Sabb’antarāyā ca vināsamentu"
+        }
+      ]
+    }
+  ]
+}

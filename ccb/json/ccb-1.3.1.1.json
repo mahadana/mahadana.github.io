@@ -1,0 +1,91 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.1.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Verses of Sharing and Aspiration",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ uddissanādhiṭṭhāna-gāthā꜓yo b꜕haṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Iminā puñña꜕kammena ] u꜕pajjhāyā gu꜕ṇutta꜕rā"
+        },
+        {
+          "type": "verse",
+          "html": "Ācariyūpa꜕kārā ca꜕ mātāpitā ca꜕ ñāta꜕kā"
+        },
+        {
+          "type": "verse",
+          "html": "Suriyo candimā rājā gu꜕ṇavantā na꜕rāpi꜕ ca꜕"
+        },
+        {
+          "type": "verse",
+          "html": "Brahma-mārā ca꜕ indā ca꜕ loka꜕pālā ca꜕ deva꜕tā"
+        },
+        {
+          "type": "verse",
+          "html": "Yamo mittā ma꜕nussā ca majjhattā veri꜕kāpi꜕ ca꜕"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sattā sukhī hontu puññāni pa꜕ka꜕tāni꜕ me"
+        },
+        {
+          "type": "verse",
+          "html": "Sukhañca tividhaṃ dentu꜕ khippaṃ pāpetha꜕ voma꜕taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Iminā puññakammena iminā uddi꜕ssena꜕ ca꜕"
+        },
+        {
+          "type": "verse",
+          "html": "Khipp’āhaṃ su꜕la꜕bhe ceva taṇhūpādāna꜕-cheda꜕naṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Ye santāne hīnā dhammā yāva꜕ nibbāna꜕to ma꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Nassantu sabba꜕dā yeva yattha꜕ jāto bha꜕ve bha꜕ve"
+        },
+        {
+          "type": "verse",
+          "html": "Ujucittaṃ sa꜕ti꜕paññā sallekho vi꜕ri꜕yamhinā"
+        },
+        {
+          "type": "verse",
+          "html": "Mārā labhantu nokāsaṃ kātuñca vi꜕ri꜕yes꜕u me"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhādhipa꜕va꜕ro nātho dhammo nātho va꜕rutta꜕mo"
+        },
+        {
+          "type": "verse",
+          "html": "Nātho pacceka꜕buddho ca꜕ saṅgho nāthotta꜕ro ma꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Tesottamānubhāvena mārokāsaṃ la꜕bhantu꜕ mā"
+        }
+      ]
+    }
+  ]
+}

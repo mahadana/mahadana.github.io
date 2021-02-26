@@ -1,0 +1,119 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.4.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Reflection on Universal Well-Being",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayam mettāpharaṇaṃ ka꜕romase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Aha꜓ṃ sukhito ho꜓mi ]"
+        },
+        {
+          "type": "verse",
+          "html": "Niddukkho ho꜓mi"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕vero ho꜓mi"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕byāpajjho ho꜓mi"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕nīgho ho꜓mi"
+        },
+        {
+          "type": "verse",
+          "html": "Sukhī꜓ attānaṃ pa꜕riha꜓rāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā sukhitā ho꜓ntu"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā averā ho꜓ntu"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā abyāpajjhā ho꜓ntu"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā anīghā ho꜓ntu"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā sukhī꜓ a꜕ttānaṃ pa꜕riha꜓rantu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā sabbadukkhā pamucca꜓ntu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā laddha-sa꜓mpa꜕tti꜓to mā vigaccha꜓ntu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ttā kammassa꜕kā kamma꜓dāyādā kamma꜓yonī"
+        },
+        {
+          "type": "verse",
+          "html": "kamma꜓bandhū kammapa꜕ṭisa꜓ra꜕ṇā"
+        },
+        {
+          "type": "verse",
+          "html": "Yaṃ kammaṃ ka꜕rissa꜓nti"
+        },
+        {
+          "type": "verse",
+          "html": "Kalyāṇaṃ vā pāpa꜕kaṃ vā"
+        },
+        {
+          "type": "verse",
+          "html": "Tassa꜕ dāyādā bha꜕vissa꜓nti"
+        }
+      ]
+    }
+  ]
+}

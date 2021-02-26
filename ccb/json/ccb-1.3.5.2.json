@@ -1,0 +1,154 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.5.2",
+  "type": "chant",
+  "lang": "en",
+  "title": "Suffusion With the Divine Abidings",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜖w let us make the Four Boundless Qualities shi꜖ne forth. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ <u>I</u> wi꜓ll abide ] pervading on꜕e quarter with a heart imbued"
+        },
+        {
+          "type": "verse",
+          "html": "with loving-ki꜓ndness;"
+        },
+        {
+          "type": "verse",
+          "html": "Likewi꜓se the second, likewi꜓se the third, likewise th꜕e fourth;"
+        },
+        {
+          "type": "verse",
+          "html": "So above and be꜕low, around and ev꜓ery꜕where; and to <u>a꜓ll</u> a꜓s to m꜕yself."
+        },
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading the all-encompa꜓ssing world with a heart"
+        },
+        {
+          "type": "verse",
+          "html": "imbued with loving-ki꜕ndness; abu꜓ndant, exa꜓lted,"
+        },
+        {
+          "type": "verse",
+          "html": "imme꜕asurable, without ho꜕stility, and without i꜕ll-will."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading on꜕e quarter with a heart imbued"
+        },
+        {
+          "type": "verse",
+          "html": "with compa꜓ssion;"
+        },
+        {
+          "type": "verse",
+          "html": "Likewi꜓se the second, likewi꜓se the third, likewise th꜕e fourth;"
+        },
+        {
+          "type": "verse",
+          "html": "So above and be꜕low, around and ev꜓ery꜕where; and to <u>a꜓ll</u> a꜓s to m꜕yself."
+        },
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading the all-encompa꜓ssing world with a heart"
+        },
+        {
+          "type": "verse",
+          "html": "imbued with compa꜕ssion; abu꜓ndant, exa꜓lted,"
+        },
+        {
+          "type": "verse",
+          "html": "imme꜕asurable, without ho꜕stility, and without i꜕ll-will."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading on꜕e quarter with a heart imbued"
+        },
+        {
+          "type": "verse",
+          "html": "with gla꜓dness;"
+        },
+        {
+          "type": "verse",
+          "html": "Likewi꜓se the second, likewi꜓se the third, likewise th꜕e fourth;"
+        },
+        {
+          "type": "verse",
+          "html": "So above and be꜕low, around and ev꜓ery꜕where; and to <u>a꜓ll</u> a꜓s to m꜕yself."
+        },
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading the all-encompa꜓ssing world with a heart"
+        },
+        {
+          "type": "verse",
+          "html": "imbued with gla꜕dness; abu꜓ndant, exa꜓lted,"
+        },
+        {
+          "type": "verse",
+          "html": "imme꜕asurable, without ho꜕stility, and without i꜕ll-will."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading on꜕e quarter with a heart imbued"
+        },
+        {
+          "type": "verse",
+          "html": "with equanimi꜓ty;"
+        },
+        {
+          "type": "verse",
+          "html": "Likewi꜓se the second, likewi꜓se the third, likewise th꜕e fourth;"
+        },
+        {
+          "type": "verse",
+          "html": "So above and be꜕low, around and ev꜓ery꜕where; and to <u>a꜓ll</u> a꜓s to m꜕yself."
+        },
+        {
+          "type": "verse",
+          "html": "<u>I</u> wi꜓ll abide pervading the all-encompa꜓ssing world with a heart"
+        },
+        {
+          "type": "verse",
+          "html": "imbued with equani꜕mity; abu꜓ndant, exa꜓lted,"
+        },
+        {
+          "type": "verse",
+          "html": "imme꜕asurable, without ho꜕stility, and withou꜕t ill-will."
+        }
+      ]
+    }
+  ]
+}

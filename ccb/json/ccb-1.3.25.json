@@ -1,0 +1,1567 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.25",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "The Teaching on the Noble Eightfold Path",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Handa mayaṃ ariyaṭṭhaṅgika-magga-pāṭham bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayam-eva a꜕riyo aṭṭha꜓ṅgi꜕ko maggo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This is the No꜕bl꜕e E꜕ightfo꜕ld Path,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Se꜓yyathī꜓daṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Which is as fo꜕llows:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-diṭṭhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght View,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Inte꜕ntion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vācā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Speech,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-kammanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right A꜕ction,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-ājīvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Li꜓vel꜕ihood,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-vā꜕yāmo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right E꜕ffort,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Right Mi꜓ndfu꜕lness,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mmā-sa꜕mādhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ri꜕ght Co꜕nce꜕ntr꜕ation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ka꜕tamā ca bhi꜓kkh꜕ave sammā-diṭṭhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, i꜕s Ri꜕ght View?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yaṃ kho bhi꜓kkh꜕ave dukkhe ñāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Knowledge of su꜕ffering;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkha-sa꜕mu꜕daye ñāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Knowledge of the o꜓rigin of su꜕ffering;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkha-ni꜓rodhe ñāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Knowledge of the cessa꜕tio꜕n o꜕f su꜕ffe꜕ring;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkha-ni꜓rodha-gāmi꜓ni꜓yā pa꜕ṭipa꜕dāya ñāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Knowledge of th꜓e path leading to the cess꜕ati꜕on o꜕f su꜕ffering:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕yaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-diṭṭhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght View."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamo ca bhi꜓kkh꜕ave sammā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, is Ri꜕ght I꜕nte꜕ntion?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Nekkhamma-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The intention of renu꜕nc꜕ia꜕tion;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕byāpāda-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The intention of no꜕n-il꜕l-will;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕vihiṃsā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The intention of non-cru꜓e꜕lty:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-sa꜓ṅka꜕ppo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght I꜕nte꜕ntion."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamā ca bhi꜓kkh꜕ave sa꜓mmā-vācā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, i꜕s Ri꜕ght Speech?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Musā-vādā vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaining fro꜕m fa꜕lse speech;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pisuṇāya vācāya vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaini꜓ng from mali꜓cio꜕us speech;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pharusāya vācāya vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaining fro꜕m ha꜕rsh speech;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓mphappa꜕lāpā vera꜓ma꜕ṇī."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaining from i꜕dl꜕e cha꜕tter:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-vācā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght Speech."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamo ca bhi꜓kkh꜕ave sa꜓mmā-kammanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what bhikkhus i꜕s Ri꜕ght A꜕ction?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pāṇāti꜕pātā vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaini꜓ng from ki꜕lli꜕ng li꜕vi꜕ng be꜕ings;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "A꜕dinnādānā vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaini꜓ng from ta꜕ki꜕ng wh꜕at i꜕s no꜕t gi꜕ven;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Kāmesu꜕ micchā꜓cārā vera꜓ma꜕ṇī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Abstaini꜓ng from se꜕xu꜕al mi꜓sco꜕nduct:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-kammanto"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght Ac꜕tion."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamo ca bhi꜓kkha꜕ve sa꜓mmā-ājīvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, is Right L꜓ivel꜕ihood?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha bhi꜓kkh꜕ave a꜕riya-sā꜓va꜕ko micchā-ājīvaṃ pa꜕hāya sammā-ājī꜓vena jīvi꜓taṃ ka꜕ppeti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Here, bhikkhus, a Nobl꜕e Di꜕sc꜕iple, having a꜓bandoned wrong li꜓vel꜕ihood, earns h꜓is living by ri꜕ght li꜕vel꜕ihood:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-ājīvo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght Li꜕vel꜕ihood."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamo ca bhi꜓kkh꜕ave sa꜓mmā-vāyāmo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, i꜕s Ri꜕ght E꜕ffort?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha bhi꜓kkh꜕ave bhikkhu a꜕nuppannānaṃ pāpa꜕kānaṃ a꜕ku꜕salānaṃ dhammānaṃ anuppādāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Here, bhikkhus, a꜓ bhikkhu awa꜕ke꜕ns zeal for the non-a꜓rising of unari꜕sen, evil unwho꜓leso꜕me states;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Chandaṃ ja꜕neti vāyama꜓ti vī꜓ri꜓yaṃ ārabha꜕ti ci꜕ttaṃ pa꜕ggaṇhā꜓ti pa꜕daha꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He puts forth e꜕ffort, arouses e꜓ne꜕rgy, exerts h꜓is mind an꜕d strives."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕ppannānaṃ pāpa꜕kānaṃ a꜕ku꜕salānaṃ dhammānaṃ pa꜕hānāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He awake꜓ns zeal for the aba꜕ndoning of a꜓risen, evil unwho꜓leso꜕me states;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Chandaṃ ja꜕neti vāyama꜓ti vī꜓ri꜓yaṃ ārabha꜕ti ci꜕ttaṃ pa꜕ggaṇhā꜓ti pa꜕daha꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He puts forth e꜕ffort, arouses e꜓ne꜕rgy, exerts h꜓is mind an꜕d strives."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Anuppannānaṃ ku꜕salānaṃ dhammānaṃ u꜕ppādāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He awake꜓ns zeal for the ari꜕sing of una꜓risen who꜓leso꜕me states;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Chandaṃ ja꜕neti vāyama꜓ti vī꜓ri꜓yaṃ ārabha꜕ti ci꜕ttaṃ pa꜕ggaṇhā꜓ti pa꜕daha꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He puts forth e꜕ffort, arouses e꜓ne꜕rgy, exerts h꜓is mind an꜕d strives."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕ppannānaṃ ku꜕salānaṃ dhammānaṃ ṭh꜓iti꜕yā a꜕sa꜕mmosāya bh꜓iyyobhāvāya vepu꜕llāya bhāva꜓nāya pāri꜓pū꜕riyā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He awakens zeal for the conti꜕nuance, non-disa꜓ppearance, stre꜕ngthening, increase and fu꜓lfilment by deve꜓lo꜕pment of ari꜕sen who꜕leso꜕me states;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Chandaṃ ja꜕neti vāyama꜓ti vī꜓ri꜓yaṃ ārabha꜕ti ci꜕ttaṃ pa꜕ggaṇhā꜓ti pa꜕daha꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He puts forth e꜕ffort, arouses e꜓ne꜕rgy, exerts h꜓is mind an꜕d strives:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-vāyāmo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This bhikkhus is ca꜕lled Ri꜕ght E꜕ffort."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamā ca bhi꜓kkh꜕ave sa꜓mmā-sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, is Right Mi꜓ndfu꜕lness?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha bhi꜓kkh꜕ave bhikkhu kāye kāyānupa꜕ssī vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Here, bhikkhus, a bhi꜕kkhu꜕ a꜕bides conte꜓mplating the bo꜕dy a꜕s a꜕ bo꜕dy,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ātāpī sa꜓mpa꜕jāno sa꜕timā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ardent, fully꜓ a꜕ware and mi꜕ndful,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓neyya loke a꜕bhijjhā-domanassaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Having pu꜕t a꜕way co꜕ve꜕to꜕usn꜕ess an꜕d gri꜕ef fo꜕r th꜕e world;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Veda꜕nāsu꜕ veda꜕nānu꜓pa꜕ssī vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He a꜕bides conte꜓mplating fe꜕eli꜕ngs a꜕s fe꜕elings,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ātāpī sa꜓mpa꜕jāno sa꜕timā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ardent, fully꜓ a꜕ware and mi꜕ndful,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓neyya loke a꜕bhijjhā-domanassaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Having pu꜕t a꜕way co꜕ve꜕to꜕usn꜕ess an꜕d gri꜕ef fo꜕r th꜕e world;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ci꜕tte ci꜕ttānu꜓pa꜕ssī vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He a꜕bides conte꜓mplating mi꜕nd a꜕s mind,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ātāpī sa꜓mpa꜕jāno sa꜕timā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ardent, fully꜓ a꜕ware and mi꜕ndful,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓neyya loke a꜕bhijjhā-domanassaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Having pu꜕t a꜕way co꜕ve꜕to꜕usne꜕ss an꜕d gri꜕ef fo꜕r th꜕e world;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dhammesu꜕ dhammānu꜓pa꜕ssī vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He a꜕bides conte꜓mplating mind-o꜕bje꜕cts a꜕s mi꜕nd-o꜕bjects,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ātāpī sa꜓mpa꜕jāno sa꜕timā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ardent, fully꜓ a꜕ware and mi꜕ndful,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓neyya loke a꜕bhijjhā-domanassaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Having pu꜕t a꜕way co꜕ve꜕to꜕usn꜕ess an꜕d gri꜕ef fo꜕r th꜕e world:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-sa꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght Mi꜕ndfu꜕lness."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Katamo ca bhi꜓kkh꜕ave sa꜓mmā-sa꜕mādhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And what, bhikkhus, is Ri꜕ght Co꜕nce꜕ntr꜕ation?"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha bhi꜓kkh꜕ave bhikkhu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Here, bhikkhus, a bhi꜕kkhu,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vivicc’eva kāmehi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Quite se꜓cluded from se꜕nsu꜕al pl꜕easures,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vivicca a꜕ku꜕sa꜕lehi dh꜕ammehi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Secluded from unwho꜓leso꜕me states,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕vi꜓ta꜕kkaṃ sa꜕vi꜓cāraṃ viveka꜕-jaṃ pīti꜕-sukhaṃ pa꜕ṭhamaṃ jhānaṃ upasa꜓mpajja vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Enters u꜓pon and a꜕bides in꜕ th꜕e fi꜕rst jhā꜕na — accompa꜓nied by appli꜕ed an꜕d su꜕stai꜕ned thought, with raptu꜓re and ple꜕asure bo꜕rn o꜕f se꜕clu꜕sion."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vi꜓takka-vicārānaṃ vūpa꜕samā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "With the stilling of appli꜕ed an꜕d su꜕stai꜕ned thought,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ajjhattaṃ sa꜓mpa꜕sādanaṃ ceta꜕so ekodi꜓bhāvaṃ avi꜓ta꜕kkaṃ avi꜓cāraṃ sa꜕mādhi꜓-jaṃ pīti꜕-sukhaṃ du꜕tiyaṃ jhānaṃ upasa꜓mpa꜕jja vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He enters u꜓pon and a꜕bides in꜕ th꜕e se꜕co꜕nd jhā꜕na — accompa꜓nied by self-co꜓nf꜕idence and si꜕ngle꜕ne꜕ss o꜕f mind, without applie꜕d an꜕d su꜕stai꜕ned thought, with raptu꜓re and ple꜕asure bo꜕rn o꜕f co꜕nce꜕ntr꜕ation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pītiyā ca꜕ vi꜓rāgā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "With the fadi꜓ng a꜕way as we꜕ll o꜕f ra꜕pture"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "U꜕pekkhako ca vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He abides in equani꜓mi꜕ty,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕to ca꜕ sa꜓mpa꜕jāno"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Mindful and fully꜓ a꜕ware,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Su꜕khañca kāyena pa꜕ṭisa꜓ṃvedeti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Still fee꜕li꜕ng ple꜕asu꜕re wi꜕th th꜕e bo꜕dy,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yaṃ taṃ a꜕riyā āci꜕kkhanti u꜕pekkha꜓ko sa꜕timā su꜕kha-vi꜓hā꜕rī’ti tatiyaṃ jhānaṃ u꜕pasa꜓mpa꜕jja vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "He enters u꜓pon and a꜕bides in꜕ th꜕e thi꜕rd jh꜕āna — on account o꜓f which the No꜕bl꜕e O꜓nes a꜕nnounce, ‘He has a꜓ pleasant abi꜕ding, with equani꜓mi꜕ty and"
+        },
+        {
+          "type": "verse",
+          "html": "is mi꜕ndful.’"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sukhassa ca꜕ pahānā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "With the aba꜓ndoning of ple꜕asure"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkhassa ca꜕ pahānā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And the aba꜕ndo꜕ni꜕ng o꜕f pain,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pu꜕bb’eva somanassa꜕-domanassā꜓naṃ a꜕tthaṅga꜕mā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "With the previous disa꜓ppearance of jo꜕y an꜕d grief,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Adukkham-asu꜕khaṃ u꜕pekkhā-sa꜕ti-pā꜕ri꜓su꜕ddhiṃ ca꜕tutthaṃ jhānaṃ u꜕pasa꜓mpa꜕jja vi꜓ha꜕rati"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "He enters u꜓pon and a꜕bides i꜕n th꜕e fou꜕rth jh꜕āna — accompa꜓nied by neither pa꜕in no꜕r pl꜕easure, and purity of mi꜓ndfu꜕lness du꜕e to꜕ e꜕qu꜕an꜕imity:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayaṃ vuccati bhi꜓kkh꜕ave sa꜓mmā-sa꜕mādhi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This, bhikkhus, is ca꜕lled Ri꜕ght Co꜕nce꜕ntr꜕ation."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ayam-eva a꜕riyo aṭṭha꜓ṅgi꜕ko maggo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This is the No꜕bl꜕e E꜕ightfo꜕ld Path."
+        }
+      ]
+    }
+  ]
+}

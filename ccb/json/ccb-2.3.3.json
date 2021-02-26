@@ -1,0 +1,138 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 3,
+  "id": "ccb-2.3.3",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Vipassanā-bhūmi-pāṭho",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Pañcakkhandhā:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dvā-das’āyatanāni:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Cakkhv-āyatanaṃ rūp’āyatanaṃ, sot’āyatanaṃ sadd’āyatanaṃ, ghān’āyatanaṃ gandh’āyatanaṃ, jivh’āyatanaṃ ras’āyatanaṃ, kāy’āyatanaṃ phoṭṭhabb’āyatanaṃ, man’āyatanaṃ dhamm’āyatanaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Aṭṭhārasa dhātuyo:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Cakkhu-dhātu rūpa-dhātu cakkhu-viññāṇa-dhātu, sota-dhātu sadda-dhātu sota-viññāṇa-dhātu, ghāna-dhātu gandha-dhātu ghāna-viññāṇa-dhātu, jivhā-dhātu rasa-dhātu jivhā-viññāṇa-dhātu, kāya-dhātu phoṭṭhabba-dhātu kāya-viññāṇa-dhātu, mano-dhātu dhamma-dhātu mano-viññāṇa-dhātu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bā-vīsat’indriyāni:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Cakkhu’ndriyaṃ sot’indriyaṃ ghān’indriyaṃ jivh’indriyaṃ kāy’indriyaṃ man’indriyaṃ, itth’indriyaṃ puris’indriyaṃ jīvit’indriyaṃ, sukh’indriyaṃ dukkh’indriyaṃ somanass’indriyaṃ domanass’indriyaṃ upekkh’indriyaṃ, saddh’indriyaṃ viriy’indriyaṃ sat’indriyaṃ samādh’indriyaṃ paññ’indriyaṃ, anaññātañ-ñassāmī-t’indriyaṃ aññ’indriyaṃ aññātāv’indriyaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Cattāri ariya-saccāni:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dukkhaṃ ariya-saccaṃ, dukkha-samudayo ariya-saccaṃ, dukkha-nirodho ariya-saccaṃ, dukkha-nirodha-gāminī paṭipadā ariya-saccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Avijjā-paccayā saṅkhārā, saṅkhāra-paccayā viññāṇaṃ, viññāṇa-paccayā nāma-rūpaṃ, nāma-rūpa-paccayā saḷ-āyatanaṃ, saḷ-āyatana-paccayā phasso, phassa-paccayā vedanā, vedanā-paccayā taṇhā, taṇhā-paccayā upādānaṃ, upādāna-paccayā bhavo, bhava-paccayā jāti, jāti-paccayā jarā-maraṇaṃ soka-parideva-dukkha-domanass’upāyāsā sambhavanti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Evam-etassa kevalassa dukkhakkhandhassa samudayo hoti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Avijjāya tv-eva asesa-virāga-nirodhā saṅkhāra-nirodho, saṅkhāra-nirodhā viññāṇa-nirodho, viññāṇa-nirodhā nāma-rūpa-nirodho, nāma-rūpa-nirodhā saḷ-āyatana-nirodho, saḷ-āyatana-nirodhā phassa-nirodho, phassa-nirodhā vedanā-nirodho, vedanā-nirodhā taṇhā-nirodho, taṇhā-nirodhā upādāna-nirodho, upādāna-nirodhā bhava-nirodho, bhava-nirodhā jāti-nirodho, jāti-nirodhā jarā-maraṇaṃ soka-parideva-dukkha-domanass’upāyāsā nirujjhanti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Evam-etassa kevalassa dukkhakkhandhassa nirodho hoti"
+        }
+      ]
+    }
+  ]
+}

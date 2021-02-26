@@ -1,0 +1,121 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.22",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Devatā-uyyojana-gāthā",
+  "children": [
+    {
+      "type": "grid",
+      "children": [
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dukkhappattā ca niddukkhā"
+            },
+            {
+              "type": "verse",
+              "html": "bhayappattā ca nibbhayā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sokappattā ca nissokā"
+            },
+            {
+              "type": "verse",
+              "html": "hontu sabbe pi pāṇino"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Ettāvatā ca amhehi"
+            },
+            {
+              "type": "verse",
+              "html": "sambhataṃ puñña-sampadaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Sabbe devānumodantu"
+            },
+            {
+              "type": "verse",
+              "html": "sabba-sampatti-siddhiyā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Dānaṃ dadantu saddhāya"
+            },
+            {
+              "type": "verse",
+              "html": "sīlaṃ rakkhantu sabbadā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Bhāvanābhiratā hontu"
+            },
+            {
+              "type": "verse",
+              "html": "gacchantu devatā-gatā"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "[ Sabbe buddhā ] balappattā"
+            },
+            {
+              "type": "verse",
+              "html": "paccekānañ-ca yaṃ balaṃ"
+            }
+          ]
+        },
+        {
+          "type": "row",
+          "children": [
+            {
+              "type": "verse",
+              "html": "Arahantānañ-ca tejena"
+            },
+            {
+              "type": "verse",
+              "html": "rakkhaṃ bandhāmi sabbaso"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

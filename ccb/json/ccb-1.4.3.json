@@ -1,0 +1,60 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 4,
+  "id": "ccb-1.4.3",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Acknowledging the Teaching",
+  "children": [
+    {
+      "type": "aside",
+      "html": "One person:"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ha꜓nda mayaṃ dhammakathā꜓ya sā꜓dhukā꜕raṃ dadāmase"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Now let us express our approval of this Dhamma Teaching."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Response:"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sādhu, sādhu, sādhu, anu꜓modāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is well, I appreciate it."
+        }
+      ]
+    }
+  ]
+}

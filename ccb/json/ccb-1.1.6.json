@@ -1,0 +1,1274 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 1,
+  "id": "ccb-1.1.6",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Salutation to the Triple Gem",
+  "children": [
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ ratanattaya-paṇāma-gāthā꜓yo c’eva"
+        },
+        {
+          "type": "verse",
+          "html": "sa꜓ṃvega-parikittana-pāṭhañca꜕ bhaṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant our salutation to the Tri꜕ple Gem and a passage"
+        },
+        {
+          "type": "verse",
+          "html": "to arouse u꜓rgency. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Buddho su꜕suddho ka꜕ruṇā-maha꜓ṇṇavo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Bu꜕ddha, absolutel꜕y pure, with o꜓cean-like compa꜕ssion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo’ccanta꜕-suddhabba꜕ra-ñāṇa꜕-loca꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Possessing the꜕ clear sight of wi꜕sdom,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Lokassa꜕ pāpūpa꜕ki꜓lesa꜕-ghāta꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Destroyer o꜕f worldly self-corru꜓ption —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vandāmi꜓ buddhaṃ a꜕ha꜓m-āda꜕rena꜕ taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Devote꜓dly i꜕ndeed, that Buddha I꜓ re꜕vere."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dhammo pa꜕dīpo vi꜕ya tassa꜕ satthu꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Teaching of the꜕ Lord, like a꜕ lamp,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo magga꜓-pākāma꜕ta꜕-bheda꜕-bhinna꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Illuminating the꜕ Path and its Fruit: the De꜕athless,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Lokuttaro yo ca꜕ ta꜕d-attha꜕-dīpa꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "That which is beyo꜓nd the condi꜕tioned world —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vandāmi꜓ dhammaṃ a꜕ha꜓m-āda꜕rena꜕ taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Devote꜓dly i꜕ndeed, that Dhamma I꜓ re꜕vere."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅgho su꜕khettābhyati-khe꜕tta-sa꜓ññito"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Saṅgha, the mo꜕st fertile gro꜓und for cultiva꜕tion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yo diṭṭha꜓-santo su꜕ga꜕tānu꜕bodha꜕ko"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Those who have reali꜕zed peace, awakened after the꜕"
+        },
+        {
+          "type": "verse",
+          "html": "Acco꜓mplished One,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Lolappa꜕hīno a꜕ri꜓yo su꜕medha꜕so"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "No꜓ble a꜕nd wise, all longing aba꜕ndoned —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vandāmi꜓ saṅghaṃ a꜕ha꜓m-āda꜕rena꜕ taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Devote꜓dly i꜕ndeed, that Saṅgha I꜓ re꜕vere."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Iccevam-ekanta꜕bhi꜓pūja꜕-neyya꜕kaṃ vatthuttayaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "vanda꜕ya꜕tābhi꜕saṅkha꜕taṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "This salutation should be꜕ made to tha꜓t which is wo꜕rthy."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Puññaṃ ma꜕yā yaṃ ma꜕ma꜕ sabbu꜕padda꜕vā mā ho꜓ntu꜕ ve tassa꜕ pa꜕bhāva꜕-siddhi꜕yā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Through the꜕ power of su꜕ch good ac꜓tion, may a꜕ll obstacles di꜓sa꜕ppear."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Idha tathā꜓ga꜕to loke u꜕ppanno a꜕rahaṃ sammāsambuddho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "One who knows things as the꜕y are has come into꜓ thi꜕s world; and he is an A꜕rahant, a꜕ perfectly Awa꜓kened being,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dhammo ca꜕ desi꜕to niyyāni꜕ko u꜕pa꜕sa꜕miko pa꜕rinibbāni꜕ko sa꜓mbodha꜕gāmī su꜕ga꜕tappa꜕vedi꜕to"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Purifying the꜕ way leading o꜕ut o꜕f de꜕lu꜕sion, calming and di꜕recting to pe꜓rfect peace, and leading to enli꜕ghtenment — this Way he ha꜓s ma꜕de known."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ma꜓yan-taṃ dhammaṃ su꜕tvā evaṃ jānāma"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Having heard the꜕ Teaching, we kno꜕w this:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Jātipi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Birth is du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Jarāpi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Ageing is du꜕kkha,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ma꜕raṇampi꜕ dukkhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And death is du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "So꜓ka-pa꜕rideva-dukkha꜕-domanass’u꜕pāyāsā꜓pi꜕ dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So꜓rrow, lamenta꜕tion, pain, grief, and de꜕spair are du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Appiyehi꜕ sa꜓mpa꜕yogo dukkho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Associ꜕ation with the꜕ di꜕sliked is du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Piyehi꜕ vi꜓ppa꜕yogo dukkho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Sepa꜓ration from the꜕ liked is du꜕kkha;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yamp’iccha꜓ṃ na꜕ labhati tampi꜕ dukkhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Not attaining one’s wi꜓shes is du꜕kkha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅkhittena pañcu꜕pādānakkha꜓ndhā dukkhā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "In brief, the꜕ five focuses of iden꜓tity are du꜕kkha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Seyya꜕thīdaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "These are as fo꜕llows:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rūpūpādāna꜕kkha꜓ndho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Attachment t꜕o form,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vedanūpādāna꜕kkha꜓ndho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Attachment to fe꜓eling,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ññūpādāna꜕kkha꜓ndho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Attachment to perce꜕ption,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅkhā꜓rūpādāna꜕kkha꜓ndho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Attachment to mental formati꜓ons,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Viññāṇūpādāna꜕kkha꜓ndho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Attachment to꜕ sense-co꜓nsciousness."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Yesaṃ pa꜕riññāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "For the꜕ co꜕mplete understa꜓nding of this,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dha꜕ramāno so꜓ bha꜕gavā evaṃ ba꜕hulaṃ sā꜓va꜕ke vi꜕neti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "The꜕ Blessed One in꜕ his li꜓fetime frequently i꜕nstructed his disci꜓ples"
+        },
+        {
+          "type": "verse",
+          "html": "in just thi꜕s way."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Evaṃ bhāgā ca꜕ panassa bha꜕gava꜕to sā꜓va꜕kesu a꜕nusā꜓sa꜕nī ba꜕hulā pa꜕vatta꜕ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "In addition, he fu꜕rthe꜕r i꜕nstru꜕cted:"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rūpaṃ a꜕niccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Form is impe꜕rmanent,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vedanā a꜕niccā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Feeling is impe꜕rmanent,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ññā a꜕niccā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Perce꜓ption is impe꜕rmanent,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅkhā꜓rā a꜕niccā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Mental formations are impe꜕rmanent,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Viññāṇaṃ a꜕niccaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Sense-co꜓nsciousness is impe꜕rmanent;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Rūpaṃ a꜕nattā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Form is no꜕t-self,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Vedanā a꜕nattā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Feeling is no꜕t-self,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ññā a꜕nattā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Perce꜓ption is no꜕t-self,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅkhā꜓rā a꜕nattā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Mental formations are no꜕t-self,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Viññāṇaṃ a꜕nattā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Sense-co꜓nsciousness is no꜕t-self;"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bbe sa꜓ṅkhā꜓rā a꜕niccā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "All conditions are t꜕ransient,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜕bbe dhammā a꜕nattā’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "There is no꜕ self in the cre꜕ated or the u꜕ncre꜓ated."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Te ma꜓yaṃ otiṇṇāmha jāti꜕yā ja꜕rā-maraṇena"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "All of us are bound b꜕y birth, ageing, a꜕nd death,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "So꜓kehi꜕ pa꜕ridevehi꜕ dukkhe꜓hi꜕ domanassehi꜕ u꜕pāyāsehi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "By so꜓rrow, lamenta꜕tion, pain, grief, and de꜕spair,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dukkho꜓tiṇṇā dukkha꜕-pa꜕retā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Bo꜓und by dukkha and obstru꜕cte꜕d b꜕y du꜕kkha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Appeva nāmi꜓massa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yā"
+        },
+        {
+          "type": "verse",
+          "html": "paññāyethā’ti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Let us all a꜕spire to co꜕mplete fre꜓edom from su꜕ffering."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "The following is chanted only by the monks and nuns."
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ci꜓ra꜓-pari꜕nibbutampi꜓ taṃ bha꜕gava꜓ntaṃ uddissa a꜕raha꜓ntaṃ sammāsambuddhaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Remembering the Ble꜕ssed One, the꜕ Noble Lord, a꜕nd Perfectly Enli꜓ghtened One, who long ago attained Pa꜕ri꜕ni꜕bbā꜕na,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Saddhā a꜕gārasmā anagāri꜓yaṃ pabba꜕ji꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "We have gone forth wi꜕th faith from home to ho꜓melessness,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Tasmi꜓ṃ bha꜕gavati brahma-ca꜕ri꜓yaṃ ca꜕rāma"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And like the Ble꜕ssed One, we practise the Ho꜓ly꜕ Life,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Bhikkhū꜓naṃ/Sīladharā꜓naṃ si꜓kkhāsā꜕jīva꜕-samāpannā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Being fully e꜕quipped with the꜕ bhikkhus’/nuns’ sy꜓stem of tra꜕ining."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Taṃ no brahma-ca꜕ri꜓yaṃ imassa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yāya sa꜓ṃva꜓tta꜕tu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "May this Ho꜕ly Life lead us to the꜕ end of this who꜓le mass"
+        },
+        {
+          "type": "verse",
+          "html": "of su꜕ffering."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "An alternative version of the preceding section, which can be chanted by laypeople as well."
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ci꜓ra꜓-pari꜕nibbutampi꜓ taṃ bha꜕gava꜓ntaṃ saraṇaṃ ga꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The Ble꜕ssed One, who long ago attained Parinibbā꜓na, is our re꜕fuge."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dha꜓mmañca sa꜓ṅghañca"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "So too are the Dha꜓mma and the Sa꜕ṅgha."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Tassa bha꜕gavato sā꜓sanaṃ yathā꜓-sati yathā꜓-balaṃ manasika꜕roma a꜕nupaṭipa꜓jjāma"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Attentively we fo꜓llow the pathway of that Ble꜕ssed One, with <u>all</u> of"
+        },
+        {
+          "type": "verse",
+          "html": "our mi꜓ndfulness a꜕nd strength."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sā꜓ sā꜓ no pa꜕ṭi꜓patti"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May then the cultiva꜓tion of this pra꜕ctice"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Imassa꜕ kevalassa꜕ dukkha-kkha꜓ndhassa꜕ anta꜕kiri꜓yāya sa꜓ṃva꜓tta꜕tu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Lead us to the꜕ end of eve꜓ry kind of su꜕ffering."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.4",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Supreme Praise of the Buddha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ buddhābhi꜕gī꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Buddh’vāra꜕ha꜓nta-varatādi꜕gu꜓ṇābhi꜕yutto"
+        },
+        {
+          "type": "verse",
+          "html": "Suddhābhi꜕ñāṇa-ka꜕ru꜓ṇāhi sa꜓māga꜕tatto"
+        },
+        {
+          "type": "verse",
+          "html": "Bodhesi꜕ yo su꜕ja꜕na꜓taṃ ka꜕ma꜓laṃ va꜕ sūro"
+        },
+        {
+          "type": "verse",
+          "html": "Vandām’aha꜓ṃ ta꜕m-ara꜕ṇaṃ si꜕rasā꜓ ji꜕nendaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Buddho yo sabba꜕-pāṇīnaṃ sa꜕raṇaṃ khema꜕m-utta꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Pa꜕ṭhamānussa꜕tiṭṭhānaṃ vandāmi꜕ taṃ si꜓ren’a꜕haṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhassā꜓h’a꜕smi dāso/dāsī va buddho me sā꜕mi-ki꜓ssaro"
+        },
+        {
+          "type": "verse",
+          "html": "Buddho dukkhassa꜕ ghātā ca꜕ vidhātā ca꜕ hi꜓tassa꜕ me"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhass’āha꜓ṃ niyyādemi sa꜕rīrañ-jīvi꜕tañ-ci꜕daṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Vandanto’ha꜓ṃ/Vandantī’ha꜓ṃ ca꜕rissāmi buddhass’eva꜕ su꜓bodhi꜕taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Natthi me sa꜕ra꜓ṇaṃ aññaṃ buddho me sa꜕ra꜓ṇaṃ va꜕raṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca꜕-vajjena vaḍḍheyyaṃ sa꜕tthu-sā꜓sane"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhaṃ me vanda꜕mānena/vanda꜕mānāya"
+        },
+        {
+          "type": "verse",
+          "html": "yaṃ puññaṃ pa꜕su꜓taṃ i꜕dha"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbepi anta꜕rāyā me māhe꜓su꜓ṃ ta꜕ssa꜓ teja꜕sā"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kāyena vācāya va ceta꜕sā꜓ vā"
+        },
+        {
+          "type": "verse",
+          "html": "Bu꜓ddhe ku꜕kammaṃ pa꜕kataṃ ma꜕yā yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Bu꜓ddho pa꜕ṭiggaṇhā꜕tu acca꜕yantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Kālantare sa꜓ṃvarituṃ va꜕ bu꜓ddhe"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.6",
+  "type": "chant",
+  "lang": "en",
+  "title": "Supreme Praise of the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us chant the supreme praise of the Dha꜕mma. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "It i꜕s excellent be꜕cause it is ‘we꜕ll expo꜓unded,’"
+        },
+        {
+          "type": "verse",
+          "html": "And it can be di꜕vided into꜕ Path and Fruit, Learning and Li꜕bera꜓tion."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Dhamma holds those who u꜕phold it from fa꜕lli꜕ng i꜕nto꜕ delu꜓sion."
+        },
+        {
+          "type": "verse",
+          "html": "I revere the꜕ excellent Te꜓aching, that which removes da꜕rkness —"
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Dhamma, which is the su꜕preme, se꜕cure re꜓fuge of al꜖l beings —"
+        },
+        {
+          "type": "verse",
+          "html": "As the꜕ Second Object of Re꜕colle꜓ction, I꜕ venerate it with bo꜓wed head."
+        },
+        {
+          "type": "verse",
+          "html": "I am indeed the Dhamma’s se꜕rvant, the꜕ Dhamma is my Lo꜓rd a꜕nd Guide."
+        },
+        {
+          "type": "verse",
+          "html": "The꜕ Dhamma is sorrow’s destro꜕yer, and it bestows ble꜓ssi꜓ngs o꜕n me."
+        },
+        {
+          "type": "verse",
+          "html": "To the꜕ Dhamma I de꜓dicate this bo꜕d꜕y and life,"
+        },
+        {
+          "type": "verse",
+          "html": "And in de꜕votion I wi꜕ll <u>walk</u> this excellent wa꜓y o꜕f Truth."
+        },
+        {
+          "type": "verse",
+          "html": "For me there is no other re꜕fuge, the꜕ Dhamma is my e꜓xcelle꜕nt re꜕fuge."
+        },
+        {
+          "type": "verse",
+          "html": "By the꜕ utterance of thi꜕s <u>Truth</u>, may I grow in the Ma꜓ste꜕r’s Way."
+        },
+        {
+          "type": "verse",
+          "html": "By my de꜕votion to the Dha꜕mma, and the꜕ blessing of this pra꜓ctice —"
+        },
+        {
+          "type": "verse",
+          "html": "By i꜕ts power, may a꜕ll obstacles be o꜓ve꜕rcome."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "By body, speech, o꜕r mind,"
+        },
+        {
+          "type": "verse",
+          "html": "For whatever wro꜕ng action I have co꜕mmitted towards the Dha꜕mma,"
+        },
+        {
+          "type": "verse",
+          "html": "May my a꜕cknowledgement of fault be acce꜓pted,"
+        },
+        {
+          "type": "verse",
+          "html": "That i꜕n future there may be re꜕straint regarding the Dha꜕mma."
+        }
+      ]
+    }
+  ]
+}

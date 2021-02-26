@@ -1,0 +1,36 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.2.2",
+  "type": "chant",
+  "lang": "en",
+  "title": "Preliminary Homage",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ No꜓w let us pay preliminary homage to the Bu꜕ddha. ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ho꜓ma꜓ge to the꜕ Ble꜕ssed, No꜓ble, a꜕nd Pe꜕rfectly Enli꜓ghtened One."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Three times"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.5",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Recollection of the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ dhammānu꜕ssa꜕ti꜕nayaṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Svākkhā꜓to bha꜕gava꜓tā dhammo"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ndiṭṭhi꜕ko a꜕kāli꜕ko ehi꜕passi꜕ko"
+        },
+        {
+          "type": "verse",
+          "html": "Opanayi꜕ko pa꜕cca꜕ttaṃ vedi꜓ta꜕bbo viññūhī’ti"
+        }
+      ]
+    }
+  ]
+}

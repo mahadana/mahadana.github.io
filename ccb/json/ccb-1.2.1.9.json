@@ -1,0 +1,66 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.9",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Closing Homage",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Arahaṃ ] sammāsambuddho bha꜕gavā"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhaṃ bha꜕gavantaṃ a꜕bhi꜓vādemi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Svākkhā꜓to ] bha꜕gava꜓tā dhammo"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ namassāmi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Supaṭi꜕panno ] bha꜕gava꜕to sāvaka꜕saṅgho"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜓ṅghaṃ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

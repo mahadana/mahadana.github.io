@@ -1,0 +1,327 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 1,
+  "id": "ccb-1.1.1",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Dedication of Offerings",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Yo so ] bha꜕gavā a꜕rahaṃ sammāsambuddho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To the Ble꜕ssed One, the꜕ Lord, who fu꜓lly a꜕ttained perfect enli꜕ghtenment,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Svākkhā꜓to yena bha꜕gava꜓tā dhammo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To the꜕ Teaching which he expo꜕unde꜕d so well,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Supaṭi꜕panno yassa bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "And to the꜕ Blessed One’s disci꜓ples who have pra꜕ctised well,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Tam-ma꜓yaṃ bha꜕gavantaṃ sa꜕dhammaṃ sa꜕saṅghaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "To these — the꜕ Buddha, the꜕ Dhamma, a꜕nd the Sa꜓ṅgha —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Imehi꜓ sakkārehi꜕ yathārahaṃ āropi꜕tehi a꜕bhi꜓pūja꜕yāma"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "We render wi꜕th offerings our ri꜓ghtful ho꜖mage."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sādhu꜓ no bhante bha꜕gavā su꜕cira-parinibbu꜕topi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "It is we꜓ll for us that the Ble꜕ssed One, having attained li꜕bera꜓tion,"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Pacchi꜓mā-ja꜕na꜓tānu꜓kampa꜕-mānasā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "Still had co꜕mpassion for later ge꜓nera꜖tions."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Ime sakkāre dugga꜕ta꜕-paṇṇākāra꜓-bhūte pa꜕ṭiggaṇhātu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "May the꜕se simple o꜓fferings be acce꜕pted"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Amhā꜓kaṃ dīgha꜕rattaṃ hi꜕tāya su꜕khāya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "For o꜕ur long-lasting benefit and fo꜕r the ha꜓ppiness it giv꜖es us."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Arahaṃ sammāsambuddho bha꜕gavā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Lord, the꜕ Perfectly Enli꜓ghtened and Ble꜕ssed One —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Buddhaṃ bha꜕gavantaṃ a꜕bhi꜓vādemi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I꜕ render homage to꜕ the Bu꜓ddha, the Ble꜕ssed One."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Svākkhā꜓to ] bha꜕gava꜓tā dhammo"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Teaching so co꜕mpletely expla꜓ined by him —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Dhammaṃ namassāmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I bo꜖w to꜕ the꜕ Dha꜕mma."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "[ Supaṭi꜕panno ] bha꜕gava꜕to sāvaka꜕saṅgho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "The꜕ Blessed One’s disci꜓ples who have pra꜕ctised well —"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "pi",
+          "html": "Sa꜓ṅghaṃ na꜕māmi"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "lang": "en",
+          "html": "I bo꜖w to꜕ the꜕ Sa꜕ṅgha."
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "right": true,
+      "html": "Bow"
+    }
+  ]
+}

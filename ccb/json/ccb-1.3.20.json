@@ -1,0 +1,235 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.20",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on Respect for the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ dhamma-gā꜕rav’ādi꜕-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye ca꜕ atītā sa꜓mbuddhā"
+        },
+        {
+          "type": "verse",
+          "html": "ye ca꜕ buddhā a꜕nāga꜓tā"
+        },
+        {
+          "type": "verse",
+          "html": "Yo c’eta꜕rahi sambuddho"
+        },
+        {
+          "type": "verse",
+          "html": "ba꜕hunnaṃ so꜕ka꜕-nāsa꜕no"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "All the Buddhas o꜕f th꜕e past,"
+        },
+        {
+          "type": "verse",
+          "html": "All the Buddhas ye꜓t to꜕ come,"
+        },
+        {
+          "type": "verse",
+          "html": "The Buddha of this cu꜕rre꜕nt age —"
+        },
+        {
+          "type": "verse",
+          "html": "Dispe꜓llers of mu꜕ch so꜕rrow."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Sa꜕bbe sa꜕ddhamma-gar꜓uno"
+        },
+        {
+          "type": "verse",
+          "html": "vi꜕ha꜕riṃsu vi꜕ha꜕ranti ca"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕tho pi viha꜕riss꜓anti"
+        },
+        {
+          "type": "verse",
+          "html": "esā buddhāna꜓ dha꜕mma꜕tā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Those having lived or li꜕vi꜕ng now,"
+        },
+        {
+          "type": "verse",
+          "html": "Those livi꜓ng in the fu꜕ture,"
+        },
+        {
+          "type": "verse",
+          "html": "All do reve꜕re th꜕e Tru꜕e Dha꜕mma —"
+        },
+        {
+          "type": "verse",
+          "html": "That is th꜓e nature o꜕f a꜕ll Bu꜕ddhas."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tasmā h꜕i atta-kāmena"
+        },
+        {
+          "type": "verse",
+          "html": "mahattam-abhika꜓ṅkh꜕atā"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕ddhammo ga꜕ru꜓-kāta꜕bbo"
+        },
+        {
+          "type": "verse",
+          "html": "s꜕araṃ buddhāna sā꜓sa꜕naṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Therefore de꜓siring on꜕e’s ow꜕n welfare,"
+        },
+        {
+          "type": "verse",
+          "html": "Pursui꜓ng greatest a꜕spi꜕ra꜕tions,"
+        },
+        {
+          "type": "verse",
+          "html": "One should reve꜕re th꜕e Tr꜕ue Dha꜕mma —"
+        },
+        {
+          "type": "verse",
+          "html": "Reco꜓llecting th꜕e Bu꜕ddha꜕’s te꜕aching."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Na h꜕i dhammo a꜕dhammo ca"
+        },
+        {
+          "type": "verse",
+          "html": "ubho s꜕ama-vipāki꜓no"
+        },
+        {
+          "type": "verse",
+          "html": "A꜕dhammo nirayaṃ neti"
+        },
+        {
+          "type": "verse",
+          "html": "dh꜕ammo pāpeti꜕ su꜕gga꜕tiṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "What is true Dhamma an꜕d wh꜕at not"
+        },
+        {
+          "type": "verse",
+          "html": "Will never have the sa꜓me re꜕sults,"
+        },
+        {
+          "type": "verse",
+          "html": "While lack of Dha꜕mma꜕ le꜕ads t꜕o he꜕ll-realms —"
+        },
+        {
+          "type": "verse",
+          "html": "True Dhamma꜓ takes one o꜕n a꜕ go꜕od course."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Dhammo ha꜕ve rakkha꜕ti꜕ dhamma꜓-cāriṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammo su꜕ciṇṇo su꜕kham-āvahāti"
+        },
+        {
+          "type": "verse",
+          "html": "Esā꜓ni꜕saṃso dhamme su꜕ciṇṇe"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "The Dhamma guards who li꜕ves i꜕n li꜓ne wi꜕th it"
+        },
+        {
+          "type": "verse",
+          "html": "And leads to ha꜕ppi꜕ne꜕ss whe꜕n pra꜕cti꜕sed well —"
+        },
+        {
+          "type": "verse",
+          "html": "This is th꜓e blessing of we꜕ll-pr꜕acti꜕sed Dha꜕mma."
+        }
+      ]
+    }
+  ]
+}

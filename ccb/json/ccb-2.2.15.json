@@ -1,0 +1,75 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 2,
+  "part": 2,
+  "id": "ccb-2.2.15",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Abhaya-parittaṃ",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yan-dunnimittaṃ avamaṅgalañ-ca"
+        },
+        {
+          "type": "verse",
+          "html": "Yo cāmanāpo sakuṇassa saddo"
+        },
+        {
+          "type": "verse",
+          "html": "Pāpaggaho dussupinaṃ akantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Buddhānubhāvena vināsamentu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yan-dunnimittaṃ avamaṅgalañ-ca"
+        },
+        {
+          "type": "verse",
+          "html": "Yo cāmanāpo sakuṇassa saddo"
+        },
+        {
+          "type": "verse",
+          "html": "Pāpaggaho dussupinaṃ akantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammānubhāvena vināsamentu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Yan-dunnimittaṃ avamaṅgalañ-ca"
+        },
+        {
+          "type": "verse",
+          "html": "Yo cāmanāpo sakuṇassa saddo"
+        },
+        {
+          "type": "verse",
+          "html": "Pāpaggaho dussupinaṃ akantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Saṅghānubhāvena vināsamentu"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.3.1",
+  "type": "chant",
+  "lang": "pi",
+  "title": "The Buddha’s Words on Loving-Kindness",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ metta-sutta-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "[ Karaṇīyam-attha-kusalena ]"
+        },
+        {
+          "type": "verse",
+          "html": "Yan-taṃ santaṃ padaṃ abhisamecca"
+        },
+        {
+          "type": "verse",
+          "html": "Sakko ujū ca suhujū ca"
+        },
+        {
+          "type": "verse",
+          "html": "Suvaco c’assa mudu anatimānī"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Santussako ca subharo ca"
+        },
+        {
+          "type": "verse",
+          "html": "Appakicco ca sallahuka-vutti"
+        },
+        {
+          "type": "verse",
+          "html": "Sant’indriyo ca nipako ca"
+        },
+        {
+          "type": "verse",
+          "html": "Appagabbho kulesu ananugiddho"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Na ca khuddaṃ samācare kiñci"
+        },
+        {
+          "type": "verse",
+          "html": "Yena viññū pare upavadeyyuṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Sukhino vā khemino hontu"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbe sattā bhavantu sukhit’attā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Ye keci pāṇa-bhūt’atthi"
+        },
+        {
+          "type": "verse",
+          "html": "Tasā vā thāvarā vā anavasesā"
+        },
+        {
+          "type": "verse",
+          "html": "Dīghā vā ye mahantā vā"
+        },
+        {
+          "type": "verse",
+          "html": "Majjhimā rassakā aṇuka-thūlā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Diṭṭhā vā ye ca adiṭṭhā"
+        },
+        {
+          "type": "verse",
+          "html": "Ye ca dūre vasanti avidūre"
+        },
+        {
+          "type": "verse",
+          "html": "Bhūtā vā sambhavesī vā"
+        },
+        {
+          "type": "verse",
+          "html": "Sabbe sattā bhavantu sukhit’attā"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Na paro paraṃ nikubbetha"
+        },
+        {
+          "type": "verse",
+          "html": "Nātimaññetha katthaci naṃ kiñci"
+        },
+        {
+          "type": "verse",
+          "html": "Byārosanā paṭighasaññā"
+        },
+        {
+          "type": "verse",
+          "html": "Nāññam-aññassa dukkham-iccheyya"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Mātā yathā niyaṃ puttaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Āyusā eka-puttam-anurakkhe"
+        },
+        {
+          "type": "verse",
+          "html": "Evam’pi sabba-bhūtesu"
+        },
+        {
+          "type": "verse",
+          "html": "Mānasam-bhāvaye aparimāṇaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Mettañca sabba-lokasmiṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Mānasam-bhāvaye aparimāṇaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Uddhaṃ adho ca tiriyañca"
+        },
+        {
+          "type": "verse",
+          "html": "Asambādhaṃ averaṃ asapattaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Tiṭṭhañ-caraṃ nisinno vā"
+        },
+        {
+          "type": "verse",
+          "html": "Sayāno vā yāvat’assa vigata-middho"
+        },
+        {
+          "type": "verse",
+          "html": "Etaṃ satiṃ adhiṭṭheyya"
+        },
+        {
+          "type": "verse",
+          "html": "Brahmam-etaṃ vihāraṃ idham-āhu"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Diṭṭhiñca anupagamma"
+        },
+        {
+          "type": "verse",
+          "html": "Sīlavā dassanena sampanno"
+        },
+        {
+          "type": "verse",
+          "html": "Kāmesu vineyya gedhaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Na hi jātu gabbha-seyyaṃ punaretī’ti"
+        }
+      ]
+    }
+  ]
+}

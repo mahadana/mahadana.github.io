@@ -1,0 +1,47 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.3",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Recollection of the Buddha",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ buddhānu꜕ssa꜕ti꜕nayaṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Taṃ kho꜓ pana bha꜕gavantaṃ evaṃ kaly꜓āṇo kitti꜕saddo abbhugga꜕to"
+        },
+        {
+          "type": "verse",
+          "html": "Itipi so bha꜕gavā a꜕rahaṃ sammāsambuddho"
+        },
+        {
+          "type": "verse",
+          "html": "Vijjāca꜕raṇa꜓-sampanno su꜕ga꜕to loka꜕vi꜓dū"
+        },
+        {
+          "type": "verse",
+          "html": "Anu꜓tta꜕ro purisa꜕damma-sārathi satthā deva-ma꜕nussānaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "buddho bha꜕gavā’ti"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 2,
+  "id": "ccb-1.2.1.6",
+  "type": "chant",
+  "lang": "pi",
+  "title": "Supreme Praise of the Dhamma",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "html": "[ Ha꜓nda mayaṃ dhammābhi꜕gī꜕tiṃ karomase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Svākkhā꜓ta꜕t’ādi꜕guṇa-yoga꜕-va꜓sena꜕ seyyo"
+        },
+        {
+          "type": "verse",
+          "html": "Yo magga꜕-pāka-pa꜕riyatti꜕-vi꜓mokkha꜕-bhedo"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammo ku꜕loka-pa꜕ta꜓nā ta꜕da꜓-dhāri꜕-dhārī"
+        },
+        {
+          "type": "verse",
+          "html": "Vandām’aha꜓ṃ ta꜕ma-ha꜕raṃ va꜕ra-dha꜓mma꜕m-etaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammo yo sabba꜕-pāṇīnaṃ sa꜕raṇaṃ khema꜕m-utta꜕maṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Du꜕tiyānussa꜕tiṭṭhānaṃ vandāmi꜕ taṃ si꜓ren’a꜕haṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammassā꜓h’a꜕smi dāso/dāsī va dhammo me sā꜕mi-ki꜓ssaro"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammo dukkhassa꜕ ghātā ca꜕ vidhātā ca꜕ hi꜓tassa꜕ me"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammass’āha꜓ṃ niyyādemi sa꜕rīrañ-jīvi꜕tañ-ci꜕daṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Vandantoha꜓ṃ/Vandantīha꜓ṃ ca꜕rissāmi dhammass’eva꜕ su꜓dhamma꜕taṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Natthi me sa꜕ra꜓ṇaṃ aññaṃ dhammo me sa꜕ra꜓ṇaṃ va꜕raṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Etena sacca꜕-vajjena vaḍḍheyyaṃ sa꜕tthu-sā꜓sane"
+        },
+        {
+          "type": "verse",
+          "html": "Dhammaṃ me vanda꜕mānena/vanda꜕mānāya"
+        },
+        {
+          "type": "verse",
+          "html": "yaṃ puññaṃ pa꜕su꜓taṃ i꜕dha"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕bbepi anta꜕rāyā me māhe꜓su꜓ṃ ta꜕ssa꜓ teja꜕sā"
+        }
+      ]
+    },
+    {
+      "type": "aside",
+      "html": "Bowing"
+    },
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Kāyena vācāya va ceta꜕sā꜓ vā"
+        },
+        {
+          "type": "verse",
+          "html": "Dha꜓mme ku꜕kammaṃ pa꜕kataṃ ma꜕yā yaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Dha꜓mmo pa꜕ṭiggaṇhā꜕tu acca꜕yantaṃ"
+        },
+        {
+          "type": "verse",
+          "html": "Kālantare sa꜓ṃvarituṃ va꜕ dha꜓mme"
+        }
+      ]
+    }
+  ]
+}

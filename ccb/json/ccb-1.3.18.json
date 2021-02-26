@@ -1,0 +1,111 @@
+{
+  "copyright": "Amaravati Buddhist Monastery",
+  "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+  "volume": 1,
+  "part": 3,
+  "id": "ccb-1.3.18",
+  "type": "chant",
+  "lang": "mixed",
+  "title": "Verses on the Burden",
+  "children": [
+    {
+      "type": "group",
+      "children": [
+        {
+          "type": "verse",
+          "leader": true,
+          "lang": "pi",
+          "html": "[ Ha꜓nda mayaṃ bhāra-su꜕tta-gāthā꜓yo bha꜕ṇāmase ]"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Bhārā ha꜕ve pañcakkha꜓ndhā"
+        },
+        {
+          "type": "verse",
+          "html": "bhāra-hāro ca pu꜓gga꜕lo"
+        },
+        {
+          "type": "verse",
+          "html": "Bhā꜕r’ādānaṃ du꜕kkhaṃ loke꜓"
+        },
+        {
+          "type": "verse",
+          "html": "bhāra-nikkhe꜓pa꜕naṃ su꜕khaṃ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "The five aggregates inde꜕ed ar꜕e bu꜕rdens,"
+        },
+        {
+          "type": "verse",
+          "html": "The beast of burden tho꜓ugh i꜕s man."
+        },
+        {
+          "type": "verse",
+          "html": "In this world to ta꜕ke u꜕p bu꜕rde꜕ns i꜕s du꜕kkha."
+        },
+        {
+          "type": "verse",
+          "html": "Putting the꜓m down brings ha꜓ppi꜕ness."
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "pi",
+      "children": [
+        {
+          "type": "verse",
+          "html": "Nikkhipi꜕tvā ga꜕ruṃ bhā꜓raṃ"
+        },
+        {
+          "type": "verse",
+          "html": "aññaṃ bhāraṃ anā꜓di꜕ya"
+        },
+        {
+          "type": "verse",
+          "html": "Sa꜕mūlaṃ taṇhaṃ a꜕bbuyha"
+        },
+        {
+          "type": "verse",
+          "html": "nicchāto pa꜕ri꜕nibbu꜕to"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "lang": "en",
+      "children": [
+        {
+          "type": "verse",
+          "html": "A heavy burden ca꜕st a꜕way,"
+        },
+        {
+          "type": "verse",
+          "html": "Not taking on ano꜓th꜕er load,"
+        },
+        {
+          "type": "verse",
+          "html": "With cravi꜓ng pulled out fro꜕m th꜕e root,"
+        },
+        {
+          "type": "verse",
+          "html": "Desire꜓s stilled, on꜕e i꜕s re꜕leased."
+        }
+      ]
+    }
+  ]
+}
