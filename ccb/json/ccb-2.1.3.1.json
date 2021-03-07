@@ -15,6 +15,7 @@
     },
     {
       "type": "group",
+      "leader": true,
       "children": [
         {
           "type": "verse",
@@ -40,8 +41,7 @@
           "type": "verse",
           "html": "of dukkha."
         }
-      ],
-      "leader": true
+      ]
     },
     {
       "type": "group",

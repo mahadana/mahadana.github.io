@@ -15,6 +15,7 @@
     },
     {
       "type": "group",
+      "leader": true,
       "children": [
         {
           "type": "verse",
@@ -32,8 +33,7 @@
           "type": "verse",
           "html": "The consequence of this practice is total deliverance, so, desirous of bringing this teaching forth with its great benefit, let us now recite this Sutta."
         }
-      ],
-      "leader": true
+      ]
     },
     {
       "type": "group",

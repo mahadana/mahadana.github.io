@@ -15,6 +15,7 @@
     },
     {
       "type": "group",
+      "leader": true,
       "children": [
         {
           "type": "verse",
@@ -30,10 +31,9 @@
         },
         {
           "type": "verse",
-          "html": "Let us chant together this Sutta proclaiming the supreme, independent enlightenment that is widely renowned as ‘The Turning of the Wheel of the Dhamma.’"
+          "html": "Let us chant together this Sutta proclaiming the supreme, independent enlightenment that is widely renowned as ‘The Turning of the Wheel of the Dhamma.’"
         }
-      ],
-      "leader": true
+      ]
     },
     {
       "type": "group",
